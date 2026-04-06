@@ -108,7 +108,7 @@ def enhance_documents(documents: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     
     enhanced = []
     for page_title, page_docs in pages.items():
-        current_trait = "Minion"  # default
+        current_trait = "Fighter"  # default
         for doc in page_docs:
             doc_copy = doc.copy()
             doc_type = classify_document(doc)
@@ -121,8 +121,10 @@ def enhance_documents(documents: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
             section_lower = doc["section_title"].lower()
             if section_lower in ["heroes", "hero"]:
                 current_trait = "Hero"
-            elif section_lower in ["fighters", "fighter", "monsters", "monster"]:
-                current_trait = "Minion"
+            elif section_lower in ["fighters", "fighter"]:
+                current_trait = "Fighter"
+            elif section_lower in ["monsters", "monster"]:
+                current_trait = "Monster"
 
             if doc_type == "fighter_profile":
                 fighter_stats = parse_fighter_stats(doc["content"], doc.get("section_title", ""), doc.get("page_title", ""))
@@ -199,7 +201,7 @@ def write_text(chat_path: Path, documents: List[Dict[str, Any]]) -> None:
 
             if doc_type == "fighter_profile" and "fighter_stats" in doc:
                 stats = doc["fighter_stats"]
-                output_lines.append(f"Role: {stats.get('role', 'Minion')}")
+                output_lines.append(f"Role: {stats.get('role', 'Fighter')}")
                 output_lines.append(f"Points: {stats.get('points', 'N/A')}")
                 output_lines.append(f"Faction: {stats.get('faction', 'N/A')}")
                 output_lines.append(f"Move: {stats.get('move', 'N/A')}")
@@ -241,10 +243,20 @@ def main() -> None:
     enhanced_documents = enhance_documents(documents)
     print(f"Enhanced {len(enhanced_documents)} documents with types and stats")
 
-    # Write Markdown
+    # Write Markdown format (both .txt and .md)
     chat_path = Path(args.chat_ready)
     write_markdown(chat_path, enhanced_documents)
     print(f"Wrote Markdown format to {chat_path}")
+    
+    # Also output as .md file
+    md_path = Path(str(chat_path).replace(".txt", ".md"))
+    write_markdown(md_path, enhanced_documents)
+    print(f"Wrote Markdown format to {md_path}")
+    
+    # Write text format
+    text_path = Path(str(chat_path).replace(".txt", "_text.txt"))
+    write_text(text_path, enhanced_documents)
+    print(f"Wrote text format to {text_path}")
 
     print("Done!")
 
