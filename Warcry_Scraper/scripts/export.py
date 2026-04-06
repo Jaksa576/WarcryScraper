@@ -204,11 +204,40 @@ def write_markdown(chat_path: Path, documents: List[Dict[str, Any]]) -> None:
     chat_path.write_text("\n".join(output_lines).rstrip() + "\n", encoding="utf-8")
 
 
+def _is_campaign_content(doc: Dict[str, Any]) -> bool:
+    """Check if a document is campaign-related content by keyword matching.
+    
+    Returns True if section_title or content contains campaign keywords:
+    encampment, aftermath, quest, artefact, injury, glory, renown, campaign
+    """
+    section_title = doc.get("section_title", "").lower()
+    content = doc.get("content", "").lower()
+    
+    campaign_keywords = ["encampment", "aftermath", "quest", "artefact", "injury", "glory", "renown", "campaign"]
+    
+    for keyword in campaign_keywords:
+        if keyword in section_title or keyword in content:
+            return True
+    
+    return False
+
+
+def _is_release_content(doc: Dict[str, Any]) -> bool:
+    """Check if a document is from the Warcry Releases page.
+    
+    Returns True if page_title indicates this is release history content.
+    """
+    page_title = doc.get("page_title", "").lower()
+    return "warcry releases" in page_title
+
+
 def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> List[str]:
     """Write documents split into multiple files by type and faction.
     
     Routes documents to:
-    - output/warcry_rules.md for type "rule", "misc", or "battleplan"
+    - output/warcry_rules.md for core gameplay rules, battleplans, and misc content
+    - output/warcry_campaign.md for campaign-related content
+    - output/warcry_releases.md for version release history
     - output/warcry_abilities.md for type "ability"
     - output/factions/<faction_slug>.md for type "fighter_profile"
     
@@ -220,7 +249,9 @@ def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> L
     factions_dir.mkdir(parents=True, exist_ok=True)
     
     # Organize documents by output file
-    rules_docs = []  # misc, rule, battleplan
+    core_rules_docs = []  # core gameplay rules
+    campaign_docs = []  # campaign-related content
+    release_docs = []  # release history
     abilities_docs = []  # ability
     faction_docs = defaultdict(list)  # fighter_profile grouped by faction slug
     
@@ -230,7 +261,13 @@ def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> L
         if doc_type == "skip":
             continue
         elif doc_type in ["misc", "rule", "battleplan"]:
-            rules_docs.append(doc)
+            # Further split misc/rule/battleplan into core rules, campaign, and releases
+            if _is_release_content(doc):
+                release_docs.append(doc)
+            elif _is_campaign_content(doc):
+                campaign_docs.append(doc)
+            else:
+                core_rules_docs.append(doc)
         elif doc_type == "ability":
             abilities_docs.append(doc)
         elif doc_type == "fighter_profile" and "fighter_stats" in doc:
@@ -240,11 +277,23 @@ def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> L
     
     written_files = []
     
-    # Write rules file
-    if rules_docs:
+    # Write core rules file
+    if core_rules_docs:
         rules_path = output_dir / "warcry_rules.md"
-        _write_markdown_file(rules_path, rules_docs, "Warcry Rules")
+        _write_markdown_file(rules_path, core_rules_docs, "Warcry Rules")
         written_files.append(str(rules_path.relative_to(output_dir.parent)))
+    
+    # Write campaign file
+    if campaign_docs:
+        campaign_path = output_dir / "warcry_campaign.md"
+        _write_markdown_file(campaign_path, campaign_docs, "Warcry Campaign")
+        written_files.append(str(campaign_path.relative_to(output_dir.parent)))
+    
+    # Write releases file
+    if release_docs:
+        releases_path = output_dir / "warcry_releases.md"
+        _write_markdown_file(releases_path, release_docs, "Warcry Releases")
+        written_files.append(str(releases_path.relative_to(output_dir.parent)))
     
     # Write abilities file
     if abilities_docs:
