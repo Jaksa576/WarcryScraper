@@ -34,6 +34,10 @@ Some Coalition of Death team battles and Triumph & Treachery free-for-alls may h
 
 ## Running a Warcry Tournament
 
+### Tournament Roster
+**Type:** misc
+For the duration of a tournament, players are not allowed to change their warband from battle to battle, including how their fighters are organised into battle groups. For a player to win the tournament, they will need to pick a warband that can triumph against any opponent! Before attending the tournament, each player prepares a 1000-point warband following the core rules. They also separate their warband into a Dagger, Shield and Hammer following the core rules, and note down on their tournament roster which fighters are in each of these battle groups. This is set for the duration of the tournament, so players cannot alter their warband or groupings from battle to battle.
+---
 ### Tournament Victory Points
 **Type:** misc
 During the tournament, each player will earn tournament victory points based on how their warband fared in the battle. At the end of the tournament, the player with the most tournament victory points is crowned the winner. Players earn tournament victory points as shown below: Result Points Allocated Major Victory: Won the battle and less than half of the fighters in your warband were taken down20 points Minor Victory: Won the battle but half or more of the fighters in your warband were taken down15 points Draw: Drew the battle10 points Minor Loss: Lost the battle but half or more of the fighters in your opponent's warband were taken down5 points Major Loss: Lost the battle and Jess than half of the fighters in your opponent's warband were taken down0 points Optional: Completed your tournament quest (see below)1 additional point
@@ -65,17 +69,6 @@ At the end of the battle, you complete this tournament quest if 1 or more friend
 ### Quest: Blunt
 **Type:** misc
 At the end of the battle, you complete this tournament quest if your opponent's warband has had half or more of its fighters taken down, but your warband has had less than half of its fighters taken down.
----
-
-## Getting Started
-
-### Bespoke (made for Warcry)
-**Type:** misc
-Bespoke warbands are designed to be ready-to-play out of the box (although you may want to augment them once you play more). There are two bespoke warbands in any of the big Warcry boxes (the ones that come with terrain), and they can also be bought individually. Warcry has had two editions, and while the rules are largely the same, the points/stats are slightly different. The updated fighter profiles for the warbands are listed here on Warcrier. While a bespoke warband may be of a particular faction in Age of Sigmar, it is treated as a separate faction in Warcry. For example, Kruleboyz Monsta-killaz are a different faction to Kruleboyz. Warcry v1 boxes (red and black 'chaos' themed): Warcry Starter Set (Iron Golems vs Untamed Beasts), Red Harvest, Catacombs. Warcry v2 boxes (brown 'Ghur' themed): Heart of Ghur, Sundered Fate, Bloodhunt, Nightmare Quest. View a complete list of the bespoke warbands.
----
-### What about the Warcry: Crypt of Blood Starter Set?
-**Type:** misc
-The Crypt of Blood Starter set has a great set of starting battles that help you learn the game. However, the models it contains are about half the size of a warband each, so you would need to buy more models for each of the two factions included. Xandire's Truthseekers are part of Stormcast Eternals Thunderstrike Stormcasts. You could expand this warband by buying more Thunderstrike Stormcasts. These are available in the various Age of Sigmar starter boxes, and are often part of magazine subscriptions such as Stormbringer. The Crimson Court are part of Soulblight Gravelords. Any of the Soulblight gravelord unit could bolster their numbers, such as a unit of skeletons or zombies. You could also increase their numbers by buying another Underworlds warband such as The Sepulchral Guard. Finally, all of the enemies of Warhammer Quest: Cursed City are Soulblight models, so you could use those as well.
 ---
 
 ## Narrative Play
@@ -120,6 +113,10 @@ Updates Matched Play Update 05/11/25 Points changes: Fortitude (+5/+5) Ferocity 
 ### The Underdog
 **Type:** misc
 When fighting a campaign battle, before the battle begins, both players compare the reputation of their warbands. If 1 warband has a greater reputation than the other, the warband with the lesser reputation is the underdog for that battle. When a warband faces an opponent with a formidable reputation, they will likely seek to call in favours and draw upon any special resources they have available to even the odds. To represent this, the underdog gains the following bonus: info The Underdog Bonus The underdog receives 1 additional wild dice in the initiative phase of the first battle round. If their opponent's reputation is greater by 5 or more, the underdog receives 2 wild dice instead. If it is greater by 10 or more, they receive 3 wild dice instead. In addition to this bonus, the underdog will gain extra glory as detailed in the aftermath sequence.
+---
+### The Underdog Bonus
+**Type:** misc
+The underdog receives 1 additional wild dice in the initiative phase of the first battle round. If their opponent's reputation is greater by 5 or more, the underdog receives 2 wild dice instead. If it is greater by 10 or more, they receive 3 wild dice instead.
 ---
 ### Fleeing The Battle
 **Type:** misc
@@ -260,6 +257,10 @@ You can remove any fighters from your warband roster if you wish. If you remove 
 **Type:** misc
 Fighter's Points Value Glory Cost0-50151-1002101-1503151-2004201-2505251-3006301-3507351+8
 ---
+### Warband Roster Limits
+**Type:** misc
+There are limits on the number of fighters and fighters of a certain type that you can add to your warband roster, as shown on the table below. Type of Fighter Maximum Number Fighter20 Hero/Ally3 (in total)Monster1
+---
 ### Sub-Step 4: Managing Artefacts
 **Type:** misc
 You can swap around the artefacts borne by the fighters in your warband. Remember, a fighter can only bear 1 artefact at a time (either an artefact of power or a lesser artefact). You can choose to discard any artefacts too. For each artefact of power you discard, you gain 2 D6 glory (it is presumed your warband sells it to an ally). Discarding lesser artefacts does not gain you any glory.
@@ -287,6 +288,28 @@ While your warband's encampment is compromised, the following rules apply: The l
 ### Relocating With Haste!
 **Type:** misc
 Once your warband's encampment is compromised, finding a new location for it to move to is an urgent priority! For this reason, when your encampment becomes compromised, you can choose for your warband to immediately give up their current quest and instead embark upon the 'Explore the Gnarlwood' quest.
+---
+
+## Lord of the Tower
+
+### Terrain
+**Type:** misc
+Before the terrain is set up, the players should first agree on a terrain feature to use as the tower. The tower can be represented by any terrain feature that has platforms. The larger the tower, and the higher its highest platform, the more exciting the battle will be. Set up the tower in the centre of the battlefield, then set up terrain as normal, ignoring any terrain that would be set up where the tower is.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below.
+---
+### Victory
+**Type:** misc
+The battle ends after 3 battle rounds. When the battle ends, locate the highest fighter on the tower. THat fighter's player wins the battle. If more than one fighter is tried to be the highest on the tower, the player who has the most tied fighters wins the battle. If there is still a tie, remove all fighters that are lower than the tied fighters, fight another battle round, then check the victory condition again. Repeat this process if need be until there is a winner.
+---
+### Twist
+**Type:** misc
+Generate a twist as normal.
+---
+### Deployment Map
+**Type:** misc
 ---
 
 ## Twists
@@ -321,6 +344,30 @@ In this campaign arc, one warband has secured a Ven Talax map that tells of a tr
 **Type:** misc
 In this campaign arc, the shifting canopy of the Gnarlwood has opened a path to a long-lost valley rumoured to hold a shard of Talaxis, the crashed Seraphon temple-ship. 4 players 4 battles each Ends in a climatic battle involving all the warbands. Your rivals aren't the only threat, however, as you'll come face to face with the savage Seraphon that fiercely guard these grounds too!
 ---
+### The War of Rot and Ruin
+**Type:** misc
+Source: Rot and Ruin (out of print) 2 players: Rotmire Creed vs Horns of Hashut 3 battles
+---
+### The Fell Alliance
+**Type:** misc
+Source: Rot and Ruin (out of print) 4-6 Players, divided into 2 teams 3 battles Ends in a climatic battle involving all the warbands.
+---
+### The War of Stealth and Stone
+**Type:** misc
+Source: Stealth and Stone/Sundered Fate (out of print) 2 players: Jade Obelisk vs Hunters of Huanchi 3 battles
+---
+### The Trail of Fire
+**Type:** misc
+Source: Stealth and Stone/Sundered Fate (out of print) 4-6 players, divided into 2 teams 3 battles Ends in a climatic battle involving all the warbands.
+---
+### The War of Blood and Butchery
+**Type:** misc
+Source: Predators and Prey/Bloodhunt (out of print) 2 players: Claws of Karanak vs Askurgan Trueblades 3 battles
+---
+### Primal Strongholds
+**Type:** misc
+Source: Predators and Prey/Bloodhunt (out of print) In the first 4 battles, each player will defend their fortress twice, and launch two assaults on rival strongholds. In the final battle, the most successful defender(s) will have constructed a formidable stronghold, which their rivals will assault in a Triumph & Treachery battle fought between all the players. 4 players 5 battles
+---
 ### Realmshaper Wars
 **Type:** misc
 Source: Might and Madness/Nightmare Quest (out of print) 2 players: Questor Soulsworn vs Royal Beastflayers 3 battles
@@ -332,9 +379,40 @@ Source: Might and Madness/Nightmare Quest (out of print) 4-6 players, divided in
 
 ## Creating A Warband Roster
 
+### Step 1 - Choose Your Faction And Fighters
+**Type:** misc
+The first step is to choose a faction for your warband and note it down on your warband roster. You can find a list of the different factions in Warcry and their faction runemark in the Warbands section. Once you have chosen your warband's faction, you can start adding fighters to your warband roster. When doing so, you must follow these restrictions: You must add at least 3 fighters and no more than 15. All fighters you add to your warband roster must have the faction runemark of your warband (allies, thralls and monsters cannot be added at this stage). There must be l, and only l, fighter with the Hero runemark (Hero). This fighter is your leader. The total points cost of the fighters added cannot exceed 1000 points.
+---
 ### Step 2-Pick Your Leader's Heroic Trait
 **Type:** misc
 Once you have finished adding fighters to your warband roster, the next step is to pick 1 heroic trait for your leader from the table below. Your leader also starts with 1 level of renown: note this on your warband roster too. You will find the rules for levels of renown and heroic traits later in this section.
+---
+### Heroic Traits
+**Type:** misc
+---
+### Ferocious Combatant
+**Type:** misc
+As battle is joined, this warrior rains a flurry of blows upon any foe in their path. Add 1 to the Attacks characteristic of melee attack actions made by this fighter.
+---
+### Agile Warrior
+**Type:** misc
+With heightened reflexes and a swift pace, this fighter can race across the battlefield. Add 1 to the Move characteristic of this fighter.
+---
+### Hardy Constitution
+**Type:** misc
+This warrior draws upon reserves of strength to stand defiant in the face of the enemy. Each time this fighter activates, you can remove D3 damage points allocated to them (including when they are activated for a second time after waiting).
+---
+### Resourceful
+**Type:** misc
+With a keen mind, this quick-thinking warrior can help turn the tide of battle. If this fighter is included in your warband, you gain 1 additional wild dice at the start of the battle.
+---
+### Thick-skinned
+**Type:** misc
+This hardy fighter shrugs off wounds that would lay low most warriors. Each time an attack action scores any critical hits on this fighter, 1 of those critical hits becomes a hit instead.
+---
+### Skilled Commander
+**Type:** misc
+The warriors of this warband look to this fighter to lead them in battle. Once per battle, this fighter can use the 'Inspiring Presence' ability without needing or using any ability dice.
 ---
 ### Step 3 - Choose Your First Quest
 **Type:** misc
@@ -430,17 +508,105 @@ Disarmed, the foe has no recourse but surrender. A player wins the battle as soo
 
 ## Warcry Rumble Pack
 
+### Games
+**Type:** misc
+Each player plays three games, each lasting up to one hour. Everyone's first opponent will be randomly allocated, and after that, each player is matched against an opponent on a similar tournament score. Once a game is done, ask your players to fill in a results card and hand it in to event staff.
+---
+### Results
+**Type:** misc
+After each game, players need to report the result of the game, as either a win, a draw or a loss for each player. These results will determine how many Tournament points each player gains over the course of the tournament, which will determine final ranking at the end of the event. In addition, players also need to report their total victory points and kill point total after each game, which are used as secondary scores to differentiate between players with an identical Tournament point total. Win = 5 Tournament points Draw = 3 Tournament points Loss = 1 Tournament point The first tie-breaker after Tournament points will be victory points, which are scored during games. Ask players to report their total victory points along with their game result. The final tie-breaker will be a kill point total. At the end of each game, ask players to record the total points value of enemy fighters that are taken down. This total is their kill point total.
+---
 ### Battleplans
 **Type:** misc
 Loot And Pillage Victory Condition A cache of useful supplies sits abandoned by its absent owners, piled high and yours for the taking. Any moral reservations in so doing must be put aside, for in the Gnarlwood, every resource must be exploited.Before the battle, 3 objectives are placed on the battlefield floor as shown on the deployment map. A fighter within 1" of an objective can loot that objective as an action. If they do, that fighter is now carrying treasure and cannot use an action to drop that treasure. If a fighter that cannot carry treasure loots an objective, that fighter immediately drops that treasure as a bonus action. After a second loot action is made within 1" of an objective, remove that objective from the battlefield.The battle ends after 4 battle rounds. When the battle ends, each player scores 2 victory points for each friendly fighter that is carrying treasure. The player with the most victory points wins the battle. Any other result is a draw.Deployment Map Spoils of War Victory Condition Mysterious nodes rife with minerals to be mined or magical resources to be harvested are a worthy boon. Take carefully what you can, but if you must tear apart a node to claim what you need, then so be it!Before the battle, 4 objectives are placed on the battlefield floor as shown on the deployment map. At the end of each battle round, the players score 1 victory point for each objective they control. If a player controls an objective, a friendly fighter within 3" of that objective can raze that objective as an action. If they do so, that player scores 2 victory points and removes that objective from the battlefield.The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw Deployment Map Seize and Control Victory Condition This land is ripe for conquest. Take it all, and leave nothing for petulant weaklings who have not the strength to protect what they lay claim to.At the end of each battle round, the players score 1 victory point for each objective they control. If a player holds all four objectives shown on the deployment map, they instead score 10 victory points.The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw.Deployment Map Power Struggle Victory Condition Places of power have existed since the dawn of the Mortal Realms. Several have manifested here, and you must seek them out to claim their power as your own.Before the battle, 4 objectives are placed on the battlefield floor as shown on the deployment map. At the end of each battle round, players score a number of victory points equal to the number of the current battle round for each objective shown on the deployment map that they control.The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw.Deployment Map Supremacy Victory Condition Enemy warlords seek to control the battlefield.Before the battle, 6 objectives are placed on the battlefield floor as shown on the deployment map. At the end of each battle round, players score 2 victory points for each of the following that is true: You hold 2 or more objectives. You hold 3 or more objectives. You hold more objectives than your opponent. The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw.* Before the initiative phase of battle round 2 or 3, you can choose for your Hammer battle group to arrive in that battle round's reserve phase.Deployment Map Tides of Battle Victory Condition As the realm of Ghur shifts and groans in a tectonic upheaval, the flow of battle can change rapidly.Before the battle, 6 objectives are placed on the battlefield floor as shown on the deployment map. After each initiative phase, the player who does not have the initiative picks 1 objective to be the primary objective in that battle round. Each other objective is a secondary objective.At the end of each battle round, players score 1 victory point for each secondary objective they control and 2 victory points if they control the primary objective.The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw.Deployment Map
+---
+### Loot And Pillage
+**Type:** misc
+---
+### Victory Condition
+**Type:** misc
+A cache of useful supplies sits abandoned by its absent owners, piled high and yours for the taking. Any moral reservations in so doing must be put aside, for in the Gnarlwood, every resource must be exploited. Before the battle, 3 objectives are placed on the battlefield floor as shown on the deployment map. A fighter within 1" of an objective can loot that objective as an action. If they do, that fighter is now carrying treasure and cannot use an action to drop that treasure. If a fighter that cannot carry treasure loots an objective, that fighter immediately drops that treasure as a bonus action. After a second loot action is made within 1" of an objective, remove that objective from the battlefield. The battle ends after 4 battle rounds. When the battle ends, each player scores 2 victory points for each friendly fighter that is carrying treasure. The player with the most victory points wins the battle. Any other result is a draw.
+---
+### Deployment Map
+**Type:** misc
+---
+### Spoils of War
+**Type:** misc
+---
+### Victory Condition
+**Type:** misc
+Mysterious nodes rife with minerals to be mined or magical resources to be harvested are a worthy boon. Take carefully what you can, but if you must tear apart a node to claim what you need, then so be it! Before the battle, 4 objectives are placed on the battlefield floor as shown on the deployment map. At the end of each battle round, the players score 1 victory point for each objective they control. If a player controls an objective, a friendly fighter within 3" of that objective can raze that objective as an action. If they do so, that player scores 2 victory points and removes that objective from the battlefield. The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw
+---
+### Deployment Map
+**Type:** misc
+---
+### Seize and Control
+**Type:** misc
 ---
 ### Victory Condition
 **Type:** misc
 This land is ripe for conquest. Take it all, and leave nothing for petulant weaklings who have not the strength to protect what they lay claim to. At the end of each battle round, the players score 1 victory point for each objective they control. If a player holds all four objectives shown on the deployment map, they instead score 10 victory points. The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw.
 ---
+### Deployment Map
+**Type:** misc
+---
+### Power Struggle
+**Type:** misc
+---
+### Victory Condition
+**Type:** misc
+Places of power have existed since the dawn of the Mortal Realms. Several have manifested here, and you must seek them out to claim their power as your own. Before the battle, 4 objectives are placed on the battlefield floor as shown on the deployment map. At the end of each battle round, players score a number of victory points equal to the number of the current battle round for each objective shown on the deployment map that they control. The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw.
+---
+### Deployment Map
+**Type:** misc
+---
+### Supremacy
+**Type:** misc
+---
+### Victory Condition
+**Type:** misc
+Enemy warlords seek to control the battlefield. Before the battle, 6 objectives are placed on the battlefield floor as shown on the deployment map. At the end of each battle round, players score 2 victory points for each of the following that is true: You hold 2 or more objectives. You hold 3 or more objectives. You hold more objectives than your opponent. The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw. * Before the initiative phase of battle round 2 or 3, you can choose for your Hammer battle group to arrive in that battle round's reserve phase.
+---
+### Deployment Map
+**Type:** misc
+---
+### Tides of Battle
+**Type:** misc
+---
+### Victory Condition
+**Type:** misc
+As the realm of Ghur shifts and groans in a tectonic upheaval, the flow of battle can change rapidly. Before the battle, 6 objectives are placed on the battlefield floor as shown on the deployment map. After each initiative phase, the player who does not have the initiative picks 1 objective to be the primary objective in that battle round. Each other objective is a secondary objective. At the end of each battle round, players score 1 victory point for each secondary objective they control and 2 victory points if they control the primary objective. The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle. Any other result is a draw.
+---
+### Deployment Map
+**Type:** misc
+---
 ### Sidequests
 **Type:** misc
 After determining which matched battleplan will be used, the organiser will roll a dice to generate a sidequest from those listed below for that battle. Sidequests are ways of scoring victory points in addition to the victory condition of that matched battleplan and will greatly help determine who wins the battle.
+---
+### 1 - Strong-Arm The Competition
+**Type:** misc
+Only the strongest will prosper in the Gnarlwood. At the end of each battle round, each player totals the Wounds characteristics of the fighters in their warband that are within 3" of the centre of the battlefield. The player with the highest total scores 3 victory points.
+---
+### 2 - Run Interference
+**Type:** misc
+Under the right lens, failure of the enemy can be counted as a success for your forces. At the end of each battle round, score 3 victory points if your warband controls an objective your opponent controlled at the start of that battle round or one or more enemy fighters dropped one or more treasure tokens during that battle round.
+---
+### 3 - Stolen Wares
+**Type:** misc
+Few things in life are better than a pile of treasure just waiting to be appropriated. After the first initiative phase, starting with the player that does not have the initiative, players alternate placing treasure tokens until 3 treasure tokens have been placed. Each treasure token must be placed on the battlefield floor, within 3" of the centre of the battlefield, and more than 2" from each other treasure token. When the battle ends, each player scores 2 victory points for each friendly fighter that is carrying treasure (in addition to any victory points awarded by the battleplan).
+---
+### 4 - Predator And Prey
+**Type:** misc
+A curse hangs heavy over this battlefield, causing some warriors to become feral and skittish, whilst simultaneously making their enemies fixate on the afflicted fighters to the near exclusion of all else. After each initiative phase, starting with the player who has the initiative, each player picks 1 enemy fighter. At the end of that battle round, if that enemy fighter is taken down, is within 3" of an objective, or is carrying treasure, the player that picked that fighter scores 2 victory points.
+---
+### 5 - Conquering The Land
+**Type:** misc
+Taming Ghur is all but impossible but in the name of the gods it is your duty to try! At the end of each battle round, score 1 victory point for each quarter of the battlefield that has 1 or more friendly fighters wholly within it.
+---
+### 6 - An Early Grave
+**Type:** misc
+The enemy are led by a fell champion. Act quickly and deliver their demise! At the end of each battle round, score x victory points if an enemy leader was taken down in that battle round. Subtract the battle round number from 6 to determine x.
 ---
 
 ## Coalition of Death: Team Battles
@@ -537,6 +703,10 @@ Askurgan Trueblades Relics of the Immortal Order Hone Your Crimson Craft Hunt a 
 **Type:** rule
 Foraging in the Gnarlwood can lead you to discover the most wonderful treasures. It is, however, extremely dangerous. Pick 1 friendly fighter to go foraging. Roll a D66 to randomly generate a lesser artefact from the Gnarlwood Lesser Artefacts table. That fighter is now the bearer of that artefact. After the battle, the artefact is lost. If the D66 roll was a double (33, 44, 55, etc.) and the foraging fighter does not have the Scout (Scout) runemark, allocate a number of damage points to the foraging fighter equal to the first digit of the double. For example, a roll of 33 would mean 3 points of damage is allocated to the foraging fighter.
 ---
+### Wrangle a Beast
+**Type:** rule
+For those with the ability to trap and tame them, the Gnarlwood is packed to the gills with vicious beasts. If they can be controlled, even just for a time, a valuable asset can be gained for this battle. Pick 1 friendly fighter on the battlefield and 1 fighter with a Wounds characteristic of 10 or less that is not in your warband and that has the Thrall (Thrall) runemark. Set up the thrall on the battlefield within 3" of the friendly fighter you picked. The thrall is considered to be part of your warband until the end of this battle. The thrall does not have to have the same Grand Alliance runemark as your warband, and during this battle, it cannot use abilities. Then, if the friendly fighter you picked does not have the Trapper (Trapper) runemark, roll a dice and allocate a number of damage points equal to the roll to both fighters. After the battle, the thrall either escapes or is put down; it is not added to your warband roster.
+---
 ### The Aftermath Sequence
 **Type:** rule
 The attacker receives the following bonus in the aftermath sequence: Renown to be Earned: The attacker adds 1 to each renown roll they make in the aftermath sequence.
@@ -611,6 +781,10 @@ Gift Ferrium Plate Forged in the infernal fires of Axranathos by the weaponsmith
 **Type:** misc
 To gain the favour of the Dark Gods, you must cast down your enemies in battle with brutal displays of violence. Pick a fighter with the Hero runemark (Hero) in your warband that can gain a heroic trait and note them in your quest log. While embarked upon this quest, in step 4 of a campaign battle's aftermath sequence, you can complete this quest if an enemy fighter with the Hero runemark (Hero) was taken down in that battle by an attack action made or ability used by the fighter noted in your quest log. When you complete this quest, you can give that fighter one of the heroic traits from the Chaos Heroic Traits below.
 ---
+### Chaos Heroic Traits
+**Type:** misc
+Chaos Heroic Traits Merciless Killer Bloodshed alone is enough to satisfy this deadly warrior. Once per battle, this fighter can use this heroic trait to make a bonus attack action.Sharpened Teeth This warrior has filed their teeth to points, so that they might tear chunks out of their foes and taste their hot blood. After each melee attack action made by this fighter that targets an enemy fighter within 1" of them, if that enemy fighter was not taken down, allocate D3 damage points to that enemy fighter.Unnatural Vitality Like a gnarled and twisted oak that will not fall, this champion stands inviolate against the enemy's pathetic blows. Add 5 to the Wounds characteristic of this fighter.Master of Dark Rituals The profane acts performed by this champion ensure that the power of Chaos clings to them like an unholy shroud. Each time an enemy fighter is taken down by an attack action made or ability used by this fighter, you gain 1 additional wild dice that can be used in the initiative phase of the next battle round.Eternal Blood lust This warrior craves the constant thrill of battle and the smell of blood in the air. Once per battle, this fighter can use this heroic trait to make a bonus move action, but they must finish that move action within 1" of an enemy fighter.Strength in Slaughter As this warrior's enemies fall, they feel themselves invigorated with sinister energies. Each time an enemy fighter is taken down by an attack action made or ability used by this fighter, you can remove D3 damage points allocated to this fighter.
+---
 ### Desecrate the Land
 **Type:** misc
 The gods whisper in your ear. If you can stain the land with enough blood, a fell ritual can be performed to blight the earth and bring the chaotic energies of the Realm of Chaos to bear within the Ravening Ruin itself. While embarked upon this quest, you must keep track of the blood spilled by your warband with a blood score. In each campaign battle, add 1 to your blood score for each enemy fighter taken down by a fighter from your warband. While your blood score totals 8 or more, you can fight battles using the 'Fell Ritual' quest battleplan. If you do so and you win the battle, in step 4 of the aftermath sequence, you can complete this quest. If you do so, in step 5, you can relocate your warband's encampment to a 'Chaotic Nexus' (see below) and do not need to spend any glory to do so. Battleplan Quest Battleplan: Fell Ritual In the name of your dark patrons, you have felled many foes and let their blood trickle down into the soil of these grounds. Now it is time to summon the warping tendrils of Chaos into this land and desecrate it. The day of your fell ritual is nigh; let not your enemies oppose you, and make them your sacrifice instead!Attacker and Defender In this battle, the questing player is the defender and the adversary player is the attacker.Terrain Set up terrain as normal.Deployment Use the deployment map below. The defender is blue and the attacker is red.Victory Before the battle, the defender places 3 objectives on the battlefield, each more than 9" from all over objectives and more than 3" from the battlefield edge. The defender then picks 1 objective to be the primary ritual site. The other 2 objectives are secondary ritual sites.At the end of each battle round, the defender scores D6 ritual points if they control the primary ritual site and D3 ritual points for each secondary ritual site they control. Then, the defender loses D3 ritual points for each ritual site controlled by the attacker (to a minimum of 0).The battle ends after 4 battle rounds. If the defender has 16 or more ritual points, they win the battle. Otherwise, the attacker wins.Twist Determine a twist as normal.The Aftermath Sequence The adversary player receives the following bonus in the aftermath sequence:Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -622,6 +796,22 @@ In the name of your dark patrons, you have felled many foes and let their blood 
 ### Attacker and Defender
 **Type:** misc
 In this battle, the questing player is the defender and the adversary player is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+Before the battle, the defender places 3 objectives on the battlefield, each more than 9" from all over objectives and more than 3" from the battlefield edge. The defender then picks 1 objective to be the primary ritual site. The other 2 objectives are secondary ritual sites. At the end of each battle round, the defender scores D6 ritual points if they control the primary ritual site and D3 ritual points for each secondary ritual site they control. Then, the defender loses D3 ritual points for each ritual site controlled by the attacker (to a minimum of 0). The battle ends after 4 battle rounds. If the defender has 16 or more ritual points, they win the battle. Otherwise, the attacker wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -650,6 +840,10 @@ D6 Treasure1 Jade Ring: Inset with a gem of Ghyranite cyclestone, this ring boos
 **Type:** misc
 The saga of a warrior is told through their deeds and triumphs. A member of your warband is on the cusp of glory; let them prove themselves in the fires of battle. Pick a fighter with the Hero runemark (Hero) in your warband that can gain a heroic trait and note them in your quest log. While embarked upon this quest, in step 4 of a campaign battle's aftermath sequence, you can complete this quest if an enemy fighter with the Hero runemark (Hero) was taken down in that battle by an attack action made or ability used by the fighter noted in your quest log. When you complete this quest, you can give that fighter one of the heroic traits from the Universal Heroic Traits below.
 ---
+### Universal Heroic Traits
+**Type:** misc
+Universal Heroic Traits Ferocious Combatant As battle is joined, this warrior rains a flurry of blows upon any foe in their path. Add 1 to the Attacks characteristic of melee attack actions made by this fighter.Agile Warrior With heightened reflexes and a swift pace, this fighter can race across the battlefield. Add 1 to the Move characteristic of this fighter.Hardy Constitution This warrior draws upon reserves of strength to stand defiant in the face of the enemy. Each time this fighter activates, you can remove D3 damage points allocated to them (including when they are activated for a second time after waiting).Resourceful With a keen mind, this quick-thinking warrior can help turn the tide of battle. If this fighter is included in your warband, you gain 1 additional wild dice at the start of the battle.Thick-skinned This hardy fighter shrugs off wounds that would lay low most warriors. Each time an attack action scores any critical hits on this fighter, 1 of those critical hits becomes a hit instead.Skilled Commander The warriors of this warband look to this fighter to lead them in battle.Once per battle, this fighter can use the 'Inspiring Presence' ability without needing or using any ability dice.
+---
 ### Secure a Powerful Ally
 **Type:** misc
 To attract powerful warriors to your cause, you must demonstrate your prowess in battle or somehow convince them to join you. You can complete this quest in step 4 of a campaign battle's aftermath sequence if your warband won that battle or by spending 5 glory. When you complete this quest, you can add 1 ally, thrall or fighter with the Hero runemark (Hero) to your warband roster (you must still spend the glory required to do so).
@@ -677,6 +871,22 @@ In this battle, the adversary player does not use their warband. Instead, they c
 ### Attacker and Defender
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Draw 3 deployment maps. The attacker picks 1 of these to use, and chooses who is red and who is blue. The attacker sets up all their battle groups first. The defender then picks 1 of their deployment points and sets up the monster. They cannot pick a reserve deployment point.
+---
+### Victory
+**Type:** misc
+If the monster is taken down, the attacker wins the battle. Otherwise, at the end of the sixth battle round, the battle ends and the defender wins the battle.
+---
+### Twist
+**Type:** misc
+The following 2 twists are used: Delayed Reinforcements: In the reserve phase, before the attacker sets up a reserve battle group on the battlefield, they must roll a dice for each fighter in the battle group. One a 1-3, the fighter being rolled for will arrive in the reserve phase of the next battle round instead of this one. Wild Temperament: At the start of each battle round, D6 damage points are removed from the defender's monster.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -712,6 +922,21 @@ In the aftermath sequence, the following rules apply to Bladeborn fighters. Do n
 The rules on this page allow you to add the characters and personalities from the Warhammer Underworlds game into your games of Warcry. If you are playing in a gaming group against like-minded players, you may wish to use these fighter cards to represent archetypes for heroes and villains of your own creation instead of the specific characters. If your opponents agree to using the Archetypes rule, you can forgo the extra rules for Bladeborn fighters (such as being limited to 1 on a roster and not being subject to injury rolls), and instead treat them like any other fighter card in your faction. When you do so, you should come up with an appropriate name for the fighter card. For example, you could use the Sarrakkar Blackwing fighter card from the Gnarlspirit Pack to represent a 'Gnarlspirit Shaman' from the Slaves to Darkness faction, or the Sir Jedran Falseborn fighter card from the Sons of Ve'morn as a 'Deathrattle Sentinel' from the Soulblight Gravelords faction.
 ---
 
+## Ogor Mawtribes Background Tables
+
+### Ogor Mawtribes Names
+**Type:** misc
+D10 First Name D10 Last Name1 Balrak1 Marrowbreath2 Horg2 Bloodgulper3 Garl3 Blacktooth4 Growt4 Gutgobbler5 Marg5the Crusher6 Tulok6 Harkorg7 Asger7 Iceblood8 Tarfgar8 Beastcruncher9 Braggoth9 Bjarkarl10 Hrothgur10 Vardok
+---
+### Ogor Mawtribes Origins
+**Type:** misc
+D6 Origin1 Wandering Mercenaries: In return for bountiful supplies of food, your warriors will fight for just about anyone.2 Path of Destruction: The winding Mawpath followed by your tribe has led you and your warriors to the Eightpoints.3 Exotic Palate: Your warriors are forever seeking new and innovative tastes to sample.4 Exiled: Your warriors were banished from the Mawtribe and now seek to forge their own destiny.5 Brothers in Bludgeoning: You and your warriors are all part of the same family unit.6 Ahead of the Blizzard: Your warband strives to outpace the furious Everwinter, going so far as to seek refuge in the lands of the Varanspire.
+---
+### Ogor Mawtribes Leader Background
+**Type:** misc
+D6 Background1 Touched by the Gulping God: This warrior once ate some particularly spoiled meat and now receives strange visions from his hungering deity.2 All Muscle: Even amongst his hulking kind, this warrior's strength is legendary.3 Been There, Done That: There are few foes this warrior has not fought and devoured at some point.4 Kineater: This warrior once consumed their own siblings to prove their might.5 Ravenous Cravings: This warrior has an insatiable desire for a particular foodstuff.6 Harbinger of Winter: The icy chill of the Everwinter permanently clings to this warrior
+---
+
 ## Battle Traits
 
 ### Agents of Chaos
@@ -729,19 +954,69 @@ Trait Runemark Trait Death Death Deathless Minions: Once per battle round, count
 **Type:** misc
 The Knights-Arcanum of the Valedictor Temple are skilled and studious battle-mages, wielding the magic of the storm in a manner reminiscent of the God-King himself. When they're not occupied on the battlefield, some Knights-Arcanum undertake quests to secure magical artefacts that may endanger the realms. Domitan's Stormcoven is one such group.This thunderous trio are dead set on hacking through the verdant guts of the Wyrdhollow to put an end to the calamity of change-magic conjured by the rogue Tzeentchian apprentice, Ephilim. Bladeborn fighters Domitan's Stormcoven are from Warhammer Underworlds, so adhere to Bladeborn rules.
 ---
+### Gladitorium Fighters
+**Type:** misc
+Warhammer Heroes When picking a warband from the Thunderstrike Stormcasts faction, you can include this fighter in your warband.Each fighter with the Gladiatorium () runemark can only be included in your warband once.If you want your warband to only include fighters with the Gladiatorium () runemark, excluding allies, then the following rule replaces the fourth bullet point under "The Warbands" in the core rules (Core Book, pg 60): There is no limit to the number of fighters with both the Gladiatorium () and the Hero (Hero) runemarks that can be included in the warband (including the leader). In addition, if you are creating a Thunderstrike Stormcasts warband roster and you want your roster to only include fighters with the Gladiatorium () runemark, excluding allies, the following rule replaces the third restriction under Choose Your Faction and Fighters in the Narrative Play rules: There is no limit to the number of fighters with both the Gladiatorium () and the Hero (Hero) runemarks that can be added to your warband roster (including your leader). The first such fighter added to your roster must be your leader.
+---
 
 ## Camp Raid
 
+### Warbands
+**Type:** misc
+In this battle, each warband's leader much be placed into their Dagger battle group.
+---
+### Terrain
+**Type:** misc
+Set up Terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defenders are blue and the attackers are red.
+---
+### Victory
+**Type:** misc
+6 objectives are placed on the battlefield floor as shown on the deployment map. The attackers can choose to burn any objective they control at the end of a battle round if there are no enemy models within 3" of that objective. If they do so, remove it from play. If the attackers burn 3 objectives, they win the battle. Otherwise, after the end of the fourth battle round, the defenders win the battle.
+---
+### Twist
+**Type:** misc
+Generate a twist as normal.
+---
+### Reserves
+**Type:** misc
+There are 2 deployment lines for the attackers Hammers. Each fighter from the attackers' Hammers can be set up within 3" of either of these deployment lines when they arrive from reserve.
+---
 ### Campaign Rewards
 **Type:** misc
 If this battle is fought as part of a campaign, in the aftermath sequence of the battle, players from the winning team can receive the following reward depending on whether they were the attackers or defenders: Attackers: Each player can roll once on the Gnarlwood Lesser Artefacts table on additon to any other rolls they can make on that table. Defenders: Each player adds 1 to each renown roll they make.
 ---
+### Deployment Map
+**Type:** misc
+---
 
 ## There Can Be Only One
 
+### Warbands
+**Type:** misc
+In this battle, each warband's leader must be placed into their Dagger battle group.
+---
+### Terrain
+**Type:** misc
+Set up Terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below.
+---
 ### Victory
 **Type:** misc
 When a player's leader is taken down, that player is out of the battle and all fighters from their warband are taken down (if you are playing a campaign battle, do not make an injury roll for fighters taken down in this manner). In addition, at the end of each battle round, if any of the warbands' leaders are within 4" of the battle edge, they are taken down (if you are playing a campaign battle, do not make an injury roll for leaders take down in this manner). When only one player remains, that player wins the battle.
+---
+### Twist
+**Type:** misc
+Generate a twist as normal.
+---
+### Deployment Map
+**Type:** misc
 ---
 
 ## Soulblight Gravelords
@@ -777,9 +1052,109 @@ The fourth battle of the campaign is fought between all 4 players and uses the '
 **Type:** misc
 The twist used in each battle of the campaign is Nightfall, which works as follows. At the start of the battle a player rolls a D3. This determines how many battle rounds of daylight remain. Once all the battle rounds with daylight have been played, nightfall lasts for the remainder of the battle (for example, if a 2 was rolled there would be 2 battle rounds of daylight and nightfall would begin at the start of the third battle round). Once nightfall begins, the Dead of Night and Restless Undead rules take effect:
 ---
+### Dead of Night
+**Type:** misc
+No ability or attack action can be used to target an enemy fighter more than 3" away.
+---
+### Restless Undead
+**Type:** misc
+At the start of each combat phase, before any fighters have been activated, the player with the initiative rolls a dice. This determines the amount of restless undead that can be set up on the battlefield this turn. On this page are 6 fighter cards. These fighters do not have points values - instead, each has a threat value between 1 and 4 (marked by the number in the top right of the card). The player with the initiative picks a nunber of Restless Undead fighters with a combined threat value equal to or less than the roll. These fighters are then set up on the battlefield as a single group, each within 1" of at least 1 other fighter from the group and more than 5" from any fighters not from the group. These fighters are subject to the Territorial Predators and Bestial Intellects rules below. The only ability these fighters can use is the 'The Dead Rise' ability, shown below.
+---
+### Territorial Predators
+**Type:** misc
+Treat all fighters as enemy fighters, except for fighters that have the same combination of runemarks as themselves, which they treat as friendly fighters. For example, a Deadwalker Zombie will treat Corpse Rats as enemy fighters.
+---
+### Battleplan: The Crypt of Ven Silveren
+**Type:** misc
+Locked in a bitter race, four warbands converge upon the ruined Ven Silveren estate. each eager to claim the treasure within the household crypt. To open the crypt you will need to obtain the key and secure the entrance, but your rivals are not the only threat you face - the ruins of the estate are overrun with foul undead.
+---
 ### First to the Grounds
 **Type:** misc
 During the campaign, each warband has been accumulating progress which represents the warband scouting the city in an effort to beat their rivals and be the first to arrive at the Ven Silveren estate. At the start of the battle, the players rank themselves from first to last in order of progress. If any players have equal progress, those players roll off to determine who comes before whom in the order. The players receive the bonuses listed below. Note that the player first in order will receive 3 bonuses in total, and the player who is second will receive 2. Progress Made Bonus Third, second and first These warbands each place 1 crypt entrance.Second and first These warbands gain 1 additional wild dice at the start of the battle.First This warband places the key.
+---
+### Triumph & Treachery
+**Type:** misc
+This battle uses the Triumph & Treachery rules with the exception of the battleplan rules. Rather than rolling to determine priority order, it matches the progress ranking.
+---
+### Terrain
+**Type:** misc
+The player last in the priority order sets up the terrain to resemble the Ven Silveren estate graveyard.
+---
+### Deployment
+**Type:** misc
+See map. Each warband starts with 1 battle group on the battlefield and 2 battle groups in reserve. The battle group that starts on the battlefield is etermined randomly for each player: in priority order, each player chooses their deployment colour and then rolls a D3 to determine what battle group starts on the battlefield. D3 Battle group deployed1 Dagger2 Shield3 Hammer
+---
+### Reserves
+**Type:** misc
+In each reserve phase, each player rolls a dice in iniative order. If the score of their rolls was equal to or less than the number of the current battle round, they can pick 1 of their battle groups in reserve and set up its fighters within 3" of their battlefield edge.
+---
+### Victory
+**Type:** misc
+After warbands are set up, in reverse priority order, the planers ranked first, second and third for progress each place 1 objective on the battlefield floor to represent a crypt entrance. Each of these objectives must be places more than 5" from any fighters and the battlefield edge. Then, the player who made the most progress places the key. This is a treasure token. It can be placed anywhere on the battlefield floor more than 5" from any fighters, the objectives and the battlefield edge. During the battle, the objectives will be removed until 1 remains. At the end of the first battle round, a players rolls a D3 and removes an objective. On a 1, it is the westernmost objective, on a 2, the easternmost objective and on a 3, the remaining objective. At the end of the second battle round, a player rolls a dice and removes an objective. On a 1-3, it is the westernmost objective and on a 4-6, it is the easternmost objective. At the end of the third or subsequent battle round, the battle ends and is won by a player if they control the remaining objective, they have a fighter carrying the key within 1" of the objective, and there are no enemy fighters within 3" of the objective.
+---
+### Twist
+**Type:** misc
+Nightfall. Do not roll to determinee how many battle rounds of daylight remain: there is 1 battle round of daylight, then nightfall begins.
+---
+
+## Twistweald Background Tables
+
+### Twistweald Names
+**Type:** misc
+D10 First Name D10 Last Name1 Ereneth1 Grimmspore2 Morithyn2 Thornsong3 Cariathe3the Silent4 Fernnir4 Spiteweaver5 Myrha5 Wiltwych6 Meliara6 Twistbough7 Saffryn7 Mourningsong8 Hearne8 Holoheart9 Ydrann9 Druidbark10 Mirelle10 Darksprite
+---
+### Twistweald Origins
+**Type:** misc
+D6 Origin1 Spore Source: Your warband originated from the Twistroot Grove and was one of the first to be infected.2 Thicket Guardians: Your warband has vowed to obliterate everything within the Gnarlwood in order to contain the Twistroot parasite.3 Arborists: Your warriors seek to exert control over the Ravening Gnarloaks above all else.4 Madly Seeking: Your warband still hopes to find a way to recover. They obsessively search for realmroots that might lead back to Ghyran.5 Twisted Singers: Though your warriors no longer hear the spirit-song, a new, discordant melody from the gnarloaks fills their minds.6 Savior’s Death: Your warband has embraced the inevitability of their death and seeks out battle to protect their kin.
+---
+### Twistweald Leader Background
+**Type:** misc
+D6 Background1 Master of Spites: This warrior has pinpoint precision in their command of their spiteswarm.2 Arbornancer: This warrior excels at manipulating gnarloaks.3 Wracked by Despair: This warrior strengthens their blows with a mental reservoir of bitterness.4 Driven by Pain: This warrior’s parasite is deeply entrenched, leaving them in unrelenting agony.5 Deafened: Deprived of the spirit-song, this warrior has deafened themselves entirely in their madness.6 Malicious: This warrior vents their fury and pain by draining live enemies of their blood to fertilise the Gnarlwood.
+---
+
+## Vulkyn Flameseekers Background Tables
+
+### Vulkyn Flameseekers Names
+**Type:** misc
+D10 First Name D10 Last Name1 Vnlkyn1 Scaleheart2 Hulgrimm2 Zharr3 Brujda3 Magmabeard4 Zuffi4the Flametouched5 Hufnal5 Hazkal6 Lokki6 Ashnose7 Zaggra7the Axe Hurler8 Rumbar8 Drothkyn9 Daegrann9 Ignar10 Daegrann10the Grumbler
+---
+### Vulkyn Flameseekers Origins
+**Type:** misc
+D6 Origin1 Drothkeepers: This warband once guarded the drothvaults of their home lodge against invaders and predators.2 Scale-blessed: Several of this warband's warriors bear scaly birthmarks - a sure sign of the Ur-Salamander's favour.3 Vulkyn Emissaries: These warriors were tasked with spreading word of the Vulkyn cult to distant lodges on behalf of the Lofnir.4 Deep Delvers: These warriors have ventured into some of the deepest and deadliest caverns in the realms - and lived to tell their tale.5 Thaggoraki Hunters: These warriors are veterans of the brutal tunnel wars fought against the skaven of the Clans Moulder, who covet Magmadroth eggs.6 Swamp Striders: These warriors are at home in the same sulphurous swamps that Magmadroths favour as nesting grounds.
+---
+### Vulkyn Flameseekers Leader Background
+**Type:** misc
+D6 Background1 Hardliner: This warrior's fanatic devotion to the Ur-Salamander unnerves even their fellow Lofnir lodge-kin.2 Rage of Vulcatrix: When this warrior enters a battle-rage, their eyes blaze with the power of the Ur-Salamander.3 Restless Seeker: This warrior has travelled far across the realms in search of sacred flames.4 Hatred of Poachers: Those who aim to steal the offspring of the Magmadroth earn the everlasting ire of this warrior.5 Venerated Elder: This warrior is ancient even by the standards of the long-lived duardin, yet still as wise as they are strong.6 Visions of the Blaze: This warrior is haunted by visions of apocalyptic flame - the last moments of Vulcatrix's existence.
+---
+
+## Untamed Beasts Background Tables
+
+### Untamed Beasts Names
+**Type:** misc
+D10 First Name D10 Last Name1 Syugah1 Truthspeaker2 Ekuth2 Cleftskull3 Gantul3the Hungerer4 Kurgo4 Heart-eater5 Makat5 Vorrnslayer6 Ugula6 Bloodtooth7 Tenyet7the Maw8 Mayim8 Plainsrunner9 Shroya9 Bonecrusher10 Thuka10 Spinerender
+---
+### Untamed Beasts Origins
+**Type:** misc
+D6 Origin1 Skinners: This warband strips and wears the hides of slain beasts, believing it grants them bestial power.2 Raiders: Your warband infiltrates enemy territory to pillage and burn.3 Tireless Pursuers: The warriors at your command never tire and never abandon a hunt.4 Beast-marked: Having consumed the flesh of Chaos-tainted beasts, your warband are frenzied, blood-hungry barbarians.5 Iconoclasts: Your warriors delight in tearing down the falsehoods of civilisation.6 Prowlers: These warriors move unseen and unheard, silently tracking their prey
+---
+### Untamed Beasts Leader Background
+**Type:** misc
+D6 Background1 Wild Tongue: This warrior has a primal connection with chaotic beasts, and is able to commune with them.2 Gruesome Trophy: This warrior always carries a trophy of flesh cut from a memorable foe.3 Child of the Devourer: This warrior was born with the mark of the Devourer, a sign of holy favour.4 Scarred Warrior: This warrior's hide is covered with hideous scars, gifts from the beasts they have slain.5 Sharp-eyed: This warrior has consumed the flesh of hunting birds, and gained their keen sight.6 Destroyer: This warrior hates city-dwellers, and seeks to burn down all signs of civilisation.
+---
+
+## Tarantulos Brood Background Tables
+
+### Tarantulos Brood Names
+**Type:** misc
+D10 First Name D10 Last Name1 Kiraxar1(no last name)2 Retieth2 Grafter of Glories3 Haaxar3the Venomspeaker4 Morlaxis4 They-That-Are-Third5 Delenstain5the Remade6 Thessakar6 They-That-Ascend7 Gyriphar7 They-That-Are-Eighth8 Silninthis8of the Brood9 Hiripei9 They-That-Devour10 Nethedex10 Beloved of the Watcher
+---
+### Tarantulos Brood Origins
+**Type:** misc
+D6 Origin1 Devotion Through Evolution: Even for the Brood, these warriors are particularly willing to test their latest potions and experimental surgeries upon themselves.2 Fuel of Apotheosis: This warband fervently searches for mutative substances to fuel their rites, especially varanite.3 Bound in the Web: These warriors are so caught in the gestalt mind of the Brood that they have lost almost all sense of self, individually referring to themselves as 'we' or 'this one'.4 Remorseless Pursuers: No matter how far their enemies run, they cannot escape the chase of this relentless warband.5 Into Our Larder: These warriors can patiently lurk for days on end before pouncing upon their hapless foes.6 Merciless Trappers: Even the largest beasts and mightiest enemies cannot escape the cunning snares of this warband.
+---
+### Tarantulos Brood Leader Background
+**Type:** misc
+D6 Background1 Scuttling Locus: This warrior is almost always accompanied by swarms of arachnids that creep and crawl over them wherever they go.2 Cusp of Revelation: This warrior believes that only a few more experiments are needed to unlock some grand truth.3 The Ends and the Means: Claims of blasphemy with regard to their efforts to induce specific mutations do not concern this warrior, for their successes prove that the gods are pleased.4 Insidious Vessel: This warrior believes that the Eightfold Watcher speaks directly to them and they interpret the god's will directly.5 Gifts of the Brood: This warrior's gifts are more than skin deep; they are truly more akin to their beloved arachnids than to humans.6 Interesting Specimens: This Brood member is particularly interested in working their horrendous experiments on non-human warriors and hunts them with particular fervour.
 ---
 
 ## Twistweald Quests
@@ -796,12 +1171,28 @@ Artefact Effect The Gnarlblade Add 3 to damage points allocated by each critical
 **Type:** misc
 The Twistweald can enter into a symbiotic relationship with a number of helpful sprites. Pick a Swarmspike fighter who can gain a heroic trait and one heroic trait from the Symbiotic Spites table (see below) and note it in your quest log. You cannot pick a heroic trait the fighter already has. Progress Score: Track this for the selected fighter. Increases based on chosen trait: Alarielle's Worshipper: +1 when enemy fighter is taken down by melee attack from this fighter. Ococlousse: +1 when enemy is taken down by Blast-tagged ability or attack. Necrocore Beetle: +2 each time 1+ damage points are removed and no damage remains allocated. Glitterling: +2 at the end of a battle round if more friendly fighters are on platforms than enemies. Scarlet Terror: +2 each time an enemy uses a disengage action. Scaldvenom Biter: +2 each time an enemy dies. +1 if 1+ enemies were taken down that turn before any damage was allocated to them. Completion: If the progress score is 8 or more, you may complete the quest in Step 4 of the aftermath sequence. The fighter gains the noted heroic trait.
 ---
+### Symbiotic Spites
+**Type:** misc
+Spite Trait Alarielle’s Worshipper Once per battle round, +2 damage for one critical hit from melee attacks.Ococlousse Fighter’s Strength counts as greater than enemy’s Toughness for ranged attacks.Necrocore Beetle After removing 1+ damage in a round, remove D3 more damage.Glitterling Can fly. While flying, cannot move vertically more than 3”. First time each round an enemy ends a move near this fighter: on 3+, deal D3 damage.Scarlet Terror Subtract 1 damage from each hit and crit (to min 1) if enemy melee has Range ≥2.Scaldvenom Biter After activation without an attack, pick an enemy within 6", roll a die: on 4+, pick 1: -1 Toughness for rest of battle OR if on platform edge, they fall.
+---
 ### A Twisted Chorus
 **Type:** misc
 The Twistweald’s goal is to end the threat Talaxis presents by manipulating the growth of gnarlroaks into a safe refuge. But to do so, they must raise and shape sprouts through gruesome rituals. Seedling Score: Track the number of gnarlroak sprouts collected: +1 each time an enemy fighter is taken down within 3” of a gnarlroak terrain feature. Completion: When your seedling score is 5 or more, you can fight using the Sung in Blood battleplan. If you win the battle, you may complete this quest in Step 4 of the aftermath sequence. In Step 5, you may also relocate your encampment to Gnarlhaven (see below) for free.
 ---
 ### Quest Battleplan: Sung in Blood
 **Type:** misc
+---
+### Deployment
+**Type:** misc
+Use deployment map shown; defender is blue, attacker is red.
+---
+### Objectives
+**Type:** misc
+Place 6 on the battlefield. At the end of a battle round, attacker removes 1 objective if they control it. Defender may pick 1 to shape after control is determined — shaped objectives can't be removed. Battle ends: After 4 rounds, or When 4+ objectives are removed Attacker wins if 4+ removed; otherwise, defender wins
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### Aftermath Bonus
 **Type:** misc
@@ -811,9 +1202,66 @@ Renown to be Earned: Attacker adds 1 to each renown roll this sequence.
 **Type:** misc
 Location Bonus Points Limit Reputation Gnarlhaven+1 to renown rolls for Hero runemark fighters. Do not make injury rolls for warband fighters. In Step 5, pick 1 fighter with Twistweald runemark and send them forth.1150+3
 ---
+### Awakened Battlefield Result Table (D6)
+**Type:** misc
+Result Description1: Hollow Echoes No effect.2: Bursting Roots Pick one enemy battle group. Roll 2 dice for each fighter with Wounds ≤10. On double 6, that fighter is taken down. Else, deal 3 damage to each fighter.3: Erupting Bonecage Pick one enemy fighter. Roll a die: 1–4, nothing. 5+, deal D3 damage and subtract 3 from their Move.4: Lashing Gnarlroaks Subtract 3 from Move of each enemy fighter for Round 1.5: Nature’s Savagery Pick one enemy battle group. For each fighter, on 3+, deal D3 damage. That fighter cannot make reactions in Round 1.6: Reverberating Refrain Pick two of the above results.
+---
+
+## Splintered Fang Background Tables
+
+### Splintered Names
+**Type:** misc
+D10 First Name D10 Last Name1 Sitha1 Ullinash2 Ve'thoss2 Agareth3 C'lissa3 Sorigath4 Ma'suth4 Varashma5 Ilthis5 Kushma6 Lash'ya6 Odoleth7 Ossyuth7 Sinneth8 Sorenis8 Ashmos9 Ethiss9 Annasis10 Silren10 Katilash
+---
+### Splintered Fang Origins
+**Type:** misc
+D6 Origin1 Converts: Your warband once belonged to a rival tribe that was subsumed into the Splintered Fang.2 Pit Vipers: Your warband was responsible for the brutal training of Splintered Fang warriors.3 Ophidian Guard: Your warband once guarded a temple of the Coiling Ones.4 Venom-blooded: Your warriors have tested the most powerful venoms upon their own flesh.5 Faithful of Nagendra: Your warband secretly worships Nagendra, and not his devious offspring.6 Mercenaries: Your warriors have fought for several Chaos Lords as mercenary troops.
+---
+### Splintered Fang Leader Background
+**Type:** misc
+D6 Background1 Unblinking: This warrior does not blink, giving them an unnerving intensity.2 Scaleskin: This warrior's skin is smooth-scaled, like that of a serpent.3 Forked Tongue: This warrior has carved their tongue in two, in honour of the Coiling Ones.4 Cold-blooded Practicality: This warrior gladly sacrifices as many lives as are required to see the task done.5 Black Blood: The very blood that runs through this warrior's veins is caustic and deadly.6 Unsettling Calm: This warrior rarely displays any emotion.
+---
+
+## Sylvaneth Background Tables
+
+### Sylvaneth Names
+**Type:** misc
+D10 First Name D10 Last Name1 Aeliath1 Bloomwych2 Lorelith2 The Creeping Death3 Haaloforn3 Grimroot4 Salymeras4the Whisperer5 Iliara5 Heartoak6 Thronir6 Twistbranch7 Merethin7 Weavesong8 Yltriana8the Hunter9 El'ra'kayora9 Spritekin10 Daonti10 Brightsoul
+---
+### Sylvaneth Origins
+**Type:** misc
+D6 Origin1 Rootlings: Your warband are relative youngsters and eager to blood their talons in combat.2 Gnarled Veterans: You and your warriors have fought in some of the most brutal battles of the War of Life.3 Nature's Vengeance: Your warband will travel far indeed to hunt down those who would harm nature.4 Guardians of the Lamentiri: Your warband were once charged with guarding the lamentiri soulseeds of their clan.5 Driven to Madness: Your warriors have long dwelt within the Eightpoints, and the unnatural aura of that land has driven you to madness.6 Lifesong: Your warband seeks to spread the magic of life to even the most desolate of regions.
+---
+### Sylvaneth Leader Background
+**Type:** misc
+D6 Background1 Noble Spirit: This warrior is a true and honourable defender of nature.2 Outcast: The discordance in this warrior's spiritsong has seen them shunned by most Sylvaneth.3 Child of Kurnous: This warrior honours Alarielle's hunter-god consort as fervently as they do the Everqueen.4 Sorrowful: This warrior's soul is afflicted by an age-old melancholy.5 Spiteful: This warrior delights in visiting torment on any who would disturb places of nature.6 Wild Fury: Once roused, this warrior's fury is akin to a howling gale sweeping away all before it.
+---
+
+## The Unmade Background Tables
+
+### The Unmade Names
+**Type:** misc
+D10 First Name (1)D10 First Name (2)1 Shadowhaunter1 Eyebite2 Flenser2 Ragged3 Corpseblade3 Whisper4 Gouge4 Pale Spider5 Throatcutter5 Ghoster6 Scythe6 Bloodshot7 Eyepeeler7 Nighteye8 Split-Tongue8 Catcher9 Leer9 Fingerbones10 Smile-in-Darkness10 Sineater
+---
+### The Unmade Origins
+**Type:** misc
+D6 Origin1 Ragged Clergy: Your warriors are particularly zealous adherents to the Flayed Prince's teachings.2 Hunters of the Dead: Your warriors are notably adept at tracking and destroying undead foes.3 Paincrafters: Your warband is skilled in the crafting of inventive weapons of torment.4 Torturers: Even amongst the Unmade, your warband is unusually skilled at inflicting pain.5 Stalkers: Your warband once prowled the deep forests of Tzlid, and its warriors are skilled hunters.6 Flesh-takers: Your warband once sailed the seas of Shyish, raiding coastal settlements.
+---
+### The Unmade Leader Background
+**Type:** misc
+D6 Background1 Silent One: Having removed their tongue, this warrior communicates in a series of clicks and hisses.2 Jaded Masochist: This warrior seeks out new and terrible agonies to restore their spiritual harmony.3 Descendent of Vourneste: This warrior claims a blood connection to the legendary Flayed Prince.4 Bleeding Sores: This warrior's many lesions and sores constantly seep blood.5 Unnerving Laughter: This warrior's laughter sounds like the tinkling of broken glass.6 Strange Twitching: This warrior's movements are eerily jerky and unnatural.
+---
 
 ## Wildercorps Hunters Background Tables
 
+### Wildercorps Hunters Names
+**Type:** misc
+D10 First Names D10 Last Names1 Birken1 Trossard2 Ertam2 Ducane3 Shay3 Vandayne4 Eddra4 Tollmey5 Ahmad5 Quorle6 Rickard6 Aesmar7 Foscar7 Morliss8 Shulin8 Caldeman9 Wyll9 Uldrenn10 Therra10 Starrock
+---
+### Wildercorps Hunters Origins
+**Type:** misc
+D6 Origin1 Beast Slayers: Your warriors and their Trailhounds have made their name hunting some of the realms' most fearsome creatures.2 Veteran Dawners: Your warriors were part of a famous and successful Dawnbringer Crusade that resulted in the establishment of a new strongpoint.3 Blackguards: Your warriors have a reputation as ruthless and deadly killers, unencumbered by morality.4 Pious Hunters: Your warriors are devout followers of one of the Cults Unberogen, the great faiths of the God-King.5 Condemned: Your warriors have committed a grevious crime, and this mission into the Gnarlwood is their intended death sentence.6 Trappers: Few warriors are as skilled as your warband in fieldcraft and the construction of cunning snares and traps.
+---
 ### Wildercorps Hunters Leader Background
 **Type:** misc
 D6 Background1 Renegade: This warrior is an infamous rule-breaker and troublemaker - at least in the eyes of their Freeguild superiors.2 Master of Hounds: This warrior is known for their uncanny ability to handle even the most ferocious and truculent canines.3 Seen It All Before: This warrior has fought so long and so hard that they have become most cynical and jaded.4 War Wound: This warrior has a notable injury suffered during the course of their career, such as a pronounced limp or a missing eye.5 Uncanny Luck: This warrior is beloved of their soldiers, as they possess a knack for escaping the most dreadful situations without harm.6 Famous Hero: This warrior proudly wears a Dawnbringer medal earned through an act of conspicuous heroism.
@@ -821,13 +1269,40 @@ D6 Background1 Renegade: This warrior is an infamous rule-breaker and troublemak
 
 ## Sacrosanct Chamber Background Tables
 
+### Sacrosanct Chamber Names
+**Type:** misc
+D10 First Name D10 Last Name1 Vortigar1the Seer2 Caramus2 Soulwarden3 Bazarius3 Shadowstorm4 Artelon4 Aetherguard5 Potemus5 Stormsoul6 Elethera6 Lady of Lightning7 Kailia7 Thunderquake8 Meraena8 Stormbound9 Cerynean9 Tempestborn10 Jasmaera10 Heavenswatch
+---
 ### Sacrosanct Chamber Origins
 **Type:** misc
 D6 Origin1 Strange Bedfellows: Your warriors are all highly idiosyncratic and have been drawn together largely by the demands of necessity.2 Zealots: Your warriors are fiery extollers of the God-King's glory.3 Vow of Silence: Your warband has taken a vow of silence, communicating only through hand gestures and arcane sigils.4 Gheist Hunters: Your warriors excel at combating the otherworldly and the ethereal.5 Seekers of Redemption: Your warriors are tireless in searching for ways to banish the flaws in the reforging process.6 Guardians of the Anvil: These warriors have often been called upon to watch over the Anvil of the Apotheosis.
 ---
+### Sacrosanct Chamber Leader Background
+**Type:** misc
+D6 Background1 Sombre: This warrior is a reserved and melancholy soul, not given to zealous oratory.2 Beloved Leader: This warrior will risk everything to safeguard those under their command.3 Wise Veteran: This warrior dispenses sage advice to their warriors even in the heat of battle.4 Merciless: No plea for restraint or clemency can find purchase with this unforgiving warrior.5 Stormspeaker: It is said that this warrior can commune with the power of the tempest.6 Mage-noble: This warrior once belonged to the nobility of an arcanely gifted kingdom.
+---
+
+## Royal Beastflayers Background Tables
+
+### Royal Beastflayers Names
+**Type:** misc
+D10 First Name D10 Last Name1 Vulgyne1the Canny2 Torras2 Fiendbane3 Sir Gravan3the Seeker4 Uttrus4 Pelt-taker5 Bohemus5the Stout6 Gerwin6 Realmstrider7 Tancren7the Jolly8 Sir Aderald8 Wyrmsend9 Rolar9the Graven Lance10 Maldorn10 Summerblade
+---
+### Royal Beastflayers Origins
+**Type:** misc
+D6 Origin1 Legendary Braggarts: These warriors are never shy in regaling fellow courtiers and servants of the king with tales of their derring- do.2 A Debt to Settle: This warband suffered grievous casualties at the hand of a particular beast. Honour demands they track it and slay it.3 The Touch of Gbur: The already demolished sanity of these ghouls has frayed yet further as their bestial aspects have become more prominent.4 Heraldic Gorgers: While roaming Ghur, this warband encountered a mythical creature that was once the centrepiece of a noble dynasty's heraldry - and promptly ate it.5 Cunning Trappers: These ghouls have, despite their insanity, created surprisingly innovative traps and pitfalls to catch prey.6 A Stain Upon Honour: Having failed their king in the past, this warband has been sent on one last attempt to regain their honour.
+---
+### Royal Beastflayers Leader Background
+**Type:** misc
+D6 Background1 Notorious Showboater: This Flaymaster is obsessed with slaying foes and monsters in the most gory and grandiose ways possible.2 The Baron Reborn: This Flaymaster is a devoted disciple of Baron Gizzard's legend, and does everything in their power to emulate the famed hunter.3 Beyond the Horizon: This vampire hails from a far-off land or realm, and is working to establish a new power base.4 Deranged Visions: This vampire follows sanity-blasting visions to find their prey. Who, or what, is sending them is unknown.5 From the Dregs: Once a mere ghoul, this Flaymaster was 'adopted' by an elder vampire and raised to the king's court. They inspire immense jealousy in the king's 'true' offspring.6 Charitable Soul: This vampire is happy to share the rewards of victory with their followers, waiting until they have eaten to feast.
+---
 
 ## Soulblight Gravelords Background Tables
 
+### Soulblight Gravelords Names
+**Type:** misc
+White Dwarf #489 Tome of Champions 2021 D10 First Name D10 Last Name1 Mylos1von Carstein2 Neptila2 Mordrecht3 Calmyr3of the Blood Chalice4 Arabesse4 Volga5 Lirius5 Vascilos6 Marrik6the Scorned7 Ulrak7van Tirich8 Althia8 Orstheim9 Mithralt9the Conqueror10 Vashti10 Kossiva D10 First Name D10 Last Name1 Rasav1the Thirster2 Marclav2von Kadev3 Uset3 Krastov4 Olahva4 Nightstalker5 Vrashul5 Charnask6 Akranos6 Uhl-Karn7 Evaska7 Azharad8 Drul8 Dragomesh9 Paska9von Strahl10 Ortullas10 Curseheart
+---
 ### Soulblight Gravelords Origins
 **Type:** misc
 White Dwarf #489 Tome of Champions 2021 D6 Origin1 Scions of the Mortarchs: Your warband seeks power for one of the Mortarchs, to whom they are fiercely devoted.2 Blood-Starved: Your warband struggles to contain their killing instincts due to Ghur's animalistic influence and will sometimes lose control.3 Ancestral Claim: Your warband claims to have served Nagash during the Age of Myth. They now seek to make a name for themselves in the Gnarlwood.4 Bound by Blood: Your warband are servants to a powerful higher authority due to an ancient blood debt.5 Masters of Politics: Your warband seeks power as a means to overthrow a rival court of vampires.6 Greendrinkers: Your warband constantly wars with the Gnarloaks themselves, finding food supplies by stealing the digesting bodies within.D6 Origin1 Spoor Hunters: These fiends of the night can trace their prey across vast distances, tracking the unfortunates down so that they might be devoured at will by their Soulblight master.2 Dark Lord's Retainers: These warriors are the favoured champions of their vampire master, chosen to carry out their most important commands with merciless efficiency.3 Bettered Foes: These warriors were once the vampire's enemies, defeated and since raised as undead chattel so that they might serve their new master with unquestioning loyalty.4 Blood-bonded:: Each of these undead warriors was once related to their Soulblight master, though now they are mere pawns that serve their kin's will.5 Terrors of the Night: These fiends delight in spreading panic and terror wherever they roam, utilising fear to defeat their enemies before they even take to the field.6 Gilded Guard: The vampire master of this warband has outfitted even the lowliest cadavers in his horde with the finest accoutrements, to reflect his great power and fine sense or taste.
@@ -839,6 +1314,10 @@ White Dwarf #489 Tome of Champions 2021 D6 Background1 Conduit of Shyish: This w
 
 ## Kruleboyz Background Tables
 
+### Kruleboyz Names
+**Type:** misc
+D10 First Name D10 Last Name1 Krawk1 Manstabba2 Gurk2da Eyemuncha3 Sprakk3 Red Eye4 Gobbok4 Toadbreath5 Hakko5 Drowna6 Rozzig6 Bugsplatta7 Shivstik7da Kunnin'8 Blogg8 Rot-toof9 Thorkk9 Mudspit10 Prodda10 Bolt Breaka
+---
 ### Kruleboyz Origins
 **Type:** misc
 D6 Origin1 Pit Trappas: These warriors are experts at luring their prey into spike-filled pits - a tactic that works as well on the battlefield as it does when hunting swamp-beasts to eat.2 Swampskin Hurlers: These warriors have bottled a variety of noxious swamp gases, which they delight in hurling at their enemies.3 Beast-breakaz: These warriors are particularly skilled at bringing the most aggressive beasts to heel through a blend of stubbornness and sadistic violence.4 Stormy Stabbas: This group of killers has fought many battles against the God-King's champions and delights in subjecting the hated 'Stormies' to a gruesome demise.5 Kunnin' Ambushers: To these warriors, a fair fight is a mystifying concept - they prefer to strike from cover and slaughter the enemy before they have a chance to react.6 Plunderers: These warriors have a keen eye for loot, and always seem to bring back an impressive haul of 'shiny wotsits' from each murderous campaign.
@@ -846,6 +1325,51 @@ D6 Origin1 Pit Trappas: These warriors are experts at luring their prey into spi
 ### Kruleboyz Leader Background
 **Type:** misc
 D6 Background1 Swamp-scarred: This champion has been on the receiving end of some swamp monster's acidic vomit, and their face is horribly burned as a result.2 Backstabba: This warrior has risen to a position of power through the opportunistic shanking of a succession of bigger, tougher orruks.3 Tapewyrm Squig: This orruk has contracted a tapewyrm squig from drinking contaminated swamp water, but as long as it is well fed it shouldn't eat him alive. For a while at least.4 Cruel and Unusual: Even amongst the Kruleboyz, this warrior is renowned for the hideous ingenuity of their torture techniques.5 Chip on the Shoulder: This warrior despises any who prefer strength over kunnin', above all the swaggering brutes of the Ironjawz.6 Foul Reek: Whatever swampy mud-pit this orruk has been wallowing in, it has left him with a truly stomach-churning odour.
+---
+
+## Thunderstrike Stormcasts Background Tables
+
+### Thunderstrike Stormcasts Names
+**Type:** misc
+D10 First Name D10 Last Name1 Averus1 Sagerton2 Pyleon2 Pharos3 Thorsus3 Fulmor4 Nagara4the Mighty5 Kelena5of Thondia6 Vorus6 Brighthammer7 Hyllia7 Tharrus8 Teandra8 Nascalon9 Thandar9 Sollus10 Prestor10 Quaestus
+---
+### Thunderstrike Stormcasts Origins
+**Type:** misc
+D6 Origin1 Heroes of Legend: Many are the tales told of these bold warriors who have fought across the length and breadth of the Mortal Realms.2 Defenders of the Downtrodden: True guardians of the vulnerable aad helpless, these warriors will risk their very souls to offer aid where it is needed.3 Hardened Dawnbringers: These warriors are veterans of many Dawnbringer Crusades, and have brought enlightenment and order to many benighted lands.4 Bonds of Kinship: Before they were forged into Stormcast these warriors hailed from the same tribe, further strengthening their bonds of fellowship.5 Way of the Meteor: These warriors believe in the crushing power of a combined all-out assault, shattering their foes before they can raise blades to defend themselves.6 Monster Slayers: These warriors specialise in bringing down infernal beasts and monsters that would threaten the ordered empire of the God-King.
+---
+### Thunderstrike Stormcasts Leader Background
+**Type:** misc
+D6 Background1 Fuelled by Vengeance: This commander has suffered terribly at the hands of his enemies, and seeks to repay that pain in kind.2 Troubled Soul The agonies of Reforging have left their mark upon this warrior, yet although stricken by physical pain and spiritual torment, they fight on.3 Lone Survivor: Many of the warrior's former comrades were lost to the nightmare of Be'lakor's cursed skies, and the grief of that loss still aches at them.4 Unshakeable Faith: Nothing can threaten this warrior's belief in the all-conquering might of the God-King - it is a faith that has seen them through many battles.5 Orrukbane: This warrior bears an overwhelming hatred for all of Gorkamorko's hordes, and seeks to hunt and slay them at any opportunity·6 Adherent of Grungni: This warrior not only venerates Sigmar but the maker Grungni as well - an act of gratitude for all that the smith-god has sacrificed for the cause of Order.
+---
+
+## Kruleboyz Monsta-Killaz Background Tables
+
+### Kruleboyz Monsta-Killaz Names
+**Type:** misc
+D10 First Name D10 Last Name1 Grikh1 Spinesnappa2 Skummok2 Toadstabba3 Murk3da Peeler4 Lurg4 Egg-eata5 Drokk5 Lizardkilla6 Grugg6 Griffgouga7 Thugrikk7da Hobbla8 Gobsnik8 Wyrmstabba9 Ragnik9 Rot-toof10 Shivnik10 Deffbreff
+---
+### Kruleboyz Monsta-Killaz Origins
+**Type:** misc
+D6 Origin1 Pit Killers: These warriors run one of the Kruleboyz' infamous fighting pits, where prisoners are fed to various hideous beasts.2 Egg Stealers: These warriors are experts at distracting horrific beasts and then pinching their precious eggs.3 Skumdrekk's Boyz: These warriors are held in high favour by the infamous Swampboss Skumdrekk, who calls upon them to handle particularly dangerous jobs.4 On Da Trail: These orruks are trailing a particularly large and ferocious beast, waiting patiently for an opportunity to lay it low.5 Drothvault Raiders: These warriors once broke into one of the Fyreslayers' fiercely guarded drothvaults, looting several hatchlings.6 Legendary Blackguards: These warriors are akin to folk heroes in the malicious society of the Kruleboyz, well known for their underhanded deeds
+---
+### Kruleboyz Monsta-Killaz Leader Background
+**Type:** misc
+D6 Background1 Unusual Cruelty: This warrior inspires a particular dread with the unique horror of his punishments.2 Aspiring Swampboss: This warrior wishes to follow the example of the infamous Skumdrekk, and set up his own fighting pit.3 Bitey Fings: This warrior treasures his collection of hideous crawling insects and spiders - most of which are lethally venomous.4 Devious Trapper: This warrior's expertise at laying particularly complex traps is unrivalled.5 Bully Boss: This warrior takes particular pleasure in tormenting and bullying their Klutcha-grot minions.6 Slippery Customer: This warrior has absolutely no compunctions about legging it if a fight seems to be going against them.
+---
+
+## Ironjawz Background Tables
+
+### Ironjawz Names
+**Type:** misc
+D10 First Name D10 Last Name1 Drakka1 Deffskull2 Grukk2 Headstompa3 Skrug3 Nekksnappa4 Urgok4 Bigtoof5 Rezgut5 Rokknut6 Grokk6 Fireklaw7 Tranka7 Blakfist8 Drog8da Biggest9 Zagga9 Bonekruncha10 Krakkfist10 Meaneye
+---
+### Ironjawz Origins
+**Type:** misc
+D6 Origin1 Siege Smashers: Your warriors delight in smashing their way through fortifications and defences.2 Da Megaboss' Boyz: Your warband once fought at the side of an Ironjawz Megaboss.3 Grotkickers: Your warriors delight in bullying and brutalising those weaker than they.4 Only the 'Ardest: Your warriors are the toughest and meanest survivors of a shattered Ironjawz brawl.5 Uneasy Alliance: Each of your warriors are vying for command, through methods both brutal and kunnin'.6 Filled With Waaagh!: Your warriors resonate with furious Waaagh! energy.
+---
+### Ironjawz Leader Background
+**Type:** misc
+D6 Background1 Shiny Trophy: This warrior's prized possession was stripped from the corpse of a defeated foe.2 Unstoppable: This warrior just keeps going, even when stricken by grievous wounds.3 Boisterous Laughter: This warrior loves the crash of combat so much they boom with laughter when in battle.4 Brutal but Kunnin': Despite their innate savagery, this warrior can be surprisingly devious.5 Berserk Lunatic: This warrior does not stop hacking at his foes until they are piles of splattered meat.6 Stubborn Brute: When this warrior encounters a problem, they simply batter their way through it.
 ---
 
 ## Slaves To Darkness
@@ -857,6 +1381,21 @@ Optional Rule Battle Traits are optional rules that add additional flavour to a 
 ### Godsworn Hunt
 **Type:** misc
 Guided by searing visions of conquest and glory, the God-speaker known as Theddra Skull-Scryer leads warriors from the Tribe of the Blackfang through a combination of ruthlessness and awesome displays of gods-given power. Bladeborn fighters The Godsworn Hunt are from Warhammer Underworlds, so adhere to Bladeborn rules.
+---
+
+## Maggotkin of Nurgle Background Tables
+
+### Maggotkin of Nurgle Names
+**Type:** misc
+D10 First Name D10 Last Name1 Bolgarax1 Witherwort2 Prosternox2 Bilebelch3 Skabius3 Poxmolion4 Gluttos4 Rustdrool5 Felch5 Rancodiox6 Skurvus6 Seepling7 Kankerous7 Festerfane8 Ogblort8 The Droning One9 Wolgus9 Maggatakus10 Gangrenous10 Pusdrool
+---
+### Maggotkin of Nurgle Origins
+**Type:** misc
+D6 Origin1 Vectors of Contagion: Your warriors are infected with a new and virulent form of disease.2 Letting the Garden Grow: Your warband wishes to see Nurgle's Garden flourish across the realms.3 Spreading the Love: Your warband wishes to infect as many mortals as possible with Nurgle's ‘gifts'.4 Grandfather's Favoured: Your warband is patronised by a potent rot-daemon.5 Hatred of Purity: This warband seeks out the most noble of foes to corrupt and despoil.6 The Cycle of Life: All of your warriors were forcibly ripped from their former allegiance into Nurgle's embrace.
+---
+### Maggotkin of Nurgle Leader Background
+**Type:** misc
+D6 Background1 Jolly: This warrior is surprisingly gregarious as they go about their disgusting business.2 Beloved Pets: Your warband is accompanied by all manner of maggots and fat-bodied flies.3 Dolorous: This warrior is filled with Nurgle's blessed despair.4 Droning Doom: This daemon speaks eternally in maudlin rhyme.5 Truly Revolting: This daemon's very presence sees the mortal world rot around them.6 Irritable: This daemon has no patience for any who would impede their disease-spreading mission
 ---
 
 ## Darkoath Savagers
@@ -875,6 +1414,21 @@ Optional Rule Battle Traits are optional rules that add additional flavour to a 
 ### Brand's Oathbound
 **Type:** misc
 Gunnar Brand is chieftain of the Brand clan, a tribe of Darkoath renowned for their tenacity and talent for slaughter. Charging into battle alongside his oathsworn kin, Gunnar hacks his enemies to pieces with his twin axes, each ruined corpse offered up as tribute to the Chaos Gods in return for dark blessings.
+---
+
+## Rotmire Creed Background Tables
+
+### Rotmire Creed Names
+**Type:** misc
+D10 First Name D10 Last Name1 Algus1 Bitter brew2 Sirous2 Witherbrew3 Tanytha3the Hermit4 Ulliam4the Physicker5 Yannock5of the Seven Agues6 Eiblin6the Stitcher7 Morlaith7the Flux8 Procter8 Crowfood9 Erbernath9 Sweetbreath10 Fidius10 Boil
+---
+### Rotmire Creed Origins
+**Type:** misc
+D6 Origin1 Exiled Order: These warriors belonged to the same cadre of alchemists, driven out of the free cities due to their disturbing interests.2 Rotting Away: The body parts and skin of these warriors are slowly sloughing away, much to their own grotesque fascination.3 Abductors: Whenever the Creed needs living subjects for its experiments, these warriors are sent out to find them.4 Lurkers in the Mire: These warriors are used to spending days out in the bubbling filth of the Rotmire seeking foul, blight-ridden ingredients.5 Addicted to Decay: These warriors desire to contract as many hideous ailments as possible, believing each pox makes them stronger.6 Joyful Company: These cultists approach even the most gruesome task with an eerie good humour.
+---
+### Rotmire Creed Leader Background
+**Type:** misc
+D6 Background1 Chirurgeon: This warrior is an artist with the blade, able to extract organs from their victims without damaging them in the process.2 Deranged Ingenuity: Even their fellow cultists are unnerved by this warrior's truly nightmarish experiments.3 Deluded Genius: This warrior still insists they serve the greater good of humanity, even as their victims writhe and scream in agony.4 Perfectionist: This warrior is enraged when anything disrupts their carefully laid plans.5 Disdainful of Warriors: This warrior considers those with live by the sword to be little6 Cannot Abide Waste: This warrior always harvests the organs and fluids of those they have wounded or slain.
 ---
 
 ## Skaven
@@ -905,19 +1459,102 @@ Agents of the Gaunt Summoners, the Eyes of the Nine seek out artefacts suffused 
 Runemark Reaction Tzeentch Daemons Twist of Fate: A fighter can make this reaction after they are targeted by an attack action but before the hit rolls are made. Pick one of the hit rolls, and change the value of one of your [doubles] to that value.Tzeentch Daemons Champion Split: A fighter can make this reaction when they are targeted by an attack action, after the damage is totalled but before it is allocated to this fighter. Set up 2 new fighters with the Disciples of Tzeentch: Daemons (Tzeentch Daemons) faction runemark and the Warrior (Warrior) runemark on the battlefield within 3" of this fighter. Then, this fighter is taken down. In a campaign battle, do not make an injury roll for this fighter.Tzeentch Daemons Warrior Split Again: A fighter can make this reaction when they are targeted by an attack action, after the damage is totalled but before it is allocated to this fighter. Set up 1 new fighter with the Disciples of Tzeentch: Daemons (Tzeentch Daemons) faction runemark and the Minion (Minion) runemark on the battlefield within 3" of this fighter. Then, this fighter is taken down. In a campaign battle, do not make an injury roll for this fighter.
 ---
 
+## Corvus Cabal Background Tables
+
+### Corvus Cabal Names
+**Type:** misc
+D10 First Name D10 Last Name1 Veig1 Cohl2 Siv2 Drehst3 Crin3 Veel4 Irik4 Nas5 Rusa5 Sarak6 Dis6 Ranis7 Shen7 Kris8 Ao8 Shrak9 Kiri9 Braka10 Tyen10 Crul
+---
+### Corvus Cabal Origins
+**Type:** misc
+White Dwarf #483 Warcry Core Book 2019 D6 Origin1 Vow of Silence: Your warband has taken their ritualistic maiming one step further in devotion to the Great Gatherer. Their severed vocal chords no longer produce any noise at all.2 Tree-runners: Your warband prefers to stalk the highest trees within the Gnarlwood's canopy.3 Gargoyles: Your warband is used to spending hours, even days, in the same vantage spot.4 Taint of the Eightpoints: Your warband once fought for Archaon's favour within the Bloodwind Spoil.5 Duplicitous: Your warband prefers to lead enemies into traps before finishing them off.6 Zealous Killers: Your warriors seek out and kill those marked for death by the Great Gatherer.D6 Origin1 Trophy-takers: Your warband carves trophies from the flesh of those they have slain.2 Roof-runners: Your warband stalks the roofs and spires of ruined cities.3 Gargoyles: You and your warriors are used to spending hours, even days, in the same vantage spot.4 Shades of the Eyrie: Your warband was once tasked with defending the Cabal's mountaintop stronghold.5 Infiltrators: There is no locked door or secured stronghold that your warband cannot breach.6 Zealous Killers: Your warriors seek out and kill those marked for death by the Great Gatherer.
+---
+### Corvus Cabal Leader Background
+**Type:** misc
+D6 Background1 Eyetaker: This warrior plucks out the eyes of their victims as keepsakes.2 Patient Cunning: This warrior always waits for the perfect moment to strike.3 Death From Above: This warrior prefers to end their foe's life with a single, brutal strike from on high.4 Realistic: This warrior is perfectly willing to retreat in order to win another day.5 Avaricious: This warrior will risk everything for a glittering prize.6 Ear-splitting Shriek: This warrior unleashes a piercing cry as they leap in to attack.
+---
+
 ## Hedonites of Slaanesh Background Tables
 
 ### Hedonites of Slaanesh Names
 **Type:** misc
 D10 First Name D10 Last Name1 Sybilath1the Radiarch2 Heartslake2 King-Queen of Revels3 Luxsion3of the Ninth Vice4 Soulvex4 Slashtongue5 Zelekyron5the Death of Virtue6 Sinsate6 Gildenglory7 Sslithian7 Godhunter8 Blisshowl8 Soulgorged9 Dareatha9the Last Muse10 Tarmelion10 Lightdrinker
 ---
+### Hedonites of Slaanesh Origins
+**Type:** misc
+D6 Origin1 Devoted: These warriors wholeheartedly believe their leader to be Slaanesh's rightful heir.2 Egomaniacs: Each member of this warband believes themselves to be the finest of all warriors.3 On the Hunt: Your warriors tirelessly hunt for their lost god, never halting in the chase.4 Soulseekers: Your warriors are forever seeking new unfortunate mortals to torment.5 Frenzied Despoilers: Your warriors desire nothing more than to spread vice and corruption.6 Addicted to Slaughter: The rush of killing has become an addiction for these Hedonites.
+---
 ### Hedonites of Slaanesh Leader Background
 **Type:** misc
 D6 Background1 Heir to the Sinful Throne: This warrior believes themselves destined to take the place of absent Slaanesh.2 Out of Favour: This warrior was once a Herald or warleader amongst their Host, and they wish to ascend to glory once more.3 Dark Muse: This warrior has led many artists and philosophers to a dark, obsession-fuelled end.4 Alluring: Those who face this warrior are struck dumb by their loathsome and strange beauty.5 Perfectionist: This warrior is obsessed with delivering perfect killing strikes.6 Hedonistic Exemplar: This warrior is fanatically devoted to a particular form of vice.
 ---
 
+## Skaven Background Tables
+
+### Skaven Names
+**Type:** misc
+D10 First Name D10 Last Name1 Kretch1 Slayer of Man-things2 Niritik2the Most-Favoured3 Ratch3 Lord of the Lash4 Grask4 Grand-Whiskers5 Rikkit5 Pox-Blessed6 Mange6 Blade-Tail7 Quirrik7the Swift and Cunning8 Yerg8 Almost-Loyal9 Gnarok9the Great Opportunist10 Klix10 Stab-in-the-Back
+---
+### Skaven Origins
+**Type:** misc
+D6 Origin1 Suicide Mission: Your clan's ruler has sent you on this mission thoroughly expecting you to fail.2 Realmstone Hunters: Your warband is searching for realmstone deposits to power the death-dealing contraptions of the Skryre clans.3 Plague Seekers: Your warband zealously hunts for ingredients to brew one of the Great Plagues.4 Killing Shadows: Your warriors are talented assassins, hunting down those marked for death.5 To Mould Monsters: At the command of your masters, your warband is looking for prime specimens to create new and terrible monsters.6 Natural-born Schemers: Your warriors are constantly looking for ways to undermine one another.
+---
+### Skaven Leader Background
+**Type:** misc
+D6 Background1 Black Hunger: This warrior's furious metabolism demands he constantly feed or otherwise perish.2 Warlock's Favourite: This warrior has been ‘rewarded' by the Skryre warlocks with new – and untested – inventions and weapons.3 The Withered Word: This warrior's squeaking oratory inspires a form of courage in their minions.4 Shade of Murder: No wall or gatehouse can stop this warrior from reaching their prey.5 It's Alive!: The mutated rat-beasts raised by this warrior are truly horrific examples of their kind.6 Vicious Fighter: This warrior is a surprisingly courageous fighter – for a skaven, at least.
+---
+
+## Claws of Karanak Background Tables
+
+### Claws of Karanak Names
+**Type:** misc
+D10 First Name D10 Last Name1 Hak1 [No last name] 2 Gral2 Blood-Jaw3 Kor3 The Devourer4 Rof4 Godsclaw5 [Unintelligble snarling] 5 [Unintelligble snarling] 6 Zor6 Mangler-of-the-weak7 Nek7 Bloodpelt8 Trax8 Feasts-upon-Cravens9 Vrok9 Tearer of a Thousand Throats10 Larx10 [Bloodthirsty Howls]
+---
+### Claws of Karanak Origins
+**Type:** misc
+D6 Origin1 Crimson Survivalists: These warriors are used to hunting through even the deadliest environments; their raw rage keeps them warm on the harshest nights.2 Marked Territory: Within a land claimed by Khorne's warhordes, this pack has carved out their own stalking ground. Woe betide any who intrude upon their domain.3 The Master's Hounds: This warband are the personal huntsmen of a powerful Khornate lord, and eagerly collect the remains of their enemies to pile at his feet.4 Punishers of the Pack: Other followers of Khorne who have earned their god's displeasure are this warband's favoured prey.5 The Beast Beneath: Though perhaps even they do not remember it, these warriors were once worshippers of the God-King, their souls set aflame by a Flesh Hound's roar.6 A Hunt beyond Sanity: It is said that these ferocious warriors have even prowled the blasted lands of Khorne's domain. They are far too deranged to confirm or deny it.
+---
+### Claws of Karanak Leader Background
+**Type:** misc
+D6 Background1 One with the Monster: This warrior is entirely at home in the Chaos-ravaged wilds; even the merest hint of civilisation drives them into a furious rage.2 Cacophony of Slaughter: When this warrior throws back their head and roars, nearby canines:** especially those of daemonic provenance:** cannot help but add to the din.3 Cursed Appetite -This warrior refuses to consume anything except the raw flesh of enemies they have personally slaughtered.4 Shadow of the Hound: This warrior was 'awakened' by a howl loosed from one of Karanak's three throats:** a sure mark of greatness.5 Hunter of the Hated Arcane: This champion armour is hung with bloody skins and pelts ripped from sorcerers of many different species.6 Inevitable Vengeance: So potent is this warrior's sense for any who defy Khorne that they can track them even through the realmgate portals.
+---
+
+## Disciples of Tzeentch Background Tables
+
+### Disciples of Tzeentch Names
+**Type:** misc
+D10 First Name D10 Last Name1 Paralax1 Xalarap2 Vyzorak2 P'teimus3 Ocladius3 Shimmer-Twist4 Iridios4 Xamolomax5 Zirithinion5 The Burning Jester6 Ak'glar6 R'tecfar7 Kleok7 Quiverbloom8 Morax'nar8 Zxyrtx9 Shrixgyrl9 Thalamyr10 Virikizzik10 Inkineilis
+---
+### Disciples of Tzeentch Origins
+**Type:** misc
+D6 Origin1 To the Master's Tune: Your warband is entangled in a complex web of plots and schemes.2 The Hidden Threat: Your warriors lurk amidst enemy territory, waiting for the perfect moment to strike.3 Seeking Ascension: Your warriors wish to mutate into new and wondrous forms – or have done so already.4 A Foolish Pact: Your warband once made an alliance with a local warlord, but you have long since betrayed them for personal gain.5 Duplicitous: Your warriors delight in spreading confusion and misrule wherever they go.6 Pyromaniacal: These warriors seek to bring Tzeentch's flickering fires to all they encounter.
+---
+### Disciples of Tzeentch Leader Background
+**Type:** misc
+D6 Background1 Cackling Maniac: Even by the standards of Tzeentch's servants, this warrior is truly mad.2 Wheels within Wheels: This warrior is particularly adept at manipulating others to serve their will.3 Child of Flux: This warrior seeks new mutations, no matter how impractical, with a rabid devotion.4 Aethereater: This daemon seeks to find:** and devour:** powerful manifestations of magic.5 A Wicked Jest: This daemon has a cruel sense of humour and delights in tormenting mortals.6 Wreathed in Warpflame: Bright changefire constantly surrounds this cackling daemon.
+---
+
+## Cypher Lords Background Tables
+
+### Cypher Lords Names
+**Type:** misc
+D10 First Name D10 Last Name1 Sentilia1 Baneggio2 Vigus2 Tatravellan3 Carastes3 Calcis4 Benalo4 Fabridian5 Talmen5 Morenigo6 Arelius6 Calmarand7 Vorsima7 Halpurnis8 Palania8 Ventamilio9 Semili9 Pullos10 Truscala10 Daneggia
+---
+### Cypher Lords Origins
+**Type:** misc
+D6 Origin1 Alchemists: Your warriors specialise in the brewing of mind-altering potions and hallucinogenic bombs.2 Agents of Nochseed: Your warriors take the guise of diplomats and traders, infiltrating rival cities.3 Deceptive Duellists: You are students of the College of Mirrors, Nochseed's premier martial academy.4 Thrallmasters: Your warband was charged with recruiting worthy battle-thralls for the Cypher Lords.5 Secret Keepers: Your warband has stared into the depths of madness, and gleaned prophetic secrets.6 King-killers: You and your warriors are experts in the art of instigating coups and violent revolts
+---
+### Cypher Lords Leader Background
+**Type:** misc
+D6 Background1 Keen Wit: This warrior is an urbane and charismatic presence, always ready with a cutting quip.2 Dark Obsession: This warrior offers a facade of civility, but indulges in an appalling secret vice.3 Master of the Eight Forms: This warrior is a peerless swordfighter, and takes every chance to prove it.4 Unsettling Gaze: One gaze into this warrior's eyes reveals an inner well of madness.5 Connoisseur: This warrior seeks only the finest things:** whether thralls, food or opponents.6 Voice-thrower: This warrior can project their voice, frightening and unsettling their foes.
+---
+
 ## Darkoath Savagers Background Tables
 
+### Darkoath Savagers Names
+**Type:** misc
+D10 First Name D10 Last Name1 Drogar1 Foe-Hewer2 Yelez2 Caerogg3 Orngold3 Son of Trenkar4 Ealgaith4 Jaggada5 Armax5 Speaker to Daemons6 Taulveg6 Mharox7 Dagevulf7 Beast-Butcher8 Gronnmar8 Thaggar9 Porllos9 Man-Breaker10 Holgar10 Logolf
+---
 ### Darkoath Savagers Origins
 **Type:** misc
 D6 Origin1 Divine Visitations: This warband has been guided on its latest quest by visions that they believe stem from the gods themselves.2 Vow of the Soulfeast: The warriors of this warband have sworn to feed the gods' soul-hunger by slaughtering enemies of as many species and creeds as they can.3 Live Off the Land: Exiles from their former tribe, this warband is well used to subsistence living and taking what they need through brutal raids.4 Vow of Dark Tribute: Having sworn an oath before one of the mighty Varanguard, this warband proudly serves dread Archaon in acquiring varanite.5 Truly Fearless: This warband deliberately seeks out the most harrowing crucibles of battle in which to prove their valour.6 Purest Savagery: These warriors move unseen and unheard, silently tracking their prey.
@@ -927,11 +1564,94 @@ D6 Origin1 Divine Visitations: This warband has been guided on its latest quest 
 D6 Background1 Strong Right Hand: This warrior serves directly beneath a powerful Chieftain or Warqueen, enforcing their will amongst the ruinous tribes.2 Grisly Excesses: Such is this warrior's savage lust for violence that they will continue to hack apart and mutilate their foes even after they are dead.3 Glory at Any Cost: Even other Darkoath stand in awe of the lengths that this warrior will go to in order to fulfil their vows.4 Marked for Greatness: The tribal shamans watch this warrior closely, muttering that the vows they have fulfilled have already drawn the gaze of the gods.5 Ancestral Shame: One of this warrior's kin failed to fulfil an oath to the gods, a shame the leader now fights to rise above.6 The Craven Arcane: This warrior does not trust any who wield the power of sorcery, not even those sworn to the Dark Gods.
 ---
 
+## Iron Golem Background Tables
+
+### Iron Golem Names
+**Type:** misc
+D10 First Name D10 Last Name1 Sever1 Drammer2 Garn2 Greel3 Broch3 Varsk4 Malek4 Bannor5 Vos5 Sorgev6 Drann6 Dredj7 Borscha7 Scorl8 Varka8 Haddun9 Crola9 Kolsk10 Brujde10 Stalis
+---
+### Iron Golem Origins
+**Type:** misc
+D6 Origin1 Overseers: Your warband oversaw the labouring of the Iron Golems' thralls with ruthless cruelty.2 Weaponsmiths: The blades and hammers crafted by your warband are of masterful quality.3 Onyx Guard: Your warband were elite guardians of the Onyx Fist, the Golems' Dreadhold.4 Breaching Party: Your warriors are experts at smashing a path through enemy fortifications.5 Voice of the Golem: It was your duty to enforce the collection of tribute from the Golems' vassal states.6 Veterans of the Ash War: Your warband took part in the battle to recapture the dragon Axranathos, when the creature broke free.
+---
+### Iron Golem Leader Background
+**Type:** misc
+D6 Background1 Blood of Mithraxes: This warrior is a proud relation of High Overlord Mithraxes, ruler of the Iron Golems.2 Drillmaster:: This warrior is responsible for maintaining cohesion and discipline in the ranks of the Golems.3 Dragon-marked: This warrior was burned by the fires of Axranathos, and wears these marks proudly.4 Cruel Tyrant: This warrior commands through sheer brutality.5 Vengeful: This warrior never forgives a slight, and seeks vengeance with single-minded ferocity.6 Unstoppable Force: This warrior eschews tactical cunning, preferring to face every threat head-on.
+---
+
 ## Horns of Hashut Background Tables
 
+### Horns of Hashut Names
+**Type:** misc
+D10 First Name D10 Last Name1 Hauptar1 Xhun2 Xhelon2 Draxh3 Curash3 Vu!4 Vornast4 Narr5 Tarax5 Kharst6 Bazoth6 Ghrash7 Korazh7 Tham8 Auron8 Drash9 Udash9 Naal10 Kallat10 Rhax
+---
 ### Horns of Hashut Origins
 **Type:** misc
 D6 Origin1 Bringers of Fire: It is the task of these warriors to scorch the land, incinerating any hint of life to pave the way for Hashut's legions.2 Shrine-breakers: These warriors strike at the heart of their foes by targeting shrines, temples and symbols of non-Hashutite faiths.3 Taskmasters: It is the task of these warriors to ensure that Hashut's will is carried out, and punish those who fail him.4 Infernal Brand: These warriors have been branded by one of Hashut's high-ranking priests, and serve their merciless master without question.5 Heralds of Desolation: These warriors advance ahead of the Horns' main force, eliminating scouts, watchtowers and other advanced positions.6 Siegebreakers: These Horns are experts atshattering the walls of great fortresses, opening breaches to let their comrades through
+---
+### Horns of Hashut Leader Background
+**Type:** misc
+D6 Background1 Fist of the Prophet: This warrior serves one of Hashut's merciless sorcerer-prophets, killing and destroying in their name.2 Pitiless Tyrant: This warrior delights in crushing those who cannot defend themselves, for the weak do not deserve to exist.3 Enemy of Nature: This warrior despises the teeming wildness of nature, and delights in setting it aflame.4 Breath of Cinders: Infernal cinders constantly spill from the nostrils of this warrior's hashutaar war-mask.5 Unstoppable Charge: When this warrior thunders forward, there is no force in the realms that can hold them back.6 Ruinous Exemplar: This warrior is marked with runic brands that tell of a long history of destruction and slaughter.
+---
+
+## Slaves to Darkness Background Tables
+
+### Slaves to Darkness Names
+**Type:** misc
+D10 First Name D10 Last Name1 Engra1 Varx2 Kardoc2 Blackrune3 Hroth3 Shaargol4 Strykaar4 Deathsword5 Harahath5 Kul6 Arkorga6 Ironsoul7 Ranlof7 Travos8 Malakh8 Swordsson9 Korag9 Varkarian10 Thoromus10 Daemonblood
+---
+### Slaves to Darkness Origins
+**Type:** misc
+D6 Origin1 The Path to Ruin: Through acts of carnage, your warband has begun to attract the gaze of the gods.2 Dark Champions: These warriors do not miss an opportunity to prove their prowess in battle.3 The Dark Arts: Your warband serves the tribal shamans by seeking out arcane treasures.4 Spreaders of Corruption: You and your warriors seek to spread the taint of Chaos far and wide.5 Host of Conquerors: Your warband has fought among the conquering armies of the Everchosen himself.6 Godtouched: Your warriors are deeply engaged in the worship of one particular aspect of Chaos.
+---
+### Slaves to Darkness Leader Background
+**Type:** misc
+D6 Background1 The Mark of Chaos: This warrior has earned the mark of one of the Ruinous Powers.2 Infamous Warleader: This warrior's dark charisma sees many would-be champions flock to their banner.3 Infernal Knowledge: This warrior has fought for many years and has seen much of the dark power of Chaos.4 Touched by the Divine: It is said that daemonic power courses through this warrior's veins.5 Brand of the Everchosen: This warrior bears Archaon's own eight-pointed mark on their flesh or armour.6 Exalted: Bloody omens suggest that this warrior is destined for greatness in the eyes of the gods.
+---
+
+## Scions of the Flame Background Tables
+
+### Scions of the Flame Names
+**Type:** misc
+D10 First Name D10 Last Name1 Helax1 Xetrask2 Vaktrian2 Hastanax3 Krastos3 Xorthanox4 Narmastos4 Khorvax5 Travakos5 Vortros6 Raxos6 Grannox7 Vatra7 Xertes8 Ottraya8 Callanax9 Sephemos9 Tyrannos10 Kalexes10 Carvas
+---
+### Scions of the Flame Origins
+**Type:** misc
+D6 Origin1 Proselytisers: Your warband has travelled far across Aqshy, preaching its brutal creed.2 Ragerock Hunters: Your warband was responsible for seeking out deposits of precious ragerock.3 Ashen Ones: Your warband reveres the Ashen King, a legendary servant of the Ever-Raging Flame.4 Inquisitors: Your warband roots out any souls who doubt the primacy of the Flame.5 Tunnel Fighters: Veterans of many underground battles, your warriors are experts in closequarters combat.6 True Fanatics: Utterly devoted to the worship of the Flame, death means nothing to your warriors.
+---
+### Scions of the Flame Leader Background
+**Type:** misc
+D6 Background1 Booming Voice: This warrior's voice rings out thunderously across the field of battle.2 Reborn in the Flames: This warrior has survived immolation, and emerged all the stronger.3 Hatred of Duardin: This warrior despises the covetous duardin, who lay claim to vast stocks of ragerock.4 Quick to Anger: This warrior is hot-blooded and aggressive, a living embodiment of Aqshy.5 Holy Warrior: This warrior seeks out rival preachers to purge with cleansing flame.6 Orator: In battle, this warrior recites the creed of the Ever-Raging Flame.
+---
+
+## Spire Tyrants Background Tables
+
+### Spire Tyrants Names
+**Type:** misc
+D10 First Name D10 Last Name1 Norsc1of the Bloody Shield2 Ghraddus2 Skullsplitter3 Kalenya3the Black4 Banusk4 Bane of Cowards5 Traskor5the Titan6 Kroll6 Heart-eater7 Sharrak7the Spider8 Talya8the Undefeated9 Orresk9 Spinebreaker10 Nemetta10 Splithelm
+---
+### Spire Tyrants Origins
+**Type:** misc
+D6 Origin1 Errant Gladiators: Your warriors butchered their guards and broke free of the arena.2 Bodyguards: Your warband has earned coin and prestige as hired spears for several warlords.3 Crowd Favourites: Your warband's reputation for savagery and showmanship precedes them.4 Hunted: Your warband has earned the ire of powerful foes who seek their destruction.5 Monster Hunters: Mere mortals no longer offer a challenge. Your warriors seek greater prey.6 Freed Ones: You put on such a spectacle in the arena that an influential Chaos Lord secured your release.
+---
+### Spire Tyrants Leader Background
+**Type:** misc
+D6 Background1 Breathtaking Arrogance: As far as this warrior is concerned, no enemy is their equal in battle.2 Death Tally: This warrior marks every kill they have ever made upon their flesh or armour.3 Disfigured: This warrior has suffered a horrendous wound that renders them a most fearful sight.4 Vaunting Ambition: This warrior seeks power with a furious intensity.5 Signature Kill: This warrior has a favoured method of despatching their foes.6 Oppressor: This warrior likes nothing more than brutalising those weaker than they.
+---
+
+## Jade Obelisk Background Tables
+
+### Jade Obelisk Names
+**Type:** misc
+D10 First Name D10 Last Name1 Korebaal1the Breaker2 Ashanaba2the Destroyer3 Hasturan3the Ruiner4 Ibnaal4the Defiler5 Kaboran5the Demolisher6 Qanalas6the Crusher7 Xomen7the Cleaver8 Nazzipar8the Shatterer9 Shorunap9the Despoiler10 Hutran10the Smasher
+---
+### Jade Obelisk Origins
+**Type:** misc
+D6 Origin1 Stonecursed Ones: These warriors are almost entirely consumed by the petrifying curse that plagues the Jade Obelisk, and their every motion is a creaking agony.2 Descendants of Mephrobaal: These warriors trace their lineage to the great Mason-King that led the Jade Obelisk into damnation.3 Idolarc Sculptors: It is the duty of these warriors to erect monuments fashioned in the image of an ldolarc, in the hope that these statues might come to life.4 Stone-shapers: These warriors are experts in sculpting weapons and armour from the petrified flesh of their slain foes.5 Jade Exiles: These warriors have been cast out from the Jade Obelisk and must earn their place again with a worthy offering to the Speaker in the Stone.6 Embittered: These warriors despise the Speaker in the Stone and their current predicament, but their petrifying curse robs them of the chance to rebel.
+---
+### Jade Obelisk Leader Background
+**Type:** misc
+D6 Background1 Grand Nephrite: The leader has consumed powdered jade with every meal for years, and their skin has taken something of its hue.2 Sculptor of Foes: Toe leader relishes carving the flesh of the enemy into more pleasing, linear shapes, the better to honour Mephrobaal.3 Cadence of the Chisel: The ritual dagger of this leader strikes with the methodical rhythm of the sculptor's finest tools, over and again.4 Maskless: This leader forsakes the mask of jade. Her expression fixed, she has become one with the stone, just as the stone is one with her.5 Daughter of Jade: This leader claims to have hatched from a giant egg of pure nephrite, and given the gleam in her eye, few care to dispute it.6 Iconoclairvoyant: The leader can unnerringly find her way to the statues of gods, the better to destroy them.
 ---
 
 ## Vulkyn Flameseekers Quests
@@ -939,6 +1659,10 @@ D6 Origin1 Bringers of Fire: It is the task of these warriors to scorch the land
 ### The Unborn Lost
 **Type:** misc
 The Magmadroth and their spawn are of paramount importance to those bellicose and hot-tempered duardin, for Kyndledroths are pivotal to the future continued success of the Fyreslayers themselves. Choose a Vulkyn Runefather in your warband who can gain a heroic trait and make a note in your quest log. While embarked upon this quest, you must keep track of your warband's efforts to find the lost clutch, represented by a hatchling score. At the end of a battle, add 1 to your hatchling score: If your warband is holding 1 or more treasure tokens. If you control 1 or more objectives. For each different table quarter that includes 1 or more friendly fighters. If a friendly fighter with the Beast (Beast) runemark ended each of their activations wholly within in a different table quarter each battle round and is on the battlefield. In addition, in step 4 of the aftermath sequence, add 1 to your hatchling score if you won your last campaign battle. You can complete this quest in step 4 of the aftermath sequence if your hatchling score is 8 or more. When you complete this quest, you can give the fighter you chose one of the heroic traits from the Guardians of the Scale Heroic Traits table below.
+---
+### Guardians of the Scale Heroic Traits
+**Type:** misc
+Heroic Traits Fire-heart The fierce temper of this warrior is made manifest every time they swing their axe.This fighter can use the 'Onslaught' ability without needing or using any ability dice.Ashen Lord The burning glare of this fighter can stall the actions of a rampaging gargant.Enemy fighters cannot use abilities while they are within 2" of this fighter.As Old As Stone This fighter is as gnarled as wrought iron, and wounds that would fell a hydra find no purchase on their fyresteel-hard flesh.When this fighter is targeted by a melee attack action, hit rolls of 1-3 are misses.Firm-footed When this warrior plants their feet, the strength of their blows shatter rock and bone with explosive force.Add 1 to the Attacks and Strength characteristics of melee attack actions made by this fighter in an activation where they made no move actions.Blazing Fists The fists of this warrior burst into flames when their runes ignite, wreathing their weapon in arcing gouts of fire.After this fighter uses an ability, until the end of the activation, melee attack actions made by this fighter score a critical hit on a 5+.Aspect of Grimnir This warrior echoes the legendary might of Grimnir of old, and when faced with insurmountable odds, redoubles their efforts.When this fighter makes a melee attack action, if each hit roll is a miss, count each miss as a hit instead.
 ---
 ### Born of Haste
 **Type:** misc
@@ -951,6 +1675,22 @@ You have found a location in which the potential resides to empower a Magmadroth
 ### Attacker And Defender
 **Type:** misc
 In this battle, the questing player is the defender and the adversary player is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The Spawning Pool: After deployment the defender must nominate one swamp board feature is secret and make a note of it. If there are no swamp board features on the battlefield floor, nominate a terrain feature in secret instead. The nominated terrain feature or board feature is the spawning pool. At the end of the battle round, if 1 or more attacking fighters are within 1" of the spawning pool, the defender must reveal which swamp board feature or terrain feature is the spawning pool.
+---
+### Victory
+**Type:** misc
+The battle ends after 4 battle rounds. At the end of the battle, if the attacker has 1 or more friendly models within 1" of the spawning pool, they are the winner. Otherwise, the defender is the winner.
+---
+### Twist
+**Type:** misc
+Charged Swamp Pools: At the end of each battle round, roll a dice for each fighter within a swamp board feature. On a roll of 2+, allocate a number of damage points to that fighter equal to the result of the roll.
 ---
 ### The Adversary Player
 **Type:** misc
@@ -1003,6 +1743,26 @@ Their long search at an end, the Wildercorps Hunters have but one more task to c
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Here Come The Cavalry
+**Type:** misc
+The attacker's dagger arrives in the third battle round. When they do so, the attacker can pick any point on the battlefield edge to be their deployment point.
+---
+### Victory
+**Type:** misc
+The battle ends when the defender's leader is taken down. Otherwise, the battle ends after 4 battle rounds. When the battle ends, if the defender's leader is taken down, the attacker Otherwise, the defender wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
+---
 ### The Aftermath Sequence
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence Renown to be Earned: The adversary player adds 1 to each renown roll they make in the aftermath sequence.
@@ -1035,6 +1795,22 @@ The Wildercorps have reached their target, and not a moment too soon. A lone her
 **Type:** misc
 In this battle, the questing player is the defender, and the adversary player is the attacker.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+The battle ends when the beleaguered hero is taken down. Otherwise, the battle ends after 4 battle rounds. At the end of the battle, if the beleaguered hero is taken down, the defender wins. Otherwise, the attacker wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
+---
 ### The Aftermath Sequence
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence: Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1061,6 +1837,10 @@ Artefacts Blade of the High Star This blade crackles with barely suppressed cele
 **Type:** misc
 Questor Soulsworn are sent on critical missions inspired by visions delivered unto them by the mightiest lords of Azyr. Pick a fighter in your warband that does not have the Beast runemark (Beast) and can gain a heroic trait, and note them in your quest log. You must keep track of your Warband's efforts to achieve their task with a vision score. While embarked upon this quest, after the deployment step, you must pick 1 of the visions below. Each time you fulfil a vision's condition, add 1 to your vision score. You cannot pick the same vision more than once before this quest is completed. Vision of War: Each friendly fighter that was set up on the battlefield during the deployment step must make at least three attack actions during the battle. Vision of Supremacy: Your opponent must pick 1 battlefield quarter. At the end of the battle, there must be more friendly fighters wholly within that table quarter than enemy fighters and you must have won the battle. Vision of Cleansing: Half or more of the enemy warband must be taken down. Vision of Righteousness: The enemy leader must be taken down by a melee attack action made by your leader. Vision of Order: Your opponent must place an objective marker on the battlefield floor more than 6" from the battlefield edge. At the end of the battle, your warband must control that objective. Vision of the High Star: At the end of the battle, there must be one or more friendly fighters on the battlefield's highest platform and you must have won the battle. You can complete this quest in step 4 of the aftermath sequence if your vision score is 3 or more. If you do so, you can give the fighter you picked when you embarked on this quest one of the heroic traits from the Champion of Azyr table below. If you choose not to complete this quest until you have a vision score of 6, you can give that fighter 2 heroic traits from the Champion of Azyr table below. If that fighter cannot have 2 heroic traits, you gain D6 glory instead.
 ---
+### Champion of Azyr table
+**Type:** misc
+Heroic traits Anointed of Azyr This mighty Stormcast walks in the light of Sigmar, and evil cannot bear their presence.Enemy fighters within 3" of this fighter cannot use abilities.Driven Crusader Every step this warrior takes is in service of ridding the Mortal Realms of darkness and ruin.Add 2 the Attacks characteristic of melee attack actions made by this fighter if they have made any move actions in the same activation.Guided by the Stars The resonance of the spheres seems to envelop this warrior, occasionally guiding them to greater victories.After this fighter is set up on the battlefield for the first time, roll 3 dice and place them to one side. Before this fighter makes an action or uses an ability, you can discard 1 of those dice to either i) gain a [double] with the same value as the dice, ii) improve one of your [doubles] that has the same value as the dice to a [triple], or iii) improve one of your [triples] that has the same value as the dice to a [quad]. The new [double], [triple] or [quad] must be used in this activation.Hardened Soul There are few forms of horror that this veteran warrior has not seen and bested.Add 3 to the Strength characteristic of melee attack actions made by this fighter.Marked by the Anvil This fighter has been Reforged so many times that fear and pain have become dulled to them. In battle they simply rise again to fight, no matter how seriously they are wounded.Subtract 1 from the damage points allocated by each hit and critical hit (to a minimum of 1) from attack actions that target this fighter.Redeemed Soul This hero carries the burden of being one of the Redeemed, a former Champion of Chaos who was struck down by Ghal Maraz itself. Though often mistrusted by their fellows, they are potent warriors all.Add 1 to the Move characteristic and 1 to the Toughness characteristic of this fighter.
+---
 ### Dawnbringers
 **Type:** misc
 One of the many duties of the Stormcast Eternals is to return civilisation to the realms, and so bands of Soulsworn are sometimes dispatched to protect outposts established by the Dawnbringer Crusades. While embarked upon this quest, you must keep track of the development of a nearby outpost with a construction score. Add 1 to your construction score: Each time an enemy fighter is taken down within 1" of a terrain feature. At the end of the battle round if your warband controls any objectives. At the end of the battle round if any friendly fighters are carrying treasure. At the end of the battle round if all friendly fighters are more than 3" from the battlefield edge. In addition, in step 4 of the aftermath sequence, add 2 to your construction score if you won your last campaign battle. While your construction score totals 13 or more, you can fight battles using the ‘Dawnbringer Defence' quest battleplan below. If you do so and you win the battle, in step 4 of the aftermath sequence, you can complete this quest. If you do so, in step 5, you can relocate your warband's encampment to the ‘Dawnbringer Outpost' (see below) and do not need to spend any glory to do so. Battleplan Quest Battleplan: Dawnbringer Defense Your stubborn defence of this outpost can be borne by your foes no longer, and now a mighty warlord has summoned a great horde to attack. Their numbers are without limit, and it is only a matter of time before your warband is overwhelmed. But you were created to shoulder such burdens; all that matters is to buy enough time for the Dawnbringers to marshal their forces.Attacker And Defender In this battle, the questing player is the defender and the adversary player is the attacker.Terrain Set up terrain as normal.Deployment Use the deployment map below. The defender is red and the attacker is blue.Victory The battle ends after 6 battle rounds. At the end of the battle, if there are 3 or more defending fighters within 3" of the centre of the battlefield, and half or more of the attacking fighters have been taken down, the defender wins. Otherwise the attacker wins.Twist — Endless Horde Each time an attacking fighter that does not have the Hero (Hero) runemark is taken down, the attacker sets up that fighter once more on the battlefield, within 3" of the battlefield edge. That fighter no longer counts as being taken down and they have no damage points allocated to them. Do not make an injury roll for that fighter unless they are taken down after the fourth battle round.The Aftermath Sequence The adversary player receives the following bonus in the aftermath sequence:Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1072,6 +1852,18 @@ Your stubborn defence of this outpost can be borne by your foes no longer, and n
 ### Attacker And Defender
 **Type:** misc
 In this battle, the questing player is the defender and the adversary player is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is red and the attacker is blue.
+---
+### Victory
+**Type:** misc
+The battle ends after 6 battle rounds. At the end of the battle, if there are 3 or more defending fighters within 3" of the centre of the battlefield, and half or more of the attacking fighters have been taken down, the defender wins. Otherwise the attacker wins.
 ---
 ### Twist — Endless Horde
 **Type:** misc
@@ -1116,6 +1908,22 @@ The vile thief has been tracked down and is within your grasp. However, no fool 
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+The battle ends after 4 battle rounds. At the end of the battle, if one of the attacking fighters is carrying treasure, the attacker wins. Otherwise, the defender wins.
+---
+### Twist — Priceless ‘Treasure'
+**Type:** misc
+None know why these ghouls adore this particular piece of filth-covered gristle and bone. You have wisely used it to lure them into an ambush. The defender must pick 1 fighter in their Shield. That fighter is carrying treasure. No other defending fighter can carry treasure.
+---
 ### The Adversary Player
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence: Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1138,6 +1946,10 @@ D66 Result11-16 Return Empty-Handed Your warrior returns with nothing of worth.T
 ### Kunnin' Theft
 **Type:** misc
 Bands of Monsta-killaz find endless entertainment in luring a victim into a nasty ambush by running off with their hard-won treasure. Those boyz that nick the best loot are afforded high praise, which is to say that they brag ceaselessly about their triumphs and repeatedly shank anyone who gainsays them. Choose a Beastnob in your warband who can gain a heroic trait and make a note in your quest log. While embarked upon this quest, you must track the progress of your warband's efforts to lure victims to their doom, represented with a pilferin' score. At the end of a battle, add 1 to your pilferin' score for each of the following that is true: Half or more of the fighters in the enemy warband are taken down. One or more enemy fighters each have 3 or more friendly fighters within 1" of them. Each enemy fighter on the battlefield has 1 or more damage points allocated to them. In addition, in step 4 of the aftermath sequence add 1 to your pilferin' score if you won your last campaign battle. You can complete this quest in step 4 of the aftermath sequence if your pilferin' score is 3 or more. When you complete this quest you can give the fighter you chose one of the heroic traits from the 'Orrible Gitz Heroic Traits table below.
+---
+### 'Orrible Gitz Heroic Traits table
+**Type:** misc
+Heroic Trait A Nasty Piece of Work When this orruk rams their jagged weapon home, they always give it a nasty twist.Once per battle round, after this fighter makes a melee attack action, if that action scored any hits or critical hits, roll a dice. On a roll of 2+, allocate 5 damage points to the target.Unrepentant Git This conniving orruk sends their enemies into a blind rage by nicking their stuff and promptly uses their prized possessions as a shield, from behind which they mock their attackers ceaselessly.Subtract 1 from the damage points allocated by each hit and critical hit (to a minimum of 1) from melee attack actions that target this fighter.Egomaniak This self-important boss is willing to use anyone to protect his own hide.When this fighter is allocated 1 or more damage points, you can pick a friendly fighter within 3" of this fighter. If you do so, allocate those damage points to the friendly fighter you picked.Sneaky Rat This warrior poisons food, taints water and leaves nasty, biting surprises in bedrolls. Sometimes, he even does it to the enemy.After deployment, pick 1 enemy battle group on the battlefield and roll a dice for each fighter in that battle group. On a roll of 3+, allocate 3 damage points to that fighter.Supa Sneaky Master of the ambush, you can never predict where or when this fighter will appear.After deployment, this fighter can be removed from the battlefield and set up as if they were part of another friendly battle group, including a battle group that is in reserve. This fighter remains part of their original battle group for all other rules purposes. If more than 1 player has this heroic trait, those players roll off. The winner chooses the order in which the players use this heroic trait.Beastkilla Boss This boss has taken down some of the biggest and meanest beasts around.When this fighter makes a melee attack action that targets a fighter with a Wounds characteristic of 20 or greater, melee attack actions score a critical hit on a 5+.
 ---
 ### Murky Watnots table
 **Type:** misc
@@ -1170,6 +1982,10 @@ Relics Amulet of Sanguine Might This amulet stores a thimbleful of an ancient va
 **Type:** misc
 No matter the provenance of a Soulblight Gravelords hero, all share one trait: a lust for power and control that transcends even death itself. Soulblight Gravelords will take every opportunity to prove their power, either through cunning, mystical prowess or sheer physical might. Pick a fighter with the Hero (Hero) runemark in your warband that can gain a heroic trait and note them in your quest log. While embarked upon this quest, you must keep track of your hero's ascending power, represented by a dominance score. Add 1 to your dominance score each time: An enemy fighter is taken down by a friendly leader's attack action or ability. Add a further 1 to your dominance score if that enemy fighter had the Hero (Hero) runemark. Each time a friendly leader uses the Summon Undead Minions ability. Each time a friendly leader uses the Vanhel's Danse Macabre ability. You can complete this quest once your dominance score is 8 or more. When you complete this quest, you can give the fighter you picked one of the heroic traits from the Soulblight Gravelords Heroic Traits below.
 ---
+### Soulblight Gravelords Heroic Traits
+**Type:** misc
+Soulblight Gravelords Heroic Traits Skin Like Marble Undead flesh, empowered by necromantic energies, yields for nothing. Subtract 1 from the damage points allocated by each hit and critical hit (to a minimum of 1) from attack actions that target this fighter.Undead Commander There can be no doubt of this creature's imposing power, as the deathly energy of Shyish surges through them and their allies. Once per battle, this fighter can use the 'Inspiring Presence' ability without spending a [triple]. If they do so, they can pick up to 2 fighters instead of 1 to activate immediately after this fighter's activation ends. If they do so, those fighters are activated immediately one after the other, in an order chosen by the player controlling this fighter.Font of Power Immense magical might empowers nearby minions, as their weapons are enveloped in amethyst flame. Add 1 to the Attacks characteristic of melee attack actions made by friendly fighters with the Minion (+) runemark within 3" of this fighter.Blood-crazed This warrior demands blood in immense quantities and does whatever they can to drench themselves in it whenever possible. Add 3 to the damage points allocated by each critical hit from melee attack actions made by the bearer.Aura of Shyish Life drains in ever greater quantities from those in the presence of this vile creature. Allocate X damage points to each enemy fighter within l" of this fighter at the end of each battle round, where X is the battle round number.Ancient Warrior Time is on the side of every undead lord, allowing them to perfect whatever martial art they choose. Add 1 to the Toughness characteristic of this fighter, and add 1 to the Strength characteristics of melee attack actions made by the bearer.
+---
 ### Quest Battleplan: From Rubble to Redoubt
 **Type:** misc
 Dedicated servants scrabble over each other to assemble a prefecture worthy of a grand undead throne. In the distance, malcontents rush towards this great construction, eager to prevent the foundations of such a fiendish manse from being laid. The undead must look to the defence of this settlement before the second brick is even placed upon the first!
@@ -1177,6 +1993,22 @@ Dedicated servants scrabble over each other to assemble a prefecture worthy of a
 ### Attacker and Defender
 **Type:** misc
 In this battle, the questing player is the defender, and the adversary player is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain using the alternative terrain rules. The defender must set up each terrain feature, and there must be 1 or more of each of the following terrain features in each table quarter: barricade, ribcage, shattered post or palisade terrain feature that is not more than 4" across in any dimension. These terrain features are referred to as 'foundations' in this battleplan. Foundations cannot be set up within 6" of the centre of the battlefield.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red. The battlefield is divided into quarters as shown on the map.
+---
+### Victory
+**Type:** misc
+At the end of each battle round, if there are more defenders within 1" of a foundation than there are attackers, then that foundation is laid. If more foundations in a quare are laid than are not, that quarter is secure. The battle ends after 4 battle rounds. At the end of the battle, if three or more quarters are secure, the defender wins. Otherwise the attacker wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -1201,6 +2033,10 @@ Fruits of Dark Alchemy The Seeping Mask The stinking yellowish sap that streams 
 **Type:** misc
 Witherlords are master alchemists who seek to study their foul god's taint upon the realms and reap his many blessings. Pick a Witherlord in your warband that can gain a heroic trait and note them in your quest log. See page 104 of the Core Book to find out how fighters can gain a heroic trait. While embarked upon this quest, in step 4 of a campaign battle's aftermath sequence, you can complete this quest if an enemy fighter was taken down in that battle by the Witherlord you picked using the 'Lethal Injection' ability. When you complete this quest, you can give that Witherlord one of the heroic traits from the Creed Heroic Traits below.
 ---
+### Rotmire Creed Heroic Traits
+**Type:** misc
+Rotmire Creed Heroic Traits Festerous Stench A foetid smell clings to this warrior, one so repellent that it makes their enemies retch and choke as they close in. Subtract 1 from the Attacks characteristics of melee attack actions made by enemy fighters (to a minimum of 1) while they are within 1" of this fighter.Leeches o' Lurgy Pulsating leeches of sickly aspect feed upon the rotten blood of this Witherlord, expelling a vile miasma that poisons nearby enemies. Each time this fighter finishes their activation (including when they begin waiting), roll a dice for each visible enemy fighter within 3" of them. On a 3+, allocate D3 damage points to that fighter.Mucoid Wings Oily, membranous wings folded beneath the robes of this warrior allow them a short burst of flight in battle. Once per battle, this fighter can use this heroic trait to make a bonus move action and they can fly when they do so.Bilespurter Lord Leech's blessings have taken a hold of every artery and vein that runs through this warrior. Woe betide those enemies standing close to them should the turgid vessels be ruptured. When this fighter makes the 'Bile Blood' reaction, roll 3 dice instead of 1 for each critical hit scored from the attack action.Master Alchemist The toxins kept within this Witherlord's syringe are particularly deadly. When this fighter uses the 'Lethal Injection' ability, roll 1 extra dice.Grim Harvester As this warrior reaps the gory spoils of fallen foes, they feel themselves being invigorated by their beneficent god. When this fighter uses the 'Gruesome Harvest' ability, you can remove D6 damage points allocated to them.
+---
 ### The Putrid Transformation
 **Type:** misc
 Lord Leech's work would see you corrupt the land of the Gnarlwood, poisoning its soil until all that grows there becomes a putrid vector of disease. Slay your enemies, and with the remains of their rotting corpses fashion a monolith in your god's image to bring his influence to this land. While embarked upon this quest, you must keep track of the corpses harvested by your warband with a harvest score. Add 1 to your harvest score each time a fighter in your warband uses the 'Gruesome Harvest' ability in a campaign battle. While your harvest score totals 7 or more, you can fight battles using the 'Site of Corruption' quest battleplan. If you do so and you win the battle, in step 4 of the aftermath sequence, you can complete this quest. If you do so, in step 5, you can relocate your warband's encampment to a 'Grotesque Totem' (see below) and do not need to spend any glory to do so. battleplan Quest Battleplan: Bleak Offerings Your idol is almost complete, but your enemies close in on all sides, threatening to see everything you have strived for undone. Fortunately, the flesh of these fools would be ideal for consecrating the totem. Strike them down and turn this land into the realm of Lord Leech.Attacker and Defender In this battle, the questing player is the defender and the adversary player is the attacker.Terrain Set up terrain as normal.Deployment Use the deployment map below. The defender is red and the attacker is blue.Victory Before the battle, the defender places 1 objective token within 3" horizontally of the centre of the battlefield: this is the idol.At the end of each battle round, if the defender controls the idol, they score 1 victory point. In addition, they score 1 victory point each time a fighter from their watband uses the 'Gruesome Harvest' ability. At the end of each battle round, if the attacker controls the idol, they score a number of victory points equal to the number of the current battle round. Each player scores 1 victory point each time an enemy player is taken down.The battle ends after 4 battle rounds. At the end of the battle, the player with the most victory points wins. If the score is tied, the defender wins.Twist Determine a twist as normal.The Aftermath Sequence The adversary player receives the following bonus in the aftermath sequence:Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1212,6 +2048,22 @@ Your idol is almost complete, but your enemies close in on all sides, threatenin
 ### Attacker and Defender
 **Type:** misc
 In this battle, the questing player is the defender and the adversary player is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is red and the attacker is blue.
+---
+### Victory
+**Type:** misc
+Before the battle, the defender places 1 objective token within 3" horizontally of the centre of the battlefield: this is the idol. At the end of each battle round, if the defender controls the idol, they score 1 victory point. In addition, they score 1 victory point each time a fighter from their watband uses the 'Gruesome Harvest' ability. At the end of each battle round, if the attacker controls the idol, they score a number of victory points equal to the number of the current battle round. Each player scores 1 victory point each time an enemy player is taken down. The battle ends after 4 battle rounds. At the end of the battle, the player with the most victory points wins. If the score is tied, the defender wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -1240,6 +2092,10 @@ Artefact Totem of Huanchi This emblem hangs from a leather strap and imbues the 
 **Type:** misc
 Chameleon Skinks have patience enough to watch the stars go out, if it will draw them closer to their prey. The greatest of them are acknowledged by all as master hunters, and without a doubt, these mighty stalkers are peerless in the realm of the predator and the prey. Pick a fighter with the Hero (Hero) runemark in your warband that can gain a heroic trait, and note them in your quest log. While embarked upon this quest, in step 4 of a campaign battle's aftermath sequence, you can complete this quest if 1 or more enemy fighters with the Hero (Hero) runemark and/or a Wounds characteristic of 12 or more were taken down in that battle by an attack action made by the fighter noted in your quest log. When you complete this quest, you can give that fighter one of the heroic traits from the Hunters of Huanchi Heroic Traits table below.
 ---
+### Hunters of Huanchi Heroic Traits
+**Type:** misc
+Heroic Trait The Perfect Hunter This fighter knows exactly where to strike and how.After deployment, this fighter can be removed from the battlefield and set up as if they were part of another friendly battle group, including a battle group that is in reserve. If more than 1 player has this heroic trait, those players roll off. The winner chooses the order in which the players use this heroic trait.Consummate Camouflage This fighter blends in with their surroundings as easily as breathing.This fighter can make the 'Take Cover' reaction without forfeiting one of their actions in that battle round.Coalesced Champion Having spent a long time in the Mortal Realms; this warrior has become one of the Coalesced and is driven by a vicious and predatory instinct.Each time an enemy fighter finishes a move action within 1" of this fighter, allocate 1 damage point to that enemy fighter.Cold-blooded Stalker This fighter evinces few emotions - fear and mercy least of all.When targeting an enemy tighter with the Hero (Hero) runemark and/or a greater Wounds characteristic than this fighter, add 1 to the Strength characteristic of attack actions made by this fighter and add 1 to the damage points allocated by each hit and critical hlt from attack actions made by this fighter.Withering Toxins The poisons this fighter uses are rare and deadly indeed.When this fighter uses the 'Envenomed Weapons' ability, add 2 to the damage points allocated by each hit and critical hit instead of 1.Seventh Sense This fighter can innately sense when danger lurks and can vanish the moment trouble rears its ugly head.This fighter can make the 'Slippery' reaction without forfeiting one of their actions in that battle round.
+---
 ### Scour the Gnarlwood
 **Type:** misc
 The Hunters of Huanchi have one purpose: to ensure that the Gnarlwood is clear of trespassers, in order to better protect their home in the heart of the forest. This means laying traps, executing masterful ambushes and, above all, making sure that no one discovers a meaningful path to the ruins of the Eye of Chotec. While embarked upon this quest, you must keep track of your warband's ambushes with an ambush score. Add 1 to your ambush score each time an enemy fighter is taken down in a campaign battle. While your ambush score totals 12 or more, you can fight battles using the 'Flee the Forest' quest battleplan. If you do so and you win the battle, in step 4 of the aftermath sequence, you can complete this quest. If you do so, in step 5, you can relocate your warband's encampment to the 'Heavenly Pool' (see below) and do not need to spend any glory to do so. battleplan Quest Battleplan: Flee the Forest Another warband attempts to flee the Gnarlwood, bearing valuable relics looted from Talaxis. They have been stalked by the Hunters of Huanchi ever since they left the ruins, their members sickened and injured. Now they are making a final break from the edge of the forest where safety (of a kind) awaits, and the skinks must ensure that none escape with the treasures they have stolen.Attacker And Defender In this battle, the questing player is the attacker and the adversary player is the defender.Terrain Set up terrain as normal.Deployment Use the deployment map below. The defender is red and the attacker is blue.Victory After deployment, the defender picks 3 fighters in their warband that are on the battlefield to carry treasure. If there are fewer than 3 fighters from their warband on the battlefield, they must place a treasure token on the battlefield floor within 6" of the centre of the battlefield.The battle ends after 4 battle rounds. At the end of the battle, if there are 2 or more fighters from the defender's warband carrying treasure within 3" of the battlefield edge, the defender wins the battle. Otherwise, the attacker wins.Twist Determine a twist as normal.The Aftermath Sequence The adversary player receives the following bonus in the aftermath sequence:Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1251,6 +2107,22 @@ Another warband attempts to flee the Gnarlwood, bearing valuable relics looted f
 ### Attacker And Defender
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is red and the attacker is blue.
+---
+### Victory
+**Type:** misc
+After deployment, the defender picks 3 fighters in their warband that are on the battlefield to carry treasure. If there are fewer than 3 fighters from their warband on the battlefield, they must place a treasure token on the battlefield floor within 6" of the centre of the battlefield. The battle ends after 4 battle rounds. At the end of the battle, if there are 2 or more fighters from the defender's warband carrying treasure within 3" of the battlefield edge, the defender wins the battle. Otherwise, the attacker wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -1279,6 +2151,10 @@ Infernal Rewards Blackshard Armour Forged within fires the colour of night, this
 **Type:** misc
 Prove your strength by brutally defeating your rivals. Leave no quarter, trample them into the dirt and cast their worthless remains into your forge fires. Then, the weaklings of the realms will learn your name, and they will come to fear you. Pick a fighter with the Hero runemark (Hero) in your warband that can gain a heroic trait and note them in your quest log. While embarked upon this quest, in step 4 of a campaign battle's aftermath sequence, you can complete this quest if an enemy fighter with the Hero runemark (Hero) was taken down in that battle by an attack action made or ability used by the fighter noted in your quest log. When you complete this quest, you can give that fighter one of the heroic traits from the Horns of Hashut Heroic Traits below.
 ---
+### Horns of Hashut Heroic Traits
+**Type:** misc
+Horns of Hashut Heroic Traits Contempt for Weakness To this warrior, even allies struck down have met a deserved fate, succumbing to a weakness this warrior believes they do not possess. When a friendly fighter is taken down within 9" of this fighter, this fighter becomes enraged. While this fighter is enraged, they can make a bonus attack action during their activation. If they do so, they are no longer enraged. A fighter cannot be enraged more than once at a time.Booming Voice The harsh commands of this warrior ring out across the battlefield. Once per battle, this fighter can use the 'Inspiring Presence' ability without needing or spending any ability dice. In addition, each time this fighter uses the 'Inspiring Presence' ability, a visible friendly fighter anywhere on the battlefield that has not activated yet this battle round can be picked, instead of only a visible friendly fighter within 6" of them.Skilled Weaponsmith The weapons forged by this warrior are of exceptional quality; foes who feel their cruel bite rarely live to see another dawn. Add 1 to the damage points allocated by each hit and critical hit from melee attack actions made by this fighter.Powerful Brute Stocky and heavily muscled, this warrior powers through the enemy's guard while laughing off their feeble return blows. Add 1 to the Strength characteristic of melee attack actions made by this fighter, and add 1 to the Toughness characteristic of this fighter.Raging Bull This warrior is filled with a berserk rage when enemies are in sight, possessed by a furious urge to run them down and trample them into the dirt. Once per battle, this fighter can use the 'Stampede of Iron' ability without needing or spending any ability dice. When they do so, the value of the ability is 6 before modifiers.Hellfire Breath Taking a mighty breath, this warrior suddenly exhales a blast of scorching-hot air and leaping tongues of flame as if their very mouth were a furnace being violently stoked. When this fighter makes the 'Breath of Cinder and Smoke' reaction, roll 2 D6 instead of a single dice. In addition, if the score is more than double the enemy fighter's Toughness characteristic, allocate 6 damage points to that enemy fighter instead of 3.
+---
 ### Trail Of Ash And Flame
 **Type:** misc
 An overseer of Hashut's legions approaches your warband and tasks you with putting a marked area of the Gnarlwood to the torch. The duardin is a cruel-hearted tyrant with a fiery temper, who threatens to your mount your heads on spikes if Hashut's work is not carried out. While embarked upon this quest, you must keep track of a progress score. In step 5 of each campaign battle's aftermath sequence, you can pick 1 fighter from your warband if you lost the battle, or up to 3 if you won the battle, and send them forth to torch the Gnarlwood. To do so, roll a dice for each fighter you picked and add the scores rolled to your progress score. In addition, on a 1, the fighter being rolled for is attacked by something within the Gnarlwood. Make an injury roll for that fighter. While your progress score totals 15 or more, you can fight battles using the 'Bring the Fire' quest battleplan. If you do so and you win the battle, in step 4 of the aftermath sequence, you can complete this quest. If you do so, in step 5, you can relocate your warband's encampment to 'Dominated Land' (see below) and do not need to spend any glory to do so. battleplan Quest Battleplan: Bring the Fire You have carved a fiery path through the Gnarlwood, yet your greatest challenge lies before you still. Your spies send word of an enemy encampment that lies ahead. Put it to flame and then use the ruins as your base of operations to oversee the total devastation of this land.Attacker and Defender In this battle, the questing player is the attacker and the adversary player is the defender.Terrain Set up terrain as normal.Deployment Use the deployment map below. The defender is blue and the attacker is red.Victory Before the battle, the defender places 6 objectives on the battlefield, each more than 6" from all other objectives and the battlefield edge.The attacker can choose to burn any objective they control at the end of a battle round if there are no enemy models within 3" of that objective. If they do so, remove it from play.If the attacker burns 3 objectives, they win the battle. Otherwise, after the end of the fourth battle round, the defender wins the battle.Twist Determine a twist as normal.The Aftermath Sequence The adversary player receives the following bonus in the aftermath sequence:Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1290,6 +2166,22 @@ You have carved a fiery path through the Gnarlwood, yet your greatest challenge 
 ### Attacker and Defender
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+Before the battle, the defender places 6 objectives on the battlefield, each more than 6" from all other objectives and the battlefield edge. The attacker can choose to burn any objective they control at the end of a battle round if there are no enemy models within 3" of that objective. If they do so, remove it from play. If the attacker burns 3 objectives, they win the battle. Otherwise, after the end of the fourth battle round, the defender wins the battle.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -1322,6 +2214,22 @@ The mists that protect the Idoneth Raiding Post are as deadly as they are potent
 **Type:** misc
 In this battle, the questing player is the defender, and the adversary player is the attacker.
 ---
+### Terrain
+**Type:** misc
+Set up terrain using the alternative terrain rules.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red. Before deploying, the defender must place their leader or a friendly fighter with the Mystic (Mystic) runemark and/or Priest (Priest) runemark as centrally as possible on the battlefield floor. That fighter is the ritualist. The ritualist cannot make move actions.
+---
+### Victory
+**Type:** misc
+The battle ends after 5 battle rounds. At the end of the battle, if the ritualist is on the battlefield, the defender wins. Otherwise, the attacker wins.
+---
+### Twist
+**Type:** misc
+Mindprey Mists The thick, enveloping mists emanating from the ritualist cause enemies to become forgetful and sluggish, making them easy prey. In the first battle round, fighters within 3" of the ritualist are considered to be in the mists. Add 3" to this distance in each subsequent battle round (so in the third battle round, fighters within 9" of the ritualist are considered to be in the mists). The attacker's fighters in the mists cannot use abilities or make reactions. A fighter in the mists is not visible to fighters that are not in the mists. Fighters in the mists are not visible to each other unless they are within 3" of each other.
+---
 ### The Aftermath Sequence
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence: Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1351,6 +2259,10 @@ Artefact Jade Plate The stones that make up this warrior's armour have been repl
 **Type:** misc
 Worthy souls sacrificed in the name of the Speaker in the Stone have their bodies turned to jade, which are then carved into weapons and armour to further empower the cult. Great respect is afforded to those who seek out and find such souls to sacrifice, and those who can fell such mighty warriors are held in even higher regard. Cult legend tells that if a warlord of incredible power is sacrificed, their body will yield a jade so pure that the weapons and armour forged from it shall be the most potent the Mortal Realms have ever seen. Pick a fighter with the Hero (Hero) runemark in your warband that can gain a heroic trait, and note them in your quest log. While embarked upon this quest, in step 4 of a campaign battle's aftermath sequence, you can complete this quest if 1 or more enemy fighters with the Hero (Hero) runemark and/or a Wounds characteristic of 20 or more were taken down in that battle by an attack action made by the fighter noted in your quest log. When you complete this quest, you can give that fighter one of the heroic traits from the Jade Obelisk Heroic Traits table below.
 ---
+### Jade Obelisk Heroic Traits
+**Type:** misc
+Heroic Trait Craftsman's Eye This fighter has spent years carving jade and flesh alike, and they can assess the intrinsic weakness of any foe or barricade set in their path.Add 1 to the damage points allocated by each critical hit from melee attack actions made by this fighter.Jade Zealot This fighter sees visions of a future where giant obelisks dominate the land, floating throughout the realm to cause great upheaval and discord. Whether these visions are prophetic in nature or simply the product of a deranged mind is impossible to know.If this fighter ends their activation more than 9" from a friendly fighter with the Jade Obelisk (Jade Obelisk) and Icon Bearer (Icon Bearer) runemarks, they can make a bonus move action. After that bonus move action, this fighter must be within 9" of a friendly lighter with the Jade Obelisk (Jade Obelisk) and Icon Bearer (Icon Bearer) runemarks.Jade Sunderer This fighter can break through jade, rock and metal with equal ease. Timid flesh proves a feeble obstacle.Add 1 to the Attacks characteristic of attack actions made by this fighter that target an enemy fighter with the Hero runemark (Hero) and/or a greater Wounds characteristic than this fighter.Totemic Invigoration This fighter is attuned to the might of the great monument of Nephricar; simple proximity to a Nephric Obelisk mends flesh and armour until no trace of any damage can be found.At the end of each battle round, if this fighter is within 9" of a friendly fighter with the Jade Obelisk (Jade Obelisk) and Icon Bearer (Icon Bearer) runemarks, remove D3 damage points allocated to this fighter.Determined Iconoclast There are no lengths to which this fighter will not go in order to commit the greatest acts of vandalism upon enemy sigils and icons of worship.At the end of this fighter's activation, they can make a bonus move action. That bonus move action must end within 3" of an objective, a treasure token or an enemy fighter with the Icon Bearer (Icon Bearer) runemark.Jade Monolith While a Nephric Obelisk is visible to them, this fighter's unwavering commitment to their pact makes them as unassailable and obstinate as solid rock.While this fighter is visible to a friendly lighter with the Jade Obelisk (Jade Obelisk) and Icon Bearer (Icon Bearer) runemarks, if a fighter uses an ability that requires an enemy fighter to be picked, this fighter cannot be picked.
+---
 ### Quest Battleplan: Your Works are Unmade
 **Type:** misc
 The Jade Obelisk have happened across a site of worship for those insipid fools who have faith in gods other than the True Pantheon. Advancing relentlessly, they take great pains to defile each and every icon and idol they find as the defenders seek to drive them back.
@@ -1358,6 +2270,18 @@ The Jade Obelisk have happened across a site of worship for those insipid fools 
 ### Attacker And Defender
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is red and the attacker is blue.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -1389,9 +2313,77 @@ D6 Background1 A Worthy Soul: Such is this warrior's charisma that their kin wou
 
 ## Flesh-eater Courts Background Tables
 
+### Flesh-eater Courts Names
+**Type:** misc
+D10 First Name D10 Last Name1 Glorich1the Pious2 Maldoros2 Sunlord3 Vushor3the Noble4 Glabios4 Drakeslayer5 Ubricht5 Oathtaker6 Pergrin6of the White Order7 Nathran7 Seeker of the Chalice8 Regulus8the Honourable9 Bromm9the Fasting Lord10 Edren10the Merry
+---
 ### Flesh-eater Courts Origins
 **Type:** misc
 D6 Origin1 Questing Knights: Your warband has travelled far across the realms, leaving blood and death in its wake.2 Inheritors of Ushoran: Your warriors believe that they are true inheritors of the Carrion King's power.3 Oathtakers: To prove their honour, each of your warriors has sworn to uphold a sacred vow.4 Chevaliers: In their delusion, your warriors believe they are riding mighty battle steeds.5 Feasting Champions: Each night your warband holds a mighty feast of raw and dripping flesh.6 Dragonslayers: Your warriors seek out the largest monsters to slay:** and to subsequently devour.
+---
+### Flesh-eater Courts Leader Background
+**Type:** misc
+D6 Background1 Commanding Crown: This warrior has stitched together a crown from hide and splintered bone.2 Gory Heraldry: This warrior smears their skin with gore, believing they are displaying noble heraldry.3 Flashes of Clarity: This warrior experiences terrible moments of clarity when feasting upon raw flesh.4 Honourable Duellist: Even as they tear at their foe, this warrior believes they observe proper martial decorum.5 Anointed One: This warrior believes they have been chosen by Ushoran himself for greatness.6 Appalling Reek: This warrior's odour of rotting flesh and unwashed skin is truly abominable.
+---
+
+## Askurgan Trueblades Background Tables
+
+### Askurgan Trueblades Names
+**Type:** misc
+D10 First Name D10 Last Name1 Mora-Kalat1 Jansuri2 Draketh2 Amberfang3 Târok3 The Red Victor4 Lauka4 Sekuji5 Důrom5 Slayer of the Great Tuskadrake6 Kazural6 Of the Scarlet Scimitars7 Xera-Yesuj7 Tokura8 Yutora8 Naka9 Viras-Nadath9 Bane of Titans10 Atalu10 The Blade of Dusk
+---
+### Askurgan Trueblades Origins
+**Type:** misc
+D6 Origin1 Red Mercy: A grim duty follows these vampires; a fellow initiate of the order has become a monster by freely indulging their thirst, and must be put down.2 Favoured Prey: Having identified a specific type of beast as the most worthy quarry, these vampires have trained extensively to overcome them.3 Outcasts from the Brood: These vampires were once of the Avengorii dynasty, but were either exiled or left voluntarily for refusing to indulge their monstrous aspects.4 Slipping Discipline: Though these undead try to keep to the enlightened tenets of their order, their bloodthirst is becoming increasingly more difficult to control.5 Full-blooded Zealots: This warband are fanatical worshippers of Nagash, and use their dark faith to strengthen their self-control.6 Fate of the Forebears: As well as hunting the great monsters of Ghur, these warriors seek out lost knowledge concerning the Askurga Renkai and their fate.
+---
+### Askurgan Trueblades Leader Background
+**Type:** misc
+D6 Background1 Indulgent Youth: In the past, this vampire gave free rein to their most bloodthirsty excesses. They now seek a quiet unlife of martial discipline and solitude.2 Dynastic Tragedy: This vampire's former bloodline was all but destroyed from within by their curse, fuelling their hatred of the inner beast.3 A Cut Above: Having studied many ancient fighting techniques of the Askurga Renkai, this warrior's strikes are extremely difficult to counter.4 Heart of the Beast: Spurred on by their blood lust, this warrior was once brought to the very edge of monstrous devolution. Since then, they have developed a greater humility.5 Murderously Serene: Never will this vampire raise their voice or snarl in disgust:** even as they brutally tear an enemy to shreds.6 Wandering Legend: This warrior's monster-hunting exploits across Thondia and beyond have seen them enter the campfire tales of various Ghurish peoples.
+---
+
+## Nighthaunt Background Tables
+
+### Nighthaunt Names
+**Type:** misc
+D10 First Name D10 Last Name1 Old1 Rattlebones2 Dreidrich2 Blacksoul3 Choker3 Turncoat4 Varclav4 Scratchfinger5 Dravoch5 Whispergheist6 Scarabeg6 Fraycloak7 Pater7 Gallows8 Wilhem8 Chillbreath9 Lady9 Gravetouch10 Agneth10 Merciful
+---
+### Nighthaunt Origins
+**Type:** misc
+D6 Origin1 Wrongfully Executed: Your warband consists of executed innocents, consumed by bitterness.2 Lady Olynder's Flock: Your warband hails from Dolorum, domain of the Mortarch of Grief.3 Traitors All: Your warband consists of those spirits who committed a great treason in life.4 Deluded Spirits: Your warriors believe they will find atonement in serviceto Nagash.5 Lost Company: Your warriors fought together in life, and do so eternally in death.6 Kinslayers: Your warband is comprised of those who slew their own kin, damning their souls forever.
+---
+### Nighthaunt Leader Background
+**Type:** misc
+D6 Background1 Lambent Glow: This warrior is surrounded by swirling witch-lights.2 Grim Recitation: This warrior is condemned to endlessly recite the crimes they committed in life.3 Hatred of Azyr: This warrior despises above all those who serve the will of the Heavens.4 Face of Terror: This warrior delights in crippling their foes with sheer terror before striking a killing blow.5 Unending Sorrow: This warrior weeps and wails even as they slaughter the living.6 Worshipper of Nagash: This warrior is convinced that if they please Nagash, he will end their torment.
+---
+
+## Hunters of Huanchi Background Tables
+
+### Hunters of Huanchi Names
+**Type:** misc
+D10 Spawn Names D10 Terrawing Names1 Iq-to1 Sunbeak2 Akiq2 Red-eye3 T'lok3 Zephyr4 Q'lip4 Spitewing5 Tu-so5 Starfire6 Tiqa6 Comet7 Kotl7 Bloodbeak8 Poc8 Coldclaw9 Ib-ib9 Ripper10 Mecla10 Old Onyx
+---
+### Hunters of Huanchi Origins
+**Type:** misc
+D6 Origin1 Last Spawned: These skinks were amongst the last to be dragged from their malfunctioning spawning pit.2 Motzlpota's Chosen: It is said by the Skink Starpriests that these warriors have been marked out by the spirit of Motzlpota.3 Feral Pack: These skinks have reverted to their primal instincts and are more aggressive and vicious than their kin.4 Star-branded: Celestial sigils are seared into the scales of these warriors, protecting them against some as yet unknown peril.5 Silent Watchers: These warriors watch over the perimeter of the Sundered Scales, sometimes not moving for days.6 Gnarloak Ambushers: These skinks have become skilled at leading their enemies into the clutches of ravening gnarloaks.
+---
+### Hunters of Huanchi Leader Background
+**Type:** misc
+D6 Background1 Hoarder of Jewels: This warrior obsessively collects fragments of shattered gems from the ruins amidst the Gnarlwood.2 Cold Blood, Cold Heart: Th is warrior has no pity or mercy for any being that trespasses upon the Old Ones' hallowed lands.3 Startling Bellow: This warrior can inflate a sac of loose skin on its throat to unleash a deafening roar.4 Toad Handler: This Skink Alpha carries many different breeds of poisonous toad at all times.5 Clever Fingers: Working under the guidance of a Starpriest, this Skink Alpha has a natural affinity with celestial technology.6 Terrawing Speaker: This warrior has a strange connection to Terrawings and is able to speak to them in a series of clicks and chirrups.
+---
+
+## Idoneth Deepkin Background Tables
+
+### Idoneth Deepkin Names
+**Type:** misc
+White Dwarf #484 Warcry Core Book 2019 D10 First Name D10 Last Name1 Gwéirath1 Ichthyron2 Maiyon2 Namassus3 Rhoraínn3 Ghol-Daínn4 Saoirna4 Follanos5 Cyrelle5 Bánacynn6 Taíthyrr6 Ennothon7 Lathann7 Viorlyonn8 Ithryas8 Mal-druinn9 Vhairith9 Selonnos10 Amhór10 Zelthyross D10 First Name D10 Last Name1 Alturnis1 Barionic2 Chlorian2 Kamorthis3 Marrathul3 Carcessean4 Nemetha4 Volthunis5 Orphas5 Hamaros6 Matreth6 Sulethos7 Akhmmonis7 Yuleth8 Setha8 Phalendos9 Oriphus9 Balessian10 Taranth10 Janethess
+---
+### Idoneth Deepkin Origins
+**Type:** misc
+White Dwarf #484 Warcry Core Book 2019 D6 Origin1 High King's Emissaries: Sent by High King Volturnos himself, this warband has been tasked with recovering as many souls as possible.2 Slick as Elvers: This warband trained together long ago and works like a well-oiled machine.3 Driven by Despair: This warband's enclave is dying out. They will use underhanded tactics and ambushes to gain more souls quickly.4 Allies of Convenience: This warband has a tendency to ally with those they stumble across, but they are not afraid to betray them mercilessly.5 Swamp Stalkers: This warband prefers to fight near swamps and mires, seeing them as the next best thing if they cannot access bodies of water.6 Lured by Myth: This warband heard the tales of the distant Ravening Ruin and are driven by insatiable curiosity to find the pools of Talaxis.D6 Origin1 Outriders: Your warriors are the first swell of the gathering tide, scouts ahead of the Idoneth advance.2 Throne Guard: Your warband was formerly part of an Akhelian King's royal retinue.3 Beast Riders: Your warriors were responsible for training the Idoneth's deadly, aquatic war-beasts.4 Enclave Envoys: Your warband was tasked with securing military alliances with the surface races.5 Disgraced: Your warriors failed in their duties to their enclave, and now seek redemption.6 Assassins from the Deep: Your warband was responsible for eliminating threats in order to preserve the Idoneth's secrets.
+---
+### Idoneth Deepkin Leader Background
+**Type:** misc
+White Dwarf #484 Warcry Core Book 2019 D6 Background1 Fought to the Top: This warrior fought their way up the ranks to become an Akhelian King and is used to the hardship and struggle.2 Driven by Vengeance: This warrior kills any servants of Morathi on sight, still bitter over the Khainites' previous betrayal.3 Soul-purifier: This warrior is obsessed with finding the waters of Talaxis at any cost.4 Relic-hunter: This warrior has an interest in the arcane relics lost in the forest and will loot enemies to bring their possessions back as prizes.5 Fish Out of Water: This warrior despises spending so long out of water and exclusively travels routes between lakes and ponds.6 Ghurish Seafarer: This warrior has acclimatised to Ghur's harsh atmosphere, having spent their life within the realm's fierce seas.D6 Background1 Ancient Soul: This warrior was created countless centuries ago, and has a vast breadth of experience.2 Elite of the Asydrazor: This warrior was marked for greatness from their first days in the martial academy.3 Contemptuous of Surface-dwellers: As far as this warrior is concerned, the surface races are worthless.4 Merciless: To this warrior, only the capture of souls matters, and they pursue this task with ruthless zeal.5 Haunted by Visions: This warrior is plagued by strange, half-remembered visions from another life.6 Cunning Tactician: To this warrior, war is art, and they wage it with delicate finesse.
 ---
 
 ## Gnarlwood Terrain Special Rules
@@ -1399,6 +2391,21 @@ D6 Origin1 Questing Knights: Your warband has travelled far across the realms, l
 ### Realmshaper Engine
 **Type:** rule
 Source: Nightmare Quest / Might & Madness (out of print) The walls of a Realmshaper Engine are obstacles. If a fighter is on the stairs or walls of a Realmshaper Engine when their activation ends, they fall. The top of a Realmshaper Engine is a platform.
+---
+
+## Ossiarch Bonereapers Background Tables
+
+### Ossiarch Bonereapers Names
+**Type:** misc
+D10 First Name D10 Last Name1 Xaroc1 Spyrarch2 Mordokar2 Demophax3 Lorthis3 Pasaak4 Cyriol4 Markellion5 Razakai5 Xza6 Andronarchus6 Lorndorus7 Vorshensis7 Kaesus8 Garon8 Salluk9 Arkalax9 Vtarko10 Tyrath10 Crole
+---
+### Ossiarch Bonereapers Origins
+**Type:** misc
+D6 Origin1 Tithe-lords: Your warband is highly exacting when overseeing the bone-tithe.2 Hardened by Time: The bones of your warriors have hardened over the years to become nearly impervious.3 Twisted Honour: Your warriors believe themselves to possess a strange form of nobility.4 Deathless Ambition: Your warband seeks nothing more than to conquer the Bloodwind Spoil in its entire, one slain foe at a time if need be.5 Inured to the Arcane: Your warband has much experience fighting protean horrors formed of Shyishan magic.6 Fury of the Dead: Through your warriors, the Great Necromancer unleashes his wrath on his foes.
+---
+### Ossiarch Bonereapers Leader Background
+**Type:** misc
+D6 Background1 Ancient Lord: This warrior's composite soul is made from the animus of many former denizens of the Allpoints.2 Loather of Life: This warrior feels nothing but utter contempt for all that lives.3 Student of the Master: This warrior has extensively studied the military writings of the Mortarch Katakros.4 Demoted: This warrior was once a mighty Liege, but they have since been remade in lesser stature for a grave failing.5 Deathly Silent: This warrior never speaks a word, imposing their will through actions alone.6 Voice of Nagash: This warrior's rasping voice inspires a soul-deep dread in all who hear it
 ---
 
 ## Teratic Cohort Quests
@@ -1417,6 +2424,9 @@ Teratic Cohort leaders are locked in a permanent battle with their predatory, be
 ---
 ### Teratic Cohort Heroic Traits
 **Type:** misc
+---
+### Teratic Cohort Heroic Traits
+**Type:** misc
 Heroic Trait Crushing Trampler By smashing headlong into their prey, this warrior denies effective counter-attacks.Each time the bearer finishes a move action, pick a visible enemy fighter within 1" of this fighter and roll a dice. On a 2+, that fighter cannot use abilities or make reactions until the end of the battle round.Ossian Alpha The roaring spirit within this fearsome warrior can be unleashed at a moment’s notice.Once per battle, after this fighter ends a move action within 3" of one or more enemy fighters, each friendly fighter with the Teratic Cohort (Teratic Cohort) runemark within 6" of this fighter can make a bonus move action of up to 6". Each of those move actions must end within 1" of one or more enemy fighters.Primal Inciter A Cohort Centarii can whip the bestial warriors that accompany it into violent frenzy.If one or more enemy fighters are taken down during this fighter’s activation, if this fighter made one or more move actions in that activation, add 1 to the Attacks characteristic of melee attack actions made by friendly fighters with the Teratic Cohort (Teratic Cohort) and the Beast (Beast) runemark within 3" of this fighter until the end of the battle round.A Pale Rider This warrior exudes an aura of death and its presence on the battlefield is a portent of doom.At the end of each battle round, roll a dice for each enemy fighter within 3" of this fighter. On a 3+, allocate 1 damage point to that fighter, and remove 1 damage point allocated to this fighter.Predatory Aspect This warrior harbours a savage instinct. Perhaps it is the Ghurish bones from which it was crafted, or the bestial souls trapped within. Either way, when this aspect comes to the fore, expect violence.At the start of the initiative phase, pick one of the following aspects. This fighter gains the associated bonus until the end of that battle round.- Unbreakable: Increase this fighter’s Toughness characteristic by 1.- Dominating: While this fighter is within 3" of one or more visible fighters from their battle group, add 1 to each of those fighter’s Move characteristics.- Savage: This fighter gains the Beast (Beast) runemark.Lambent Gaze The flaws and fears of their prey are laid bare to this construct’s cold, distant stare.At the start of this fighter’s activation, pick an enemy fighter within 3" of this fighter and roll a dice. On a 3+, that enemy fighter cannot use abilities or spend levels of renown until the end of the battle round, and are not considered to have any heroic traits, lesser artefacts or artefacts of power until the end of the battle round.
 ---
 ### Secure the Lair
@@ -1431,6 +2441,22 @@ The lair that will quieten the soul matter of the skeletal beasts under your com
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+At the end of a battle round, if there are one or more defending fighters in three or more battlefield quarters, the defender wins. Otherwise, the battle ends after 4 battle rounds. When the battle ends, if the defender has not won, the attacker wins.
+---
+### Twist
+**Type:** misc
+The Teratic Cohort force the battle to progress at such a demanding pace that no living enemy has any hope of keeping up. Exhausted enemies are lured into indefensible positions, trapped, surrounded and ultimately destroyed. Fighters cannot make the wait action. After players have declared how they will use their wild dice in the battle round, do not count the number of singles each player has. Instead, the attacker picks a player. That player has the initiative.
+---
 ### The Aftermath Sequence
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence: Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1439,12 +2465,54 @@ The adversary player receives the following bonus in the aftermath sequence: Ren
 **Type:** misc
 Location Bonus Points Limit Reputation Modifier Osseous Predator’s Lair Constructs of the Teratic Cohort quieten their bestial souls and await the command to march to war.+1 to renown rolls for fighters with the Hero runemark. In step 5 of the aftermath, send 1 fighter with both Teratic Cohort and Beast runemarks to scout. Roll on the Scouting Result Table.1150+3
 ---
+### Scouting Result Table (D6)
+**Type:** misc
+Roll Result Effect1 Nothing to Report No effect.2 Hidden Paths Set up this fighter as if from another battle group.3 Lone Ambusher If in reserve, set up with another group. If on battlefield, gain bonus move.4 Pathfinding Stalker Set up with another fighter as if from another group.5 Trailblazing Fiend If in reserve, entire group enters play as if they had already.6 Pack Leader If in reserve, group enters as if already. If not, all get a bonus move.
+---
 
 ## Blades of Khorne Background Tables
 
+### Blades of Khorne Names
+**Type:** misc
+D10 First Name D10 Last Name1 Karthax1 Ragemarrow2 Vrasahk2 Skullcleave3 Arbaal3 Neckrend4 Vorga4 Gorebringer5 Gharvax5 The Death of Honour6 Khorrek6 Kinslayer7 Tarkal7 Furyfang8 Ashkhos8 Spineshatter9 Horkhos9 Mangouge10 Damakhar10 The Red Pilgrim
+---
+### Blades of Khorne Origins
+**Type:** misc
+D6 Origin1 Warriors of the Bright Realm: These warriors have fought extensively in the fiery realm of Aqshy.2 An Axe to Grind: Your warband seeks to utterly destroy an old rival.3 Red Headsmen: These warriors seek to slay their foes with a single decapitating strike.4 Devourers of Flesh: Your warband has plunged deeply into the dark practice of cannibalism.5 Destroy the Cowardly: Your warriors have a special loathing for those who do not engage them in honourable battle.6 Bane of the Eldritch: Since the dawning of the Arcanum Optimar, these warriors have made a point of hunting down and slaying wielders of magic.
+---
 ### Blades of Khorne Leader Background
 **Type:** misc
 D6 Background1 Scarred by War: This warrior's many, many scars speak to a lifetime of conflict and bloodshed.2 Khorne Cares Not: This warrior has slaughtered many of their own followers in the Blood God's name.3 Gift of Brass: This warrior's blood glows like molten brass.4 Echoes of the Red Century: This daemon favours fighting the servants of other Chaos powers.5 Infernal Champion: This daemon has won glory fighting in the warpits of Khorne's citadel.6 Never Stop! Never Tire!: This daemon cannot let a day go by without slaying something in Khorne's name.
+---
+
+## Beasts of Chaos Background Tables
+
+### Beasts of Chaos Names
+**Type:** misc
+D10 First Name D10 Last Name1 Ghorak1 Blood-Horn2 Surlok2the Flesh-Hungry3 Kraggahagh3 Fangmaw4 Odogor4the Warped5 Darvik5 Mantearer6 Vosgar6 Gorepelt7 Jakka7 Wrathfang8 Azavak8the Trampler9 Horgaros9 Wildkin10 Azgathor10 Stormgorged
+---
+### Beasts of Chaos Origins
+**Type:** misc
+D6 Origin1 Furious Despoilers: Your warband never misses a chance to wreak havoc upon even the crudest forms of civilisation.2 Dream Visions: A Bray-Shaman's prophetic visions have foreseen a great destiny for your warband.3 Champions of the Warped Wild: Your warband has long roamed the plains of the Eightpoints, wreaking terror across the blasted land.4 Masterful Stalkers: Your warband excels at launching blistering ambushes upon the unwary.5 Propagators of Devolution: Your warband seeks to reduce all to a primordial sludge of raw Chaos.6 Children of the Gods: Your warriors have sworn themselves to one of the great powers of Chaos.
+---
+### Beasts of Chaos Leader Background
+**Type:** misc
+D6 Background1 Prince amongst Predators: This beast controls its warriors through a brutal animalistic charisma.2 Ear-splitting Howl: This warrior's battle roar can utterly deafen those nearby.3 Eater of Heroes: This warrior hungers for the flesh of the mightiest champions.4 Excessive Violence: The violence unleashed by this warrior leaves little of their prey intact.5 Ancient Terror: This warrior has lived for many long centuries and has learnt countless ways to slaughter the foe.6 Lord of Storms: Tainted lightning constantly flickers around this storm-touched warrior.
+---
+
+## Chaos Legionnaires Background Tables
+
+### Chaos Legionnaires Names
+**Type:** misc
+D10 First Name D10 Last Name1 Malkos1 Of the Omens2 Herebrax2 Tarr3 Penomdros3 Valgor4 Oktorna4 Kyesar5 Mystarus5 Bleakblade6 Patsur6 Feingar7 Hadrarus7 Telbrax8 Cikarr8 Antros9 Garos9 The False10 Drusol10 Livor
+---
+### Chaos Legionnaires Origins
+**Type:** misc
+D6 Origin1 Marshal's Own: These Legionnaires are the semi-trusted right hands of a powerful Centaurion Marshal, tasked with missions of great import to the cause.2 The Master's Hands: These warriors serve Be'lakor as secretive assassins, bringing unforeseen death to the servants of the Everchosen.3 Secret Keepers: These warriors have learned a truth so valuable that, until they have delivered it unto their manipulative master, they shall not utter a word.4 Veteran Cohort: Even before Be'lakor returned to prominence through his creation of the cursed skies, these warriors served his will.5 Emissaries of Evil: These silver-tongued warriors are often chosen to bring Be'lakor's word to shadowy allies across the realms.6 Unwilling Converts: Rather than join the legion by choice, these warriors were forced to kneel before icons of Be'lakor, their minds blasted by his power.
+---
+### Chaos Legionnaires Leader Background
+**Type:** misc
+D6 Background1 Conduit of the Creed: In this champion's eyes blaze the fires of a true fanatic, and their every word drips with zealous devotion to the Dark Master.2 Scarred by Failure: After enduring the torments of Mordikar for some past error, this Decuriarch has been given a second chance – though should they disappoint again, the consequences will be even more dire.3 Satrap of Whispers: A competent spymaster, this warrior has assembled a network of hidden agents to guide their cohort's efforts.4 Infernal Vessel: This warrior's soul has been joined to that of a daemonic agent of Be'lakor. Though the entity appears too weak to assume full control, it occasionally makes hissing commands.5 Stolen Soul: Once, this Decuriarch venerated one of the Ruinous Powers above all. Now, however, they belong to Be'lakor utterly.6 Wheels within Wheels: Unbeknownst to the rest of the cohort, this champion has their own secretive task, and they will sacrifice any of their followers to achieve it.
 ---
 
 ## Gorger Mawpack Quests
@@ -1461,6 +2529,10 @@ Artefact Curse Binding This bandage all but blinds the wearer, allowing the will
 **Type:** misc
 Greatest of the Butchers are the Slaughtermasters, savants of gastromancy who are capable of fundamentally changing a Gorger's fate... should they feel so inclined. A Clawback who makes many great sacrifices to the Gulping God may be lucky enough to be rewarded with a blessing that remakes them. Pick a Clawback in your warband that can gain a heroic trait and note them in your quest log. While embarked upon this quest, you must keep track of the sacrifices made by your Clawback to the Gulping God with a sacrifice score. At the start of the first battle round in each battle, you must pick a point on the battlefield floor or on a terrain feature to be one of the many mouths of the Gulping God (the centre of a Mawpit terrain feature is ideal). Place a token on that point. Add 1 to your sacrifice score each time an enemy fighter is taken down within 4” of the mouth. After a battle, add 1 to your sacrifice score if the leader of your opponent's warband was taken down. You can complete this quest once your sacrifice score is 4 or more. When you complete this quest, you can give your Clawback one of the heroic traits from the Gorger Mawpack Heroic Traits below.
 ---
+### Gorger Mawpack Heroic Traits
+**Type:** misc
+Heroic Trait Acidic Drool The rancid strings of drool that drip from this creature's mouth are caustic enough to eat through sigmarite.Add 1 to the Strength characteristic of melee attack actions made by this fighter.Bottomless Stomach There is nothing this fighter cannot swallow.Do not subtract 2 from this fighter's Move characteristic when they begin a move action carrying treasure. This fighter can carry any number of treasure tokens and can make disengage actions while carrying treasure. This fighter cannot drop treasures (even if they gain the Beast (Beast) runemark) except when they are taken down.Eye of the Storm This Clawback has found a place of astonishing clarity in the darkest reaches of starvation.While this fighter is on the battlefield, after the initiative phase, add one wild dice to your saved wild dice if you have no saved wild dice.Hollow Roar When this Clawback gives voice to their hunger and anguish, the ground itself trembles in horror.Once per battle, this fighter can use this heroic trait as a bonus action. If they do so, pick 1 terrain feature within 6” of them. Each fighter on that terrain feature that is within ½” of the edge of an open platform must make a falling test, and then each fighter on the battlefield floor within 2” of that terrain feature suffers impact damage.Overwhelming Hunger This creature's hunger radiates from them in crippling waves, driving others mad enough to tear flesh from bone with their bare teeth.While this fighter has 5 or more damage points allocated to them. enemy fighters within 3” of this fighter cannot make disengage actions or missile actions.Unstoppable Charge To get in this Clawback's way is to try to stop an avalanche... an avalanche that wants to eat you.When this fighter finishes a move action within 1” of an enemy fighter, pick a visible enemy fighter within 1" of this fighter. Allocate 5 damage points to that enemy fighter.
+---
 ### Making A Midden
 **Type:** misc
 Should a Gorger Mawpack survive long enough, they will eventually begin fashioning a midden where they can lurk while they nurse their monstrous hunger. A midden is a stinking cave within an oozing heap fashioned from rotting flesh, scraps of bone and discarded weapons and armour from the Gorgers' countless victims. Some Mawpacks surround their middens with crude totems honouring the Gulping God, in the hope that, in their lair, they might find some relief from their deity's hunger. While embarked upon this quest, you must keep track of the size of your Mawpack's midden with a leftovers score. Each time a friendly fighter's melee attack action takes down an enemy fighter, roll 3 dice. If the total is less than that enemy fighter's Wounds characteristic, add 1 to your leftovers score. After a battle, add 1 to your leftovers score if half or more of the fighters in your opponent's warband were taken down. While your leftovers score totals 6 or more, you can fight battles using the 'Cleaning Up' quest battleplan. If you do so and you win the battle, in step 4 of the aftermath sequence, you can complete this quest. If you do so, in step 5, you can relocate your warband's encampment to an 'Oozing Midden' (see below) and do not need to spend any glory to do so. battleplan Quest Battleplan: Cleaning Up The Gorgers' midden is all but fashioned and adorned with totems in honour of the Gulping God. Unless their enemies can somehow contrive to scatter and tear down these grim fetishes, the Gorgers will gain a foothold that will allow them to raid with impunity for some time to come.Attacker And Defender In this battle, the questing player is the defender and the adversary player is the attacker.Terrain Set up terrain as normal.Deployment Use the deployment map below. The defender is blue and the attacker is red.Victory After deployment, the defender places 6 objectives anywhere on the battlefield floor or on a platform, each more than 6" from all other objectives and more than 3" from the battlefield edge.At the end of each battle round, the attacker removes each objective they control from the battlefield.The battle ends after 4 battle rounds, or when 4 objectives have been removed from the battlefield. When the battle ends, if 4 or more objectives have been removed from the battlefield, the attacker wins. Otherwise, the defender wins.Twist Determine a twist as normal.The Aftermath Sequence The adversary player receives the following bonus in the aftermath sequence:Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1472,6 +2544,22 @@ The Gorgers' midden is all but fashioned and adorned with totems in honour of th
 ### Attacker And Defender
 **Type:** misc
 In this battle, the questing player is the defender and the adversary player is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+After deployment, the defender places 6 objectives anywhere on the battlefield floor or on a platform, each more than 6" from all other objectives and more than 3" from the battlefield edge. At the end of each battle round, the attacker removes each objective they control from the battlefield. The battle ends after 4 battle rounds, or when 4 objectives have been removed from the battlefield. When the battle ends, if 4 or more objectives have been removed from the battlefield, the attacker wins. Otherwise, the defender wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -1516,6 +2604,22 @@ The lights of your warband’s pyres flicker eerily through the boughs of the Gn
 **Type:** misc
 In this battle, the questing player is the defender and the adversary player is the attacker.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+One quarter of the battlefield, shaded on the deployment map, is alight. At the end of a battle round, if two or more of the defender’s fighters are in a battlefield quarter and more than 3" from each other battlefield quarter, that battlefield quarter is set alight. The battle ends after 4 battle rounds, or when the final battlefield quarter is set alight. At the end of the battle, if the four battlefield quarters are alight, the defender wins. Otherwise, the attacker wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
+---
 ### The Aftermath Sequence
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence: Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1527,6 +2631,21 @@ Location Location Bonus Points Limit Reputation Modifier Roaring Balefire The fl
 ### Soulburned Revenants
 **Type:** misc
 After a battle, you can pick one enemy fighter taken down in that battle. The fighter you pick must have a points cost of 150 or less, and cannot have the Hero (Hero), Ally (Ally), Beast (Beast), Thrall (Thrall) or **Monster (Monster) runemarks. In step 6 of the aftermath sequence, you can add a soulburned revenant to your warband roster that is a copy of that enemy fighter’s profile (pg 58 of the Core Book), except that the only runemark it has is the Pyregeists () runemark. It does not cost any glory to add a soulburned revenant to your warband roster. Soulburned revenants cannot be given artefacts or gain renown. Use a suitable miniature to represent the soulburned revenant. At the end of a battle in which you set up a soulburned revenant, remove that fighter from your warband roster.
+---
+
+## Pyregheists Background Tables
+
+### Pyregheists Names
+**Type:** misc
+D10 Granted Name D10 Title1 Ratchgar1the Immolator2 Old Scorch2of the Baleful Tower3 Pyrrhus3 Corpseflame4 Charrlocke4the Cruel5 Crask5the Kindler6 Malachai6the Burning Priest7 Sculloch7 Incinerus8 Torcher8 Baleheart9 Ignol9 Soulburner10 Faustus10the Arch-arsonist
+---
+### Pyregheists Origins
+**Type:** misc
+D6 Origin1 Olynder’s Torchbearers: These gheists were once part of the Mortarch of Grief’s royal procession, and their balefire beacons announced her arrival to the living.2 Fallen Sigmarites: In life these spirits were once high-ranking priests of the Cults Unbegoren, before Nagash took hold of their souls.3 Perished at Glymmsforge: These wraiths were once mortals who perished at the Battle of Glymmsforge, one of the first engagements of the Soul Wars.4 Tallowmen of Reikonor: These Pyregheists once served the Grimhalier, gathering reagents for his profane fires.5 Flames of Nagashizzar: Once serving at Nagash’s court, these gheists would tend the Great Necromancer’s screaming soulfires.6 Bonded in Death: These gheists hail from the same bloodline, and in death are cursed to share a common nightmare.
+---
+### Pyregheists Leader Background
+**Type:** misc
+D6 Background1 False Priest: This leader never truly believed in the dogma they preached, but that has not saved them from Nagash’s wrath.2 Fear of Flames: In mortal life, this leader was terrified of dying at the stake. In death, they live out their nightmare forever.3 Hatred of the Pious: Filled with bitterness and fury, this spectre seeks to inflict agony and terror upon the gods’ pious servants.4 Dark Laughter: Cinder and fumes spill from this gheist’s throat, as it mockingly laughs at its burning victims.5 Aimless Hatred: Frenzied and wrathful, this leader seeks to set fire to everything in sight.6 Ceaseless Shrieking: Trapped forever in the agonising moments of their own immolation, this gheist never stops its awful screaming.
 ---
 
 ## Gloomspite Gitz Quests
@@ -1551,6 +2670,22 @@ Some of the Shadow Piercers leading their warbands into the Gnarlwood do so in s
 **Type:** misc
 In this battle, the questing player is the defender and the adversary player is the attacker.
 ---
+### Terrain
+**Type:** misc
+Set up terrain using the alternative terrain rules from page 61 of the Core Book. The defender must set up each terrain feature, and there must be 1 Loonshrine set up on the battlefield floor as centrally as possible. The Loonshrine is an obstacle.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+The defender can treat the Loonshrine as an enemy fighter with a Toughness characteristic of 8. The Loonshrine cannot activate nor be taken down. The defender cannot target the Loonshrine with attack actions while they are within 1" of 1 or more other enemy fighters. The battle ends after 4 battle rounds. At the end of the battle, if the Loonshrine has 30 or more damage points allocated to it, the defender wins. Otherwise, the attacker wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
+---
 ### The Aftermath Sequence
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence: Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1574,6 +2709,10 @@ Artefact Boots of Inevitable Vengeance One who wears these cursed boots is turne
 **Type:** misc
 Khorne is not miserly with his blessings; he only demands that they be used to reap blood and skulls. The more worthy the foes slain in his name, the greater glories he will lavish upon the killer. Pick a Packlord in your warband that can gain a heroic trait and note them in your quest log. While embarked upon this quest, in step 4 of a campaign battle's aftermath sequence, you can complete this quest if an enemy leader or an enemy fighter with a Wounds characteristic of 20 or more was taken down in that battle by an attack action made or ability used by the fighter noted in your quest log. When you complete this quest, you can give that fighter one of the heroic traits from the Claws of Karanak Heroic Traits below.
 ---
+### Claws of Karanak Heroic Traits
+**Type:** misc
+Heroic Trait Alpha Predator While any blood will satisfy this warrior, they have a particular afinity for the hunting and slaying of great beasts.Melee attack actions made by this fighter score a critical hit on a 5+ if the target fighter is a leader or has a Wounds characteristic of 20 or more.Bone-shattering Pounce This warrior's favourite tactic is to launch themselves bodily upon afoe, bearing them to the ground.Add 2 to the Strength characteristic of melee attack actions made by this fighter during an activation in which they have already made a move action.Crimson Whirlwind This warrior utterly loses themselves in the fury of close combat, axes and blades whirling around with furious abandon.When this fighter makes an attack action, if none of the hit rolls score a critical hit, their controlling player can change 1 of those hit rolls to a critical hit instead.Harrowing Roar The blood-freezing howls unleashed by this warrior drive all rational thought from an enemy, thwarting their cunning plans.Once per battle, this fighter can use this heroic trait. When they do so, pick an enemy fighter within 6" of and visible to this fighter. Until the end of the battle round, that fighter cannot make disengage actions and cannot use abilities.Leashed to the Master Branded by their god's mark, this warrior is little more than a vessel of Khorne's rage, spurred on by the blood of friend and foe alike.Once per battle, this fighter can use this heroic trait as a reaction after a fighter is taken down within 3" of them. When they do so, this fighter can make a bonus move action and then can make a bonus attack action.Scaled Flesh The flesh of this warrior is coated in crimson scales, similar to the Flesh Hounds of great Khorne, offering a formidable layer of protection.Add 1 to this fighter's Toughness characteristic.
+---
 ### A Call To Murder
 **Type:** misc
 Your warband is awakened by the monstrous howl of a Flesh Hound in the distance. A worthy soul has been sighted, and you are commanded to claim it for Khorne. No doubt the quarry will consider themselves a 'champion' of some other, weakling warband. Tear your way through the warlords of the enemy until you full catch the scent. While embarked upon this quest, you must keep track of a sacrifice score. Add 1 to your sacrifice score each time an enemy fighter with the Hero (Hero) runemark is taken down. While your sacrifice score totals 3 or more, you can fight battles using the 'The Jaws Snap Shut' quest battleplan. If you do so and you win the battle, in step 4 of the aftermath sequence, you can complete this quest. If you do so, in step 5, you can relocate your warband's encampment to an 'Skull-strewn Lair' (see below) and do not need to spend any glory to do so. battleplan Quest Battleplan: The Jaws Snap Shut No foe can escape the jaws of Khorne's chosen hunters. Now their backs are to the wall, and they have no hope of evading your axes. Still, this prey is wily, and no doubt they will try to evade your claws with tricks and ruses. Khorne cares not for such things. Find them. Kill them.Attacker And Defender In this battle, the questing player is the attacker and the adversary player is the defender.Terrain Set up terrain as normal.Deployment Use the deployment map below. The defender is blue and the attacker is red.Victory One battlefield edge, shown on the deployment map, is an escape route. At the end of each battle round, if any of the defenders fighters from their Hammer or Shield battle groups are within 1" of the escape route and are more than 3" from all enemy fighters, they escape. Remove those fighters from play but do not count them as being taken down.The defender wins the battle as soon as half or more of their fighters from at least one battle group have escaped. Otherwise, the attacker wins the battle as soon as half or more of the fighters in the defenders Hammer and half or more of the fighters in the defenders Shield have been taken down.Twist Determine a twist as normal.The Aftermath Sequence The adversary player receives the following bonus in the aftermath sequence:Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1585,6 +2724,22 @@ No foe can escape the jaws of Khorne's chosen hunters. Now their backs are to th
 ### Attacker And Defender
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+One battlefield edge, shown on the deployment map, is an escape route. At the end of each battle round, if any of the defenders fighters from their Hammer or Shield battle groups are within 1" of the escape route and are more than 3" from all enemy fighters, they escape. Remove those fighters from play but do not count them as being taken down. The defender wins the battle as soon as half or more of their fighters from at least one battle group have escaped. Otherwise, the attacker wins the battle as soon as half or more of the fighters in the defenders Hammer and half or more of the fighters in the defenders Shield have been taken down.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -1613,6 +2768,10 @@ Trophies Amulet of Stolen Sight This macabre trophy of eyes, plucked from fallen
 **Type:** misc
 Some of the Shadow Piercers leading their warbands into the Gnarlwood do so in search of a unique offering to the Great Gatherer. They seek a trophy worthy enough to draw the gaze of their deity and earn them blessings that will elevate them to the ranks of the most feared killers in the Mortal Realms. Pick a Shadow Piercer in your warband that can gain a heroic trait and note them in your quest log. See page 104 of the Core Book to find out how fighters can gain a heroic trait. While embarked upon this quest, you must keep track of the offerings the Shadow Piercer collects, represented by an offering score. Add 1 to your offering score each time: An enemy fighter is taken down by the Shadow Piercer's melee attack action. You send forth the Shadow Piercer. You can complete this quest once your offering score is 6 or more. When you complete this quest, you can give that Shadow Piercer one of the heroic traits from the Corvus Cabal Heroic Traits below.
 ---
+### Corvus Cabal Heroic Traits
+**Type:** misc
+Corvus Cabal Heroic Traits False Flight Though this fighter cannot truly fly, with a high enough perch to leap from, the distinction may only be technical. After this fighter makes a move action in which this fighter jumped, this fighter can make a bonus move action up to a number of inches equal to the distance they moved vertically downwards in that jump.Inhuman Hunger This warrior has been blessed with appetites that mirror those of their deity, drawing devotion from their followers while causing fear and revulsion in their enemies. After this fighter's activation, if an enemy fighter was taken down by this fighter's melee attack action, this fighter can use the ‘Inspiring Presence' ability without spending a [triple] and even if this fighter has already used an ability other than Inspiring Presence in that activation.Macabre Insight The Great Gatherer rewards this fighter's more violent displays of devotion with glimpses of insight. After this fighter's activation, if an enemy fighter was taken down by this fighter's melee attack action, gain 1 additional wild dice that you can use from the start of the next initiative phase.Plucking Talons This fighter has been granted the speed, strength and dexterity to blind an opponent with one swift motion. After this fighter's melee attack action, if at least one hit roll from that attack action results in a critical hit, the target forfeits 1 of their actions in that battle round. If the target has already activated or if they have no more actions to forfeit, instead allocate 5 damage points to the target.Savage Finisher When this fighter senses that the end is near for their prey, they are driven into a murderous frenzy. Melee attack actions made by this fighter score a critical hit on a roll of 5+ when they target a fighter that has 5 or more damage points allocated to them.Trophy Gatherer Even by the standards of the Corvus Cabal, this champion has collected an awe-inspiring number of trophies from the fallen. They are bestrewn with charms, fetishes, gewgaws and talismans, some of which contain real power. At the start of the combat phase, if this fighter is on the battlefield, you can do one of the following:Increase the value of 1 of your [doubles] by 2 (to a maximum of 6).Improve 1 of your [doubles] to a [triple] with the same value.Decrease the value of 1 of your opponent's [doubles] by 2 (to a minimum of 1).
+---
 ### Seeking The Eyrie
 **Type:** misc
 The evidence is clear – within the Gnarlwood can be found prey and trophies enough to please the Great Gatherer for many a year. However, tracking and intercepting enemies within the Gnarlwood is challenging and fraught with peril. A canny warband will seek a perch above the canopy of the living forest, all the better to swoop down on their foes in a lethal ambush. While embarked upon this quest, you must keep track of a higher ground score. Add 1 to your higher ground score at the end of a battle round if a friendly fighter is further from the battlefield floor than each enemy fighter. While your higher ground score totals 8 or more, you can fight battles using the ‘Death Descends' quest battleplan. If you do so and you win the battle, in step 4 of the aftermath sequence, you can complete this quest. If you do so, in step 5 of the aftermath sequence, you can relocate your warband's encampment to a ‘Consecrated Eyrie' (see below) and do not need to spend any glory to do so. Battleplan Quest Battleplan: Death Descends It seems that your warband's search may be at an end – surely this perch will serve them well in their quest to provide bloody offerings to the Great Gatherer. Even now, some hapless victims approach. Should your warband eliminate them in a swooping ambush, this eyrie will be consecrated with their blood.Attacker and Defender In this battle, the questing player is the attacker and the adversary player is the defender.Terrain Set up terrain as normal. Note that this battleplan works best when there are plenty of platforms (at least 4). If you are generating terrain randomly and the terrain card does not have many platforms, it is best to generate another terrain card.Deployment Use the deployment map below. The defender is blue and the attacker is red. When the attacker sets up a fighter, they can do so wholly within 5" horizontally of that fighter's deployment (rather than 3") if they set that fighter up on a platform.Victory If any of the defender's fighters finish a move action within 1" of the escape route and more than 3" from all enemy fighters, they escape. Remove those fighters from play, but do not count them as being taken down.The battle ends after 4 battle rounds. At the end of the battle, the defender scores 1 victory point for each fighter from their warband that escaped, and the attacker scores 1 victory point for each of the defender's fighters that was taken down. If the attacker has more victory points than the defender, the attacker wins. Otherwise the defender wins.Twist Determine a twist as normal.The Aftermath Sequence The adversary player receives the following bonus in the aftermath sequence:Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1624,6 +2783,22 @@ It seems that your warband's search may be at an end – surely this perch will 
 ### Attacker and Defender
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal. Note that this battleplan works best when there are plenty of platforms (at least 4). If you are generating terrain randomly and the terrain card does not have many platforms, it is best to generate another terrain card.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red. When the attacker sets up a fighter, they can do so wholly within 5" horizontally of that fighter's deployment (rather than 3") if they set that fighter up on a platform.
+---
+### Victory
+**Type:** misc
+If any of the defender's fighters finish a move action within 1" of the escape route and more than 3" from all enemy fighters, they escape. Remove those fighters from play, but do not count them as being taken down. The battle ends after 4 battle rounds. At the end of the battle, the defender scores 1 victory point for each fighter from their warband that escaped, and the attacker scores 1 victory point for each of the defender's fighters that was taken down. If the attacker has more victory points than the defender, the attacker wins. Otherwise the defender wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -1655,6 +2830,22 @@ Once a site of sufficient power has been located, it is imperative that correct 
 ### Attacker and Defender
 **Type:** misc
 In this battle, the questing player is the defender and the adversary player is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain using the alternative terrain rules. The defender must set up each terrain feature, and there cannot be any terrain features within 3" of the centre of battlefield.
+---
+### Deployment
+**Type:** misc
+Use deployment map below. The defender is blue.
+---
+### Victory
+**Type:** misc
+The battle ends after 4 battle rounds. At end of battle, if there are 3 or more attacking fighters within 3" of the centre of the battlefield, the attacker wins. Otherwise, the defender wins.
+---
+### Twist - Attack From All Sides
+**Type:** misc
+The enemies approaching are attacking under cover of night, appearing as if from nowhere without warning. The attacker does not deploy fighters from their battle groups during the deployment step. Instead, after a defending fighter has activated, if there are any attacking fighters that are not on the hattletield (not including those that have been taken down), the attacking player must pick 1 of those attacking fighters. They place that fighter on a platlorm or the hattlelield floor within 3" of a battlefield edge, then activate that fighter.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -1695,6 +2886,22 @@ The Marshal's demands are not yet fulfilled, and time is running out. Your warba
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+Before the battle, the defender places 5 treasure tokens on the battlefield. Each must be placed on the battlefield floor or a platform, each more than 4" horizontally from the others and more than 6" from the battlefield edge. During the battle, the defender's fighters cannot carry treasure. The battle ends after 4 battle rounds. At the end of the battle, the attacker scores 3 victory points for each of the defender's battle groups that were entirely taken down, and 1 victory point for each treasure carried by the attacker's fighters. If the attacker has 8 or more victory points, the attacker wins. Otherwise the defender wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
+---
 ### The Aftermath Sequence
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence: Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1734,6 +2941,22 @@ At last, you have cornered an enemy whose blood sings with ferocious potency. No
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+Each player scores 1 Victory point each time an enemy fighter is taken down. Each player scores 2 additional victory points each time the last enemy fighter from a battle group is taken down. The battle ends after 4 battle rounds. At the end of the battle, the player with the most Victory points wins. If the score is tied, the defender wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
+---
 ### The Aftermath Sequence
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence: Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -1749,20 +2972,126 @@ D66 Result11-16 Return Empty-Handed Your warrior returns with nothing of worth.T
 
 ## Bloodbaths and Brewgits
 
+### Set-up
+**Type:** misc
+Prerequisite: 3 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster a Destruction warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The Challenger warband also includes 1 Brewgit (referred to as Snotsnork during this battle). This fighter is treated as an ally. It costs points just like any other fighter but is not added to the Challenger's warband roster. All adversaries must have the same faction runemark. The combined points value of the fighters in the Challenger warband cannot exceed 1,250. The combined points value of the adversaries in the Adversary warband cannot exceed 1,300.
+---
+### Special Rules
+**Type:** misc
+Battle Groups: The Challenger must have at least 3 fighters in their Dagger and at least 3 fighters in their Shield. The Potent Brew: At the start of the hero phase of the first battle round, the Challenger rolls two D3s. The first result is the number of snozzlewart Snotsnork needs. The second result is the number of scuttlefungus Snotsnork needs. All fighters in the Challenger's Dagger are said to be holding the ingredient snozzlewart, and all fighters in the Challenger's Shield are said to be holding the ingredient scuttlefungus. If a fighter from either the Challenger's Dagger or Shield finishes a move action within 1" of Snotsnork, they give their ingredient to him. Keep track of the number of each ingredient Snotsnork is given. At the end of a battle round, if Snotsnork has been given the needed number of each ingredient, his concoction has been brewed. Dat's a Lot of Smoke!: No ability or attack action can be used to target Snotsnork from more than 3" away this battle. This represents the billowing smoke coming from the Brewgit's cauldron.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Challenger player picks 1 of them to be in play. Deployment: Hold Out The Challenger uses the red deployment points. Victory: If Snotsnork is taken down, the battle ends and the Adversary wins. Otherwise, at the end of a battle round, if the concoction has been brewed (see opposite), the battle ends and the Challenger wins. Twist: Eager for the Fight
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Da Snotsnork Speshul: All sorts of funny-coloured smoke left the Brewgit's cauldron as he worked, and he might have chucked in some of the enemy's remains to taste. Still, Snotsnork promises his brew can offer all sorts of bonuses with no side effects. Probably. Each time the bearer makes a wait action, roll a dice. On a 1, allocate D3 damage points to the bearer. On a 2+, pick either the Move, Toughness or Wounds characteristic of the bearer. Add D3 to that characteristic until the end of the battle.
 ---
 
+## Picking Your Poison
+
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Adversary Warband
+**Type:** misc
+The Adversary musters a warband that consists of the following adversary: 1 Skitterstrand Arachnarok
+---
+### The Challenger Warband
+**Type:** misc
+The Challenger musters a warband with the following amendments: The Challenger must muster a Destruction warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The combined points value of the fighters in the Challenger warband cannot exceed 3 times the points value of the adversary in the Adversary warband.
+---
+### Special Rules
+**Type:** misc
+Battle Groups: The Challenger warband must be split into battle groups as normal. The adversary is not placed in a battle group. Deployment: The Challenger sets up all their battle groups first. The Adversary then picks 1 of their deployment points and sets up the adversary as normal. Where Did It Go?: Once per battle, the Skitterstrand Arachnarok can use this ability as an action if it is more than 3" from any enemy fighters. If it does so, remove the Skitterstrand Arachnarok from the battlefield; it is now in reserve. In the reserve phase of the next battle round, it can be set up again anywhere on the battlefield more than 5" from any enemy fighters.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Adversary player picks 1 of them to be in play. Deployment: Draw a deployment card as normal Victory: A player wins the battle as soon as every fighter in their opponent's warband is taken down. Twist: Dead of Night
+---
+### The Spoils
+**Type:** misc
+If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Monster: The Skitterstrand Arachnarok can be added to the Challenger's warband roster.
+---
+
 ## Caged Lightning
 
+### Set-up
+**Type:** misc
+Prerequisite: 4 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster a Death warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The Challenger warband also includes 1 Spirit Torment (referred to as 'Vorcaw the Lockwraith' during this battle). This fighter is treated as an ally but is not added to the Challenger's warband roster. All fighters in the Adversary player's warband must have 1 of the following faction runemarks: Stormcast Eternals Warrior Chamber (Stormcast Eternals: Warrior Chamber), Stormcast Eternals Vanguard Auxiliary Chamber (Stormcast Eternals: Vanguard Auxiliary Chamber) or Stormcast Eternals Sacrosanct Chamber (Stormcast Eternals: Sacrosanct Chamber). The combined points value of the fighters in each warband cannot exceed 1,500.
+---
+### Special Rules
+**Type:** misc
+Lightning Gheist: In this battle the objective represents the lightning gheist. Follow the normal rules for objectives with the following amendments: At the start of the battle, the lightning gheist token is placed on the centre of the battlefield floor. At the end of the hero phase of each battle round, starting with the player with the initiative, each player alternates spending 1 of their singles. Each time a single is spent, the player that spent it can move the lightning gheist up to a number of inches across the battlefield floor equal to the value of the single (wild dice used as singles have a value of 6). The lightning gheist can pass through fighters and terrain features but cannot move off the battlefield. If a player has no more singles, they must choose to pass. When a player passes, their opponent can spend 1 more single before the sequence ends. Otherwise, after all singles have been spent, the sequence ends. Captured Soul Energy: Each time an adversary is taken down within 9" of Vorcaw the Lockwraith, the Challenger gains 1 wild dice which can be used in the next hero phase.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Adversary player picks 1 of them to be in play. Deployment: Defiant Stand The Challenger uses the red deployment points. Victory: The Ritual The Challenger is the attacker. In addition, the objective is not placed as instructed. Instead, see 'Lightning Gheist' in the Special Rules box. Twist: Deluge
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Fetters of the Oubliette: In return for your assistance, Vorcaw has gifted you these enchanted chains drawn straight from the Great Oubliette, capable of binding even the most stubborn of enemies. Once per battle, the bearer can use this artefact as a bonus action. If they do so, pick 1 visible enemy fighter within 1" of the bearer and roll a dice. On a 2+, until the end of the battle, that fighter cannot make Move actions or Disengage actions while this fighter is within I" of them.
 ---
 
+## A Right Old Mess
+
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Advensary player each muster a warband with the following amendments: The Challenger must muster a Destruction warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. All adversaries must have the Fyreslayers faction runemark (Fyreslayers). The combined points value of the fighters in each warband cannot exceed 1,250.
+---
+### Special Rules
+**Type:** misc
+Dungeon Battle: This battle is a dungeon battle. It uses the rules for dungeon battles and the battleplan cards found in Warcry: Catacombs. The map dictates where dungeon terrain is set up. Falling Rubble: Roll a dice each time a fighter is picked to activate. On a 1, that fighter is struck by falling rubble. Allocate D6 damage points to that fighter. Note that a fighter that is waiting will be rolled for twice in total. These are the perils of standing in the same place for too long!
+---
+### Battleplan
+**Type:** misc
+Terrain: See map. Deployment: Into the Breach. Victory: Breakout The Challenger is the defender. Twist: Suffocating Heat
+---
+
 ## Gargantuan Carnage
 
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Adversary Warband
+**Type:** misc
+The Adversary musters a warband that consists of the following adversary: 1 Aleguzzler Gargant
+---
+### The Challenger Warband
+**Type:** misc
+The Challenger musters a warband with the following amendments: The Challenger must muster a Destruction warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The combined points value of the fighters in the Challenger warband cannot exceed 1,100.
+---
+### Special Rules
+**Type:** misc
+Battle Groups: The rules for battle groups are not used in this battle. The Gargant's Challenge: In this battle, the fighters in the Challenger warband and the adversary treat each other as friendly fighters. The Undead: At the start of the first battle round, before the hero phase begins, the Challenger must set up fighters with a Death faction runemark and a combined points value of between 950 and 1,000 on the battlefield. The fighters must be set up within 6" of the centre of the battlefield. If the players have access to Soulblight Gravelords, the fighters set up must have the Soulblight Gravelords faction runemark (Soulblight Gravelords). Otherwise, any fighter with a Death faction runemark can be set up, but these fighters can only use abilities that do not require a specific faction runemark. In both cases, these fighters are subject to the Territorial Predators and Bestial Intellects rules in the same way as a chaotic beast. Drunken Courage: Subtract 2 from the damage points allocated by each hit and critical hit (to a minimum of 1) from attack actions that target the Aleguzzler Gargant.
+---
+### Territorial Predators
+**Type:** misc
+Treat all fighters as enemy fighters, except for fighters that have the same combination of runemarks as themselves, which they treat as friendly fighters. For example, a Deadwalker Zombie will treat Corpse Rats as enemy fighters.
+---
+### Bestial Intellects
+**Type:** misc
+When it is a player's turn to choose a fighter from their warband to activate, they can instead choose a restless undead that has not yet activated. When they do so, the player first rolls a dice. On a 3-6 they can activate that fighter as normal. On a 1-2, their opponent can instead activate that fighter. When this happens, it still counts as the turn of the player who chose the restless undead, despite their opponent being the one who gets to activate it.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Adversary picks 1 of them to be in play. Deployment: The Challenger picks 1 of the battlefield edges and deploys all of their fighters wholly within 3" of it. The Adversary then sets up their Aleguzzler Gargant wholly within 3" of the same battlefield edge. Victory: Keep a tally of the number of fighters taken down by attack actions and abilities used by the Aleguzzler Gargant and the number of fighters taken down by attack actions and abilities used by the fighters in the Challenger warband. The battle ends after 5 battle rounds. At the end of the battle, the player with the highest tally wins. Twist: Dusk
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Monster: The Aleguzzler Gargant can be added to the Challenger's warband roster.
@@ -1770,6 +3099,22 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## Krushed
 
+### Set-up
+**Type:** misc
+Prerequisite: 4 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster a Destruction warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. All adversaries must have the Ironjawz faction runemark (Ironjawz). The Adversary warband must include 1 Orruk Megaboss as the leader (referred to as Krusha during this battle). The combined points value of the fighters in each warband cannot exceed 1,250.
+---
+### Special Rules
+**Type:** misc
+Leave It to Da Bosses: Only fighters with the Hero runemark (Hero) can use abilities or make attack actions that target an enemy fighter with the Hero runemark (Hero). A Proper Show-off: Each time a fighter is taken down, the attacking player rolls a dice. On a 4+, they receive 1 additional wild dice at the start of the next battle round.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Challenger player picks 1 of them to be in play. Deployment: Defiant Stand The Challenger uses the blue deployment points. Victory: Cut Off the Head Twist: Bitter Rivals
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Krusha's Cleaver: Krusha by name, krusha by nature - that was how the Megaboss described himself Not that it mattered much in the end. Still, there's no denying that this choppa makes a particularly satisfying sound when crunching flesh and bone. Add 1 to the Attacks and Strength characteristics of attack actions made by the bearer that have a Range characteristic of 3 or less.
@@ -1777,6 +3122,26 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## Trial of the Five Blades
 
+### Set-up
+**Type:** misc
+Prerequisite: 4 dominated territories Stake: 1 dominated territory
+---
+### The Adversaries
+**Type:** misc
+The Adversary player musters a warband that consists of 5 fighters, each of which is one of the following: Wight King with Baleful Tomb Blade Wight King with Black Axe note Variations on the Wight King no longer exist, so simply use 5 Wight Kings.
+---
+### The Challenger Warband
+**Type:** misc
+The Challenger musters a warband with the following amendments: The Challenger must muster a Death warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster.
+---
+### Special Rules
+**Type:** misc
+The King's Champions: Each of the fighters in the Adversary player's warband has a different title picked from the list below. Before the battle, the Adversary player picks 1 title for each of their fighters. Each title gives a bonus rule to that fighter. The Flayed Knight: Add 1 to the Toughness characteristic of this fighter. The Briar Knight: Add 1 to the Attacks characteristic of attack actions made by this fighter. The Martyr Knight: Each time this fighter activates, you can remove D6 damage points allocated to them. The Dolorous Knight: Count each critical hit from attack actions that target this fighter as a hit instead. First Sword of the Fallen King: Each time this fighter activates, it can make a bonus move action or a bonus attack action. Entering the Tomb: The players' warbands are not split into battle groups. To deploy, the Adversary player sets up their fighters wholly within 6" of the centre of the battlefield. Then, the Challenger picks 1 entrance tunnel and sets up their warband wholly within 6" of it.
+---
+### Battleplan
+**Type:** misc
+Terrain: See map. Designer's Note: If the players have the Catacombs Board Pack, we recommend using the Halls of Velorum dungeon battlefield instead and setting up the dungeon scenery freely. Deployment: See 'Entering the Tomb' above. Victory: A player wins the battle as soon as every fighter in their opponent's warband is taken down. Twist: Dark Shadows
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Blade of the Deathless Order: As if to add insult to injury, you have bound the souls of the five knights into this eldritch blade, and can call upon their powers to bolster you at crucial moments. Once per battle, the bearer can use this artefact to make a bonus attack action, or to remove D6 damage points allocated to them.
@@ -1784,6 +3149,22 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## The Big Carngrad Bash
 
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster a Destruction warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The Challenger warband also includes 1 Dankhold Troggoth. This fighter is treated as a monster. It costs points just like any other fighter but is not added to the Challenger's warband roster. All adversaries must have the same Chaos faction runemark. The combined points value of the fighters in each warband cannot exceed 1,250.
+---
+### Special Rules
+**Type:** misc
+The Monument: Fighters in the Challenger warband can make attack actions that target the monument while they are within 3" of the monument and more than 3" from any adversaries. The monument has a Toughness characteristic of 5 and a Wounds characteristic of 50. When 50 damage points have been allocated to the monument, it is destroyed. Puny Intellect: At the start of each combat phase, before the player who has the initiative picks which player will take the first turn, the Challenger must take a stupidity test for the Dankhold Troggoth. To do so, the Challenger must roll a dice and consult the table below. D6 Effect1 Who's da bad guy again?: Until the end of the battle round, the Dankhold Troggoth is controlled by the Adversary. It is treated as a fighter in the Adversary warband for that battle round and is no longer treated as a fighter in the Challenger warband.2 Hurr hurr, the sky looks pretty... The Dankhold Troggoth cannot be picked to activate this battle round.3+Okay boss, let's go smash!: The Dankhold Troggoth activates as normal.
+---
+### Battleplan
+**Type:** misc
+Terrain: The Challenger places 1 building in the centre of the battlefield to be the monument. We recommend the Bell Tower, but any building no wider than 6" across at its widest point is suitable. The Challenger then sets up the rest of the terrain. Deployment: Frontal Assault The Adversary decides how to orientate the deployment card with the battlefield and chooses which player will use the red deployment points and which player will use the blue deployment points. Victory: If the monument is destroyed (see right), the battle ends and the Challenger wins. Otherwise, at the end of the fifth battle round, the battle ends and the Adversary wins. Twist: No Holding Back
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Monster: The Dankhold Troggoth can be added to the Challenger's warband roster.
@@ -1791,6 +3172,18 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## Death Comes Calling
 
+### Set-up
+**Type:** misc
+Prerequisite: 4 dominated territories Stake: 1 dominated territory
+---
+### Special Rules
+**Type:** misc
+The Stronghold: The Adversary player sets up the battlefield terrain. They are encouraged to set up the terrain to resemble the stronghold of the Chaos Warlord they control. Then, the Adversary player sets up all the fighters from the battle group that includes their leader within 9" of the centre of the battlefield. The other two battle groups are set up in reserve. Then, the Challenger picks 2 battlefield edges and sets up each fighter from their warband within 1" of either battlefield edge. In the reserve phase of the second battle round, the Adversary player sets up all the fighters from their battle groups in reserve within 1" of a battlefield edge not previously picked by the Challenger.
+---
+### Battleplan
+**Type:** misc
+Terrain: See 'The Stronghold' above. Deployment: See 'The Stronghold' above. Victory: Assassinate. Twist: Dusk
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Tortured Soulgem: A portion of the warlord's agonised soul is trapped within this black gemstone. When unleashed, its hideous wails can freeze the heart with terror. Once per battle, the bearer can use this artefact as a bonus action. If they do so, pick 1 visible enemy fighter within 6" of the bearer and roll a dice. On a 4+, that fighter cannot activate this battle round.
@@ -1798,13 +3191,72 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## The Grot Purge
 
+### Set-up
+**Type:** misc
+Prerequisite: 3 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Advensary player each muster a warband with the following amendments: The Challenger must muster a Chaos warband, and all fighters in the Challenger's warband must be chosen from the Challenger's warband roster. All fighters in the Adversary player's warband must have the Gloomspite Gitz faction runemark (Gloomspite Gitz). The Adversary player's warband can also indude any number of thralls with the Destruction runemark (Destruction). The combined points value of the fighters in each warband cannot exceed 1 ,300.
+---
+### Special Rules
+**Type:** misc
+Emerging from the Gloom: At the start of the reserve phase in each battle round, the Adversary player rolls a dice for each fighter from their warband that has been taken down (excluding the leader). On a 5+, an identical fighter is added to the warband and can be set up on the battlefield within 3" of an objective they control. If the Adversary player's warband controls no objectives, the fighter can instead be set up within 3" of the edge of the battlefield.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Adversary player picks 1 of them to be in play. Deployment: Draw a deployment card as normal. Victory: The Hidden Vault The Adversary player is the defender. At the end of the third battle round, the defender reveals which objective marks the hidden vault as normal. However, the battle ends at the end of the fifth battle round. When the battle ends, the player that controls that objective wins the battle. Twist: Dead of Night
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Loonatic Lantern: A weird glow eminates from this old and rusted lantern, and the longer you hold it the more certain you become that someone is whispering in the back of your mind. Still, despite this, it has an uncanny way of uncovering hidden items of value. If the bearer is in your warband, you can re-roll 1 search roll on the lesser artefacts table in the aftermath sequence after each campaign battle.
 ---
 
+## The Royal Hunt
+
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Adversaries
+**Type:** misc
+The Adversary player musters a warband that consists of either: 1 Terrorgheist or 1 Zombie Dragon
+---
+### The Challenger Warband
+**Type:** misc
+The Challenger musters a warband with the following amendments: The Challenger must muster a Death warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The combined points value of the fighters in the Challenger warband cannot exceed 3 times the points value of the adversary.
+---
+### Special Rules
+**Type:** misc
+Battle Groups: The Challenger warband must be split into battle groups as normal. The adversary is not placed in a battle group. The Hunt: Do not draw a terrain card, deployment card or twist card as normal. Instead, use the following rules: Draw 3 terrain cards and place them face down. The players then roll off. If the Adversary player wins the roll-off, no cards are revealed. If the players tie, 1 card chosen by the Challenger player is revealed. If the Adversary player loses the roll-off, all the cards are revealed. The Challenger then picks 1 of the 3 terrain cards to be in play for the battle. Repeat this process for the deployment card. Repeat this process for the twist card, but before drawing the 3 cards remove all twist cards with the Wild Creatures runemark (S) and all those with the Fate runemark. Deployment: The Challenger sets up all their battle groups first. The Adversary player then picks 1 of their deployment points and sets up the adversary as normal.
+---
+### Battleplan
+**Type:** misc
+Terrain: See 'The Hunt' above. Deployment: See 'The Hunt' above. Victory: A player wins the battle as soon as every fighter in their opponent's warband is taken down. Twist: See 'The Hunt' above.
+---
+### The Spoils
+**Type:** misc
+If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Monster: The monster adversary can be added to the Challenger's warband roster.
+---
+
 ## A Grave Mistake
 
+### Set-up
+**Type:** misc
+Prerequisite: 4 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger musters a Death warband that consists of 1 model. That model must be their leader, chosen from the Challenger's warband roster. All adversaries must have the same faction runemark: either the Bonesplitterz runemark (Bonesplitterz) or the Ironjawz runemark (Ironjawz). The Adversary player's warband can include up to 20 fighters. The combined points value of the adversaries cannot exceed 1,500.
+---
+### Special Rules
+**Type:** misc
+Battle Groups: The rules for battle groups are not used in this battle. Grave Sites: The Challenger sets up 5 objectives on the battlefield floor, each more than 6" from any others. These objectives represent nodes of necromantic power. Summon Undead: At the start of each combat phase, the Challenger rolls a dice for each objective they control. On a 1, the objective being rolled for loses its necromantic power and is removed from the battlefield. On a 2+, the Challenger can add D3 fighters to their warband. Each of these fighters must have the same faction runemark as their warband and a points cost each of 135 or less. They are not taken from the Challenger's warband roster and are removed from their warband at the end of the battle. These fighters can be set up anywhere on the battlefield within 3" of the leader of the Challenger's warband.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Challenger picks 1 of them to be in play. Deployment: The Challenger sets up their fighter within 1" of the centre of the battlefield. Then the adversaries are set up anywhere on the battlefield within 1" of the battlefield edge. Victory: A player wins the battle as soon as every fighter in their opponent's warband is taken down. Twist: Dead of Night
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Wand of Grasping Bone: This osseous wand is a lodestone for Shyishan magic. With a simple gesture, a deathly champion can re-energise in a surge of necromantic energy. Once per battle, the bearer can use this artefact as an action. If they do so, pick a friendly fighter that has been taken down. Set up that fighter once more on the battlefield wholly within 3" of the bearer. The fighter set up on the battlefield no longer counts as being taken down. Remove 2 D6 damage points allocated to that fighter.
@@ -1812,6 +3264,22 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## Thieves in the Night
 
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster a Death warband, and all fighters in the Challenger's warband must be chosen from the Challenger's warband roster. All fighters in the Adversary player's warband must have the same faction runemark. The combined points value of the fighters in each warband cannot exceed 1,250.
+---
+### Special Rules
+**Type:** misc
+Deathly Hunters: Fighters in the Challenger's warband are not split into battle groups. In addition, when setting up the battle, the Challenger does not set up any fighters from their warband on the battlefield. Instead, they set up 18 counters, 6 for each battle group, on the battlefield as if they were fighters. For the counters, we recommend using spare 25mm bases. During the battle, the counters are treated as fighters in the Challenger's warband and can make move actions with a Move characteristic of 6. During the battle, the counters can be revealed by a number of means. When a counter is revealed, it is replaced by any fighter from the Challenger's warband that has not yet been set up on the battlefield. A counter is revealed as follows: If the counter is targeted by an ability or attack action. If the counter is within 6" of an enemy fighter at the end of any action. If the Challenger player reveals the counter, which they can do at any point during its activation. Once all fighters from the Challenger's warband have been set up, all remaining counters are removed from the battlefield.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Adversary picks 1 of them to be in play. Deployment: Defiant Stand The Challenger warband uses the red deployment points. Victory: Defend the Find The Challenger is the attacker. In addition, the defender wins the battle after 6 instead of 4 battle round if the attacker has not won the battle before then. Twist: Dead of Night
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Relic of the Barrows: This relic weapon has supped deep the blood of thieves and traitors. Those it scratches are soon overwhelmed by the magics of silent, morbid ending. Add 1 to the damage points allocated by each critical hit from attack actions made by the bearer that have a Range characteristic of 3 or less.
@@ -1819,6 +3287,10 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## An Irrefutable Challenge
 
+### The Warbands
+**Type:** misc
+The Challenger and the Advensary player each muster a warband with the following amendments: The Challenger must muster a Chaos warband, and all fighters in the Challenger's warband must be chosen from the Challenger's warband roster. All fighters in the Adversary player's warband must have the Legions of Nagash faction runemark. The leader of the Adversary player's warband must be either a Wight King with Baleful Tomb Blade or Wight King with Black Axe. The combined points value of the fighters in each warband cannot exceed 1,300. note The Legions of Nagash no longer exist, so use Soulblight Gravelords and a Wight King (there are no longer variants of the Wight King).
+---
 ### Special Rules
 **Type:** misc
 Ritual Combat: Only the leader of each warband can use abilities or make attack actions that target the leader of the enemy warband. Draw Upon Ancient Power: At the start of each combat phase, the Adversary player can remove a number of damage points allocated to the leader of their warband equal to the half the number of fighters in their warband (rounding up). For example, if there were 15 fighters in the Adversary player's warband, the Adversary player could remove up to 8 damage points allocated to the leader of their warhand. Bearer of the Crown: The leader of the Adversary player's warband bears the 'Crown of the Barrows' artefact of power (see below).
@@ -1830,13 +3302,70 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## Halting the Ritual
 
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster an Order warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. All adversaries must have the same Chaos faction runemark. The combined points value of the fighters in each warband cannot exceed 1,250.
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Saintly Reliquiae: Originally intended to power the sorcerers' unholy ritual, these bones are now charged with potent deific energy. Add 1 to the value of abilities used by friendly fighters (to a maximum of 6) while they are within 6" of the bearer.
 ---
 
+## Blood and Serpents
+
+### The Challenger Warband
+**Type:** misc
+The Challenger musters a warband with the following amendments: The Challenger must muster an Order warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The combined points value of the fighters in the Challenger warband cannot exceed 3 times the points value of the adversary in the Adversary warband.
+---
+### The Spoils
+**Type:** misc
+If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Monster: The monster adversary can be added to the Challenger's warband roster.
+---
+
+## Fury of the Wild
+
+### The Challenger Warband
+**Type:** misc
+The Challenger musters a warband with the following amendments: The Challenger must muster a Chaos warband, and all fighters in the warband must be chosen from the Challenger's warband roster. The combined points value of the fighters in the warband cannot exceed 3 times the points value of the Adversary player' warband.
+---
+### The Spoils
+**Type:** misc
+If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Monster: The monster adversary can be added to the Challenger's warband roster.
+---
+
+## Gorger Mawpack Background Tables
+
+### Gorger Mawpack Names
+**Type:** misc
+D10 Gorger Names D10 Ravenous Exploits1 Gobbler1 Swallowed a Kharadron bomb. It's still ticking.2 Eyemuncher2 Devoured a hundred Nurglings.3 Peeler3 Bit off a Mega-Garant's finger.4 Howler4 Ate a Sigmarite saint and broke teeth on an icon of Ghal Maraz.5 Bloodlicker5 Gobbled up a batch of Magmadroth eggs. Spicy!6 Old Sourfang6 Crunched up an Ossiarch siege-construct (and its crew).7 The Grabber7 Ate a Deadwalker that keeps repeating on them.8 Skinripper8 Consumed a trove of priceless arcane lore.9 Face Eater9 Guzzled blood from a Khainite cauldron.10 Guts10 Munched on a grot Shroomancer and went a bit loony.
+---
+### Gorger Mawpack Origins
+**Type:** misc
+D6 Origin1 Screechers: Your warriors constantly fill the air with unintelligible and agonised howls akin to cries of pain.2 Cursed by the Gulping God: Rather than being born afflicted with the Empty Belly curse, your warriors were subjected to it after displeasing their deity.3 Pale Scavengers: Your warriors are experienced at stealing meat, weapons and other items from their victims.4 Butcher's Favourites: Your warriors are favoured servants of a particular Butcher or Slaughtermaster, doing their bidding in exchange for scraps of food,5 Blind Cave Dwellers: Your warriors long ago lost their sight, relying instead upon their sense of smell to hunt.6 Cannibals: Your warriors were driven from their mawtribe after being discovered illegitimately feasting upon their own kind.
+---
+### Gorger Mawpack Leader Background
+**Type:** misc
+D6 Background1 Troglodyte Prophet: This warrior has an uncanny sense for where the Gulping God is about to manifest fresh Mawpits.2 Uncanny Scent: This warrior can smell spilled blood from a dozen miles away and track their prey across huge distances.3 Drooling Horror: Great ropes of foul-smelling slaver constantly ooze from this warrior's oversized maw.4 Ravening Mark: This warrior bears a spiral birthmark that their Gorger kin consider to be a sign of the Gulping God's favour.5 Endless Teeth: This warrior's teeth drop out constantly as it feeds, but are swiftly replaced by more that emerge from its gullet6 Poisonous Claws: This warrior's raking claws are so thoroughly encrusted with filth that a single scratch can cause an agonising death.
+---
+
 ## Blades in the Darkness
 
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Advensary player each muster a warband with the following amendments: The Challenger must muster a Chaos warband, and all fighters in the Challenger's warband must be chosen from the Challenger's warband roster. All fighters in the Adversary player's warband must have the Khainite Shadowstalkers faction runemark (Khainite Shadowstalkers). The combined points value of the fighters in each warband cannot exceed 1,250.
+---
+### Special Rules
+**Type:** misc
+Hidden Killers: Fighters in the Adversary player's warband are not split into battle groups. In addition, when setting up the battle, the Adversary does not set up any fighters from their warband on the battlefield. Instead, they set up 18 counters, 6 for each battle group, on the battlefield as if they were fighters. For the counters, we recommend using spare 25mm bases. During the battle, the counters are treated as fighters in the Adversary player's warband and can make move actions with a Move characteristic of 6". During the battle, the counters can be revealed by a number of means. When a counter is revealed, it is replaced by a ny fighter from the Adversary player's warband that has not yet been set up on the battlefield. A counter is revealed as follows: If the counter is targeted by an ability or attack action. If the counter is within 6" of an enemy fighter at the end of any action. If the Adversary player reveals the counter, which they can do at any point during its activation. Once all fighters from the Adversary player's warband have been set up, all remaining counters are removed from the battlefield.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Challenger player picks 1 of them to be in play. Deployment: Defiant Stand The Challenger uses the blue deployment points. Victory: Assassinate Twist: Dead of Night
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Desecrated Meteoric Mail: One of many abandoned relics within the temple, this suit of meteoric armour has been thoroughly profaned by your efforts. No doubt if will incense Azyrites even as it wards you from their blows. Subtract 1 from the damage points allocated by each hit and critical hit from attack actions that target the bearer.
@@ -1844,6 +3373,26 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## Thick As Thieves
 
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Adversary Warband
+**Type:** misc
+The Adversary musters a warband that consists of the following adversaries (all the members of the Gobbapalooza): 1 Shroomancer 1 Spiker 1 Boggleye 1 Scaremonger 1 Brewgit
+---
+### The Challenger Warband
+**Type:** misc
+The Challenger musters a warband with the following amendments: The Challenger must muster an Order warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The combined points value of the fighters in the Challenger warband cannot exceed 1,250.
+---
+### Special Rules
+**Type:** misc
+Rise of the Grots: At the start of each battle round after the first, before the hero phase, the Adversary can set up any number of fighters on the battlefield with a combined points value of 200 or less. Each fighter must have the Gloomspite Gitz faction runemark (Gloomspite Gitz). The fighters can be set up anywhere on the battlefield more than 5" away from any enemy fighters. These fighters are added to the Adversary warband as adversaries and can use abilities as normal.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Adversary picks 1 of them to be in play. Deployment: Defiant Stand. Victory: Steal the Prize Twist: Draw a twist card as normal.
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Stormcaller Amulet: This Azyrite artefact crackles with the power of the tempest and can be used to summon the wrath of the heavenly storm - though in the cursed Eightpoints, its power drains swiftly. Once per battle, the bearer can use this artefact as an action. If they do so, pick 1 visible enemy fighter within 20" of the bearer and roll a dice. On a 2+, allocate a number of damage points to that fighter equal to the roll.
@@ -1851,9 +3400,21 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## The Varanite Harvest
 
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster a Chaos warband, and all fighters in the warband must be chosen from the Challenger's warband roster. All fighters in the Adversary player's warband must have the Chaos faction runemark (Chaos) and the Thrall runemark (Thrall). The Adversary player's warband does not need to include a leader. The combined points value of the fighters in each warband cannot exceed 1 ,250.
+---
 ### Special Rules
 **Type:** misc
 Battle Groups: The Challenger warband must be split into battle groups as normal. The Adversary player's warband is split into 2 battle groups: the Dagger and the Shield. Neither battle group can have more than 1 additional fighter than the other. The Swarm Descends: Each time a fighter in the Adversary player's warband is taken down, an identical fighter is added to that warband and placed in reserve. In the reserve phase of the next battle round, that fighter can be set up as a reserve fighter (Warcry: Catacombs, pg 27). Hideous Mutation: If the Challenger warband is embarked on a campaign in champion mode (see the Tome of Champions 2019), each time a fighter from the Challenger's warband that does not have the Hero runemark (Thrall) is taken down due to the 'Cursed Relics' victory condition, roll a dice before the fighter is removed. On a 1, that fighter has mutated into a hideous Chaos Spawn! The fighter is slain (as if they had rolled the 'Slain' result on the Critical Injuries table), and 1 Chaos Spawn is added to the Adversary player's warband. The Adversary player sets up the Chaos Spawn within 1" of the slain fighter, who is then removed.
+---
+### Battleplan
+**Type:** misc
+Terrain: See map. Deployment: Into the Breach Victory: Cursed Relics Twist: Rumoured Riches
 ---
 ### The Spoils
 **Type:** misc
@@ -1862,9 +3423,28 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## The Everchosen's Regards
 
+### The Warbands
+**Type:** misc
+The Challenger and the Advensary player each muster a warband with the following amendments: The Challenger must muster a Chaos warband, and all fighters in the Challenger's warband must be chosen from the Challenger's warband roster. In addition, if the Challenger does not have a fighter with the Monster runemark (Monster) on their warband roster, they can add 1 fighter with the Monster runemark (Monster) to their warband for this battle. All fighters in the Adversary player's warband must have 1 of the following faction runemarks: Stormcast Eternals Warrior Chamber (Stormcast Eternals: Warrior Chamber), Stormcast Eternals Vanguard Auxiliary Chamber (Stormcast Eternals: Vanguard Auxiliary Chamber) or Stormcast Eternals Sacrosanct Chamber (Stormcast Eternals: Sacrosanct Chamber). The combined points value of the fighters in each warband can not exceed 1,500.
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Desecrated Meteoric Mail: One of many abandoned relics within the temple, this suit of meteoric armour has been thoroughly profaned by your efforts. No doubt if will incense Azyrites even as it wards you from their blows. Subtract 1 from the damage points allocated by each hit and critical hit from attack actions that target the bearer.
+---
+
+## Gloomspite Gitz Background Tables
+
+### Gloomspite Gitz Names
+**Type:** misc
+White Dwarf #485 Warcry Core Book 2019 D10 First Name D10 Last Name1 Snizznab1 Da Stinky2 Brokkagrin2 Stinkrot3 Palstabb3 Squigtamer4 Murk4 Mushchompa5 Bignozz5 Da Cowardly6 Snotgab6 Gobsalot7 Stenk7 Blaghoota8 Wizzmob8 Squigherda9 Boingarr9 Da Stabby10 Swillzib10 Stenchcap D10 First Name D10 Last Name1 Skitrag1 Neckstabba2 Gripe2 Eyepoka3 Snikka3 Pincha4 Zotbag4 Curdletongue5 Norg5 Nosebita6 Shiv6 Skuttlestab7 Flug7 Toerag8 Kribba8 Longears9 Grark9 Mooneye10 Gitgrik10 Sourtongue
+---
+### Gloomspite Gitz Origins
+**Type:** misc
+White Dwarf #485 Warcry Core Book 2019 D6 Origin1 Knights of da Spill: Your warband once served Skragrott the Loonking at Skrappa Spill, and now they want to find their own land to rule over.2 Gnarly Boyz: Your warband has always lived in the Gnarlwood and is chafing at the sudden competition.3 Mush Rush: Your warband is embarking on a sacred pilgrimage to the Stinkhorn in order to collect its potent spores.4 Some Like it Dank: Your warband prefers to spring ambushes by emerging from tunnels under the forest floor.5 Dedicated Loons: Obsessed with drawing the Bad Moon's attention, your warband is constantly coming up with ever zanier traps and plans.6 Kick da Shinies: Your warband specifically seeks out and kills shiny-armoured warriors because the gleam makes their eyes hurt.D6 Origin1 Bottle Thieves: Your warband specialises in pilfering glasswork from the bigger races.2 Shroomheads: Your warband seeks out particularly noxious clusters of mushrooms to sample.3 Loon's Luck: Your warband has survived many disasters, and its members believe themselves invulnerable.4 Exiles: Your warriors have been judged unbearable even by their fellow grots, and exiled into the wilds.5 Sneaky Backstabbers: Your warriors are particularly good at moving about unseen.6 Eyepokers: Your warriors are experts at the old grot tactic of aiming for the foe's most vulnerable areas.
+---
+### Gloomspite Gitz Leader Background
+**Type:** misc
+White Dwarf #485 Warcry Core Book 2019 D6 Background1 Sticky Fingaz: This warrior always takes the shiniest bauble from each enemy they slay.2 Squig Whisperer: This warrior refuses to go into battle without their prized squig in tow.3 Tactical Rock: This warrior's favoured tactic is to lie in wait before bursting out from behind rocks and trees.4 Veteran Coward: This warrior is not afraid to run away if the enemy is too big and scary.5 Shroomhead: This warrior grows mushrooms in the dank shade of the Stinkhorn and consumes one before every battle.6 Gobby Git: This warrior insults their enemies non-stop whilst fighting.D6 Background1 Babbling Loon: Too many looncap shrooms have robbed this warrior of the ability to speak coherently.2 Touched by the Clammy Hand: This warrior is convinced they are destined for great things.3 Wicked Tongue: This warrior enjoys taunting his foes with jibes and unpleasant songs.4 Cowardly Git: This warrior will only risk taking on his opponents when they are fully distracted.5 Foul Temper: This warrior is particularly venomous and cruel, even for a grot.6 Strange Growth: A bizarre fungal growth plagues this warrior, who insists it is a gift from the Bad Moon.
 ---
 
 ## Cities of Sigmar Dawnbringers
@@ -1888,9 +3468,28 @@ The sides in this conflict are led by 3 heroes who each command a warband. The A
 **Type:** misc
 Once the above steps are completed, the campaign is ready to begin. The first battle is fought as follows: The players roll off. The winner picks 1 of the locations to fight over and then each player reveals which of their heroes have been dispatched to that location. Each player musters a warband. The Auric Lions player musters a warband that consists of fighters with the Thunderstrike Stormcasts faction runemark (Stormcast Eternals: Thunderstrike Stormcasts) and the Gazog's Boyz player musters a warband that consists of fighters with the Kruleboyz faction runemark (Kruleboyz). The size of each warband is determined by the hero dispatched to that location. The leader for each warband must be the hero dispatched to that location. Their points cost is deducted from the total points of the warband as normal. No other fighters with the Hero runemark (Hero) can be included in either warband, with the exception of a Murknob with Belcha-banna which can be included in the Kruleboyz warband. Once the warbands have been mustered, battle groups are then assigned as normal. A player rolls on the victory and twist tables for the location of the battle to determine which victory and twist cards are in play. A player sets up the terrain. 3 deployment cards are drawn. Each player discards 1 of them (starting with the player who did not set up the terrain) – the remaining card is used. The player who did not set up the terrain chooses who is red and blue and orientates the deployment card. Any instructions on the victor card or twist card are carried out. The battle begins. There is no aftermath sequence in this campaign. The winner of each battle before the final battle will earn a reward.
 ---
+### The Auric Lions
+**Type:** misc
+Hero's Name Fighter Card Size of Warband Tyberain Vorst Lord-Imperatant1,200 Gale's Eye Knight-Arcanum1,000 Cythain D'Amar Knight-Vexillor with Banner of Apotheosis900
+---
+### Gazog's Boyz
+**Type:** misc
+Hero's Name Fighter Card Size of Warband Gazog Killaboss on Gnashtoof1,300 Wozgag Swampcalla Shaman1,000 Brokkagok Killaboss800
+---
+### Fighting the Next Battles
+**Type:** misc
+After the first battle, the player who did not pick the location of the battle picks a different location for the second battle, which is then fought using steps 2-12 above. After the second battle, if one player has scored two victories, the final battle is fought (see below). If each player has won 1 of the battles so far, a third battle is fought in the final location and then the final battle is fought.
+---
 ### The Final Battle
 **Type:** misc
 Once one player has 2 victories, the final battle of the campaign is fought. The location of this battle will be determined by which player has earned 2 victories. If it is the Auric Lions, they have tracked the Kruleboyz to the foot of the Morruk Hills and now ride out to defeat them in their home swamps. If it is Gazog's Boyz, they have lured the Stormcast Eternals out of position and now strike at Amberstone Watch again, hoping to finish this time what they could not before! The unique battleplan ‘The Decisive Battle', is used for the final battle. The winner of this battle is declared the winner of the campaign.
+---
+### Between Amberstone Watch and the Morruk Hills
+**Type:** misc
+---
+### The Ruins of Hardoon
+**Type:** misc
+To the west of Amberstone can be found the ruins of Hardoon. Once a great city ruled by shamanic warlords, Hardoon was sacked and destroyed during the Age of Chaos. According to local legend, a powerful relic of the lost kingdom lies somewhere beneath its shattered streets.
 ---
 ### Battleplan
 **Type:** misc
@@ -1900,6 +3499,14 @@ Victory: Roll a dice: D6 Result1-2 The Hidden Vault3-4 The Prize5-6 The Hidden A
 **Type:** misc
 The leader of the warband who wins this battle bears the following artefact of power in the final battle of the campaign: Amber King's Blade: Once wielded by the legendary last king of Hardoon, this blade forged from pure amberstone strikes with a rare and terrible fury. Add 3 to the damage points allocated by each critical hit from attack actions made by the bearer that have a Range characteristic of 3 or less.
 ---
+### Strangler's Marsh
+**Type:** misc
+At the foot of the Morruk Hills lies Strangler's Marsh, a vast stinking swampland home to many Kruleboyz tribes. The commander who seizes this territory can take advantage of the choking smog that hangs over the place to mask their troop movements, catching their foes by surprise.
+---
+### Battleplan
+**Type:** misc
+Victory: Roll a dice: D6 Result1-2 Sudden Death3-4 No Quarter5-6 Raze Twist: Roll a dice: D6 Result1-2 Murky Swampland3-4 Deluge5-6 Eager for the Fight
+---
 ### Reward
 **Type:** misc
 During the final battle of the campaign, once both warbands have been deployed, the victor of this location can pick 1 of their battle groups in reserve and deploy them immediately.
@@ -1908,17 +3515,65 @@ During the final battle of the campaign, once both warbands have been deployed, 
 **Type:** misc
 The fortified strongpoint of Whiterush stands on the bank of the Questing Serpent River. It is an important trading hub for Amberstone Watch. Securing the settlement will cement Sigmar's control over this vital waterway and provide crucial supplies in the battles to come.
 ---
+### Battleplan
+**Type:** misc
+Victory: Roll a dice: D6 Result1-2 Seize Territory3-4 Scorched Earth5-6 The Raid The Auric Lions are the defenders Twist: Roll a dice: D6 Result1-2 Dusk3-4 Dead of Night5-6 Dawn
+---
 ### Reward
 **Type:** misc
 During the final battle of the campaign, at the start of the first hero phase, the victor of this location gains D3 wild dice.
+---
+### Battleplan: The Decisive Battle
+**Type:** misc
+War has raged between Amberstone Watch and the Morruk Hills, with the Thunderstrike Stormcasts of the Auric Lions clashing with the Kruleboyz under the command of Gazog across multiple fronts. The Auric Lions have sought to consolidate their position at Amberstone Watch while the Kruleboyz have tried to undermine them every step of the way. Through bitterly fought battles, one side has now gained the advantage and rides out to defeat their foe once and for all.
 ---
 ### The Warbands
 **Type:** misc
 Each player musters a warband of no more than 1,300 points. The Auric Lions player musters a warband that consists of fighters with the Thunderstrike Stormcasts faction runemark (Stormcast Eternals: Thunderstrike Stormcasts) and the Gazog's Boyz player musters a warband that consists of fighters with the Kruleboyz faction runemark (Kruleboyz). Each warband must include the 3 heroes from the campaign. The leader of the Auric Lions warband is Tyberain Vorst and the leader of the Gazog's Boyz warband is Gazog. The Gazog's Boyz warband can include 4 fighters with the Hero runemark (Hero) if those 4 fighters are the 3 heroes of the campaign and a Murknob with Belcha-banna. The player who has won 2 battles in the campaign so far is the attacker. The other player is the defender.
 ---
+### Terrain
+**Type:** misc
+The defender sets up the terrain. If the Auric Lions player has won 2 battles, the terrain is set up to represent the swamps at the foot of the Morruk Hills. If the Gazog's Boyz player has won 2 battles, the terrain is set up to represent the ruins of Amberstone Watch.
+---
+### Deployment
+**Type:** misc
+3 deployment cards are drawn. Each player discards 1 of them (starting with the attacker) – the remaining card is used. The attacker chooses who is red and blue and orientates the deployment card
+---
+### Victory
+**Type:** misc
+A player wins the battle as soon as all enemy fighters are taken down.
+---
+### Twist
+**Type:** misc
+Victory At All Costs: In the hero phase, when a player is declaring how to use their wild dice they can instead declare victory at all costs. If they do so, they gain 2 wild dice instead of 1, and then declare how they will be used. Each player can declare victory at all costs only once per battle. Once a player has declared victory at all costs, they receive no further wild dice in subsequent battle rounds.
+---
 
 ## Vault Guardians
 
+### Set-up
+**Type:** misc
+Prerequisite: 4 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster an Order warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The Challenger warband also includes the Ancient Guardian (see below). This fighter does not cost any points and does not have a faction runemark. The Ancient Guardian can only use abilities that do not require a faction runemark. All adversaries must have the same Death faction runemark. Each warband can include up to 20 fighters. The combined points value of the fighters in the Challenger warband cannot exceed 1,250. The combined points value of the adversaries in the Adversary warband cannot exceed 1,500. Ancient Guardian Blast Range3-7 Attacks2 Strength3 Damage (normal/crit)3/6 Claws Range1 Attacks4 Strength5 Damage (normal/crit)*/*Monster Move*Toughness5 Wounds60
+---
+### Ancient Guardian
+**Type:** misc
+Blast Range3-7 Attacks2 Strength3 Damage (normal/crit)3/6 Claws Range1 Attacks4 Strength5 Damage (normal/crit)*/* Monster Move*Toughness5 Wounds60
+---
+### Damage Table
+**Type:** misc
+Damage Points Allocated Move Damage0-1644/817-3233/633+22/4
+---
+### Special Rules
+**Type:** misc
+The Fall of the Ancient Guardian: If the Ancient Guardian is taken down, for the rest of the battle, the Challenger no longer receives 1 wild dice at the start of each hero phase.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Adversary picks 1 of them to be in play. Deployment: Draw a deployment card as normal. Victory: A player wins the battle as soon as every fighter in their opponent's warband is taken down. Twist: Draw a twist card as normal.
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Barkflesh Charm: The Guardian offers you a protective talisman made of his own oaken hide. Wearing it grants the bearer the fortitude of the greatest trees of the forests. Add 1 to the Toughness characteristic of the bearer.
@@ -1946,13 +3601,44 @@ There is no aftermath sequence for the Vermintide warband. The players use a dif
 **Type:** misc
 The fourth battle of the campaign is the final battle of the campaign and uses the 'Ambush in the Dark' battleplan below. If the players win this battle, they win the campaign, otherwise they fail and the Vermintide win the campaign. info Continuing the Narrative If you wish to continue the story of Excelsis you can find 3 battleplans for Age of Sigmar in Broken Realms: Kragnos that follow on from these events: 'Last Flight of the Scarlet Scourge', 'Dark Heart' and 'Of Gods and Monsters'. In addition, the battleplan 'They Came From Below' allows players to fight Rattachak's initial attack upon the city.
 ---
+### Continuing the Narrative
+**Type:** misc
+If you wish to continue the story of Excelsis you can find 3 battleplans for Age of Sigmar in Broken Realms: Kragnos that follow on from these events: 'Last Flight of the Scarlet Scourge', 'Dark Heart' and 'Of Gods and Monsters'. In addition, the battleplan 'They Came From Below' allows players to fight Rattachak's initial attack upon the city.
+---
+### Battle Locations
+**Type:** misc
+---
+### Ironweld Armoury
+**Type:** misc
+A band of skaven have laid claim to this Ironweld Armoury, ruined in the wake of Rattachak's attack. You must rid this place of the foul vermin before they can take off with too much of the plundered black powder from within.
+---
+### Battleplan
+**Type:** misc
+Victory: Defend the Find The players are the attackers. The players pick one of the Vermintide's deployment points and set up all the treasure tokens within 3" of that deployment point. Twist: Roll a dice: D6 Result1-3 Dusk4-6 Battle Frenzy
+---
 ### Reward
 **Type:** misc
 If the players win the battle, each player can pick 1 of their fighters to bear the following artefact of power: Blastpowder Bombs: Made with Aqshian blastpowder, these munitions explode with devastating effect. Once per battle, the bearer can use this artefact as an action. If they do so, pick a visible enemy fighter within 9" of the bearer and roll a dice for each fighter within 3" of that fighter. On a 4+, allocate D6 damage points to the fighter being rolled for.
 ---
+### Dockside Alleyways
+**Type:** misc
+Artillery bombardments during Rattachak's attack gave rise to a deadly inferno that swept through vast swathes of the dockyards, leaving naught but burnt out husk in its wake. Track down any of the skaven that linder still and deliver swift justice upon them.
+---
+### Battleplan
+**Type:** misc
+Victory: No Mercy Twist: Roll a dice: D6 Result1-3 Eerie Silence4-6 Deluge
+---
 ### Reward
 **Type:** misc
 If the players win the battle, in the aftermath sequence of this battle, fighters gain a destiny renown level on a 4+.
+---
+### Northern Sewer Entrance
+**Type:** misc
+The tide of vile vermin that attacked the city did so through the sewers that run below, and while the entrances to these ancience tunnerls have been reclaimed elsewhere in Excelsis, those in the northern districts are still held by the skaven intruders. Take down the leader of these creatures and send the rest scurrying back into the darkness below.
+---
+### Battleplan
+**Type:** misc
+Victory: Assassinate Twist: Roll a dice: D6 Result1-3 Dead of Night4-6 Eager for the Fight
 ---
 ### Reward
 **Type:** misc
@@ -1962,13 +3648,100 @@ If the players win the battle, in each hero phase of the final battle of the cam
 **Type:** misc
 In the battles in this campaign, the players and their warbands battle hordes of skaven controlled by the game. These enemy fighters are referred to as Vermintide fighters, and the following rules explain how they are used in battle.
 ---
+### Warband Strength
+**Type:** misc
+First Battle Second Battle Third Battle800+ points950+ points1,100+ points
+---
+### Deployment
+**Type:** misc
+The players first set up all the Vermintide fighters as normal. Then the players set up all the fighters from their warbands as normal.
+---
 ### Determining Initiative
 **Type:** misc
 In the hero phase, the Vermintide has no initiative dice or wild dice. Instead, the Vermintide is always considered to have 3 singles for determining initiative and wins any ties automatically. If the campaign has 1 player, determine if they or the Vermintide has initiative. If there are 2 players, they and the Vermintide are sorted into an initiative order from first to last, determined by the number of singles each has.
 ---
+### Activating Vermintide Fighters
+**Type:** misc
+In the combat phase, players and the Vermintide take it in turns to activate fighters from their warband as normal. When it is the turn of the Vermintide, the players pick which Vermintide fighter activaties. Like any other fighter, a Vermintide fighter cannot be picked to activate more than once per battle round. Vermintide fighters are always in one of 2 states: close or far. When a Vermintide fighter activates, the players first determine which state they are in as follows: If the closes visible enemy fighter to the Vermintide is within range of any of the Vermintide fighter's weapons, the Vermintide fighter is said to be close, otherwise it is said to be far. Once its state has been determined, a player rolls on the behaviour table below to see how that fighter will behave in its activation.
+---
+### Vermintide Fighter Actions and Abilities
+**Type:** misc
+The behaviour table below shows the abilities and actions that the Vermintide fighter will make and the order in which they make them. Abilities are written in italics and actions are written in bold. The abilities used by Vermintide fighters can be found on the Vermintide abilities table below. These do not need or use any ability dice, and only Vermintide fighters can use these abilities. When it says 'Attack/Move', the fighter will attack unless there are no visible enemy fighters within range of any of its weapons, in which case it will instead move.
+---
+### Move Actions
+**Type:** misc
+Move actions made by Vermintide fighters follow these rules: They move as close as possible to the closest visible enemy fighter. If more than one visible enemy fighter is equally close, the players pick 1 of those fighters. If there are no visible enemy fighters, they move as close as possible to the nearest enemy fighter that is not visible. If more than one enemy fighter that is no visible is equally close, the players pick 1 of those fighters. They always take the quickest route, jumpnig over pits or gaps and climbing obstacles if necessary. They will always jump down from platforms rather than climb down. They will never finish a move action above a pit. They will never climb dangerous terrain.
+---
+### Attack Actions
+**Type:** misc
+Attack actions made by Vermintide fighters follow these rules: They target the closest visible enemy fighter that is within range of one of their weapons. If more than one visible enemy fighter is equally close, the players pick 1 of those fighters. If they have multiple weapons in range, they use the weapon with the lowest Range characteristic for the attack action.
+---
+### Vermintide Behaviour Table
+**Type:** misc
+D3 Close Far1 Recuperate-Attack Recuperate-Move2 Attack-Attack Move-Attack/Move3 Deadly Strike-Attack-Attack Charge-Attack/Move-Attack/Move
+---
+### Vermintide Abilities
+**Type:** misc
+Ability Charge: This fighter makes a bonus move action. At the end of that move action, if there are any visible enemy fighters within 1" of this fighter, the players pick 1 of those enemy fighters. Allocate D3 damage points to that fighter.Deadly Strike: This fighter can use this ability only if there are any visible enemy fighters within 1" of this fighter. The players pick 1 of those fighters. Allocate D6 damage points to that fighter.Recuperate: Remove up to 5 damage points allocated to this fighter (as many damage points as possible must be removed).
+---
+### Battleplan: Ambush in the Dark
+**Type:** misc
+Your band of mercenaries has waged war against the remnants of the skaven invasion, earning good coin for every severed rat tail brough back as a grisly trophy. Now you have tracked down the lair of a skaven warlord, gnawed out within the city walls itself. As you venture into the darkness you see the glisten of red eyes, rusty weapons and yellowed fangs in the gloom beyond. Weapons are drawn - this will be a bitter fight for your very survival, but if you can kill the warlord and escape to the surface, the skaven menace will be thwarted once and for all!
+---
+### The Vermintide Warband
+**Type:** misc
+The players pick fighters with the Skaven faction runemark (Skaven) to be in the Vermintide warband. The Vermintide warband must be at least 1,200 points. One fighter with the Hero runemark (Hero) must be included and picked to be the warband's leader. The players sort the Vermintide fighters into battle groups. The Vermintide leader is not put into a battle group and instead starts the battle in reserve.
+---
+### Terrain
+**Type:** misc
+The players set up the terrain to resemble the skaven lair. Alternatively, if the players have a dungeon battlefield (see Warcry: Catacombs), that can be used.
+---
+### Deployment
+**Type:** misc
+The players set up their fighters first. All fighters are set up within 3" of the centre of the battlefield. The Vermintide fighters are then set up. To do so, a player picks 1 of the battle groups and rolls 1 dice. This roll corresponds to one of the battlefield edges (see map). All fighter from that battle group are set up on the battlefield as a single group - each must be within 3" of that edge of the battlefield and within 1" of another fighter in that battle group. This process is then repeated for the other 2 battle groups.
+---
+### Victory
+**Type:** misc
+In the reserve phase of the third battle round, the leader of the Vermintide warband is set up on the battlefield as part of the battle group set up using the Endless Hordes rule (see below). The players must take down the leader and then escape the battlefield. When the Vermintide leader is taken down, a player rolls a dice. This roll corresponds to one of the battlefield edges (see map) and marks it as the escape route. The players win the battle if, at the end of a battle round, a leader from one of their warbands is within 1" of the escape route and more than 3" from all enemy fighters. Otherwise the battle ends when the player's leaders have ben taken down - the players lose the battle.
+---
+### Twist
+**Type:** misc
+Endless Horde: In the reserve phase, any Vermintide fighters taken down in the previous battle round - other than the Vermintide leader - are combined into a new battle group and set up on the battlefield using the same rules as for deployment.
+---
+
+## Cities of Sigmar Background Tables
+
+### Cities of Sigmar Names
+**Type:** misc
+D10 First Name D10 Last Namel Daryml Tannerhand2 Marla2 Rovyr3 Dross3 Thrumdul4 Wynne4 Stalkden5 Mortyn5 Atak6 Deckann6 Ambervein7 Asha7 Huntswyft8 Helga8 Skinner9 Aryn9 Grulhe10 Iorde10 Hilt
+---
+### Cities of Sigmar Origins
+**Type:** misc
+D6 Origin1 Seekers of the Lost: Your warband has been sent to locate a missing detachment of Wildercorps Hunters.2 Strongpoint Guardians: Your warband is the last defence between their nascent strongpoint and the hungering Gnarlwood.3 Drawn by Talaxis: Your warband seeks to build their legend by reaching the Ravening Ruin.4 Mercenary Forces: Your warband became separated from a larger expedition they were guarding.5 Takers of the Coin: Your warband belongs to a Dawnbringer Crusade that has been forced to split into detachments to cross the tangled landscape.6 Eradication: Your warband has been tasked with annihilating a sworn enemy of their strongpoint that has fled into the Gnarlwood.
+---
+### Cities of Sigmar Leader Background
+**Type:** misc
+D6 Background1 Scarred Veteran: This leader has led many excursions into the Gnarlwood and survived — though their psyche is fracturing.2 Summoned Hero: This leader made a name for themselves in another realm and has been called to the Gnarlwood to lead an important expedition there.1 To Become Storied: This leader is eager to establish their own legend and will go out of their way to perform dangerous feats.1 Missing Comrade: This leader desperately seeks a former comrade that has become lost in the Gnarlwood.1 Sellsword's Instinct: This leader is a former mercenary that took the Coin Malleus. They are skilled at accompanying expeditions into the unknown.6 Greenhorn Commander: This leader is setting out on their first excursion in command.
+---
 
 ## The Fall of Lord Valgar
 
+### Set-up
+**Type:** misc
+Prerequisite: 4 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster an Order warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. All adversaries must have the Slaves to Darkness faction runemark (Slaves to Darkness). The Adversary warband must include 1 Chaos Lord as its leader (referred to as Lord Valgar during this battle). The Adversary warband must include 1 monster with both the Chaotic Beasts faction runemark (Chaos) and the Monster runemark (Monster). Each warband can include up to 20 fighters. The combined points value of the fighters in each warband cannot exceed 1,500.
+---
+### Special Rules
+**Type:** misc
+Personal Retinue: Each time Lord Valgar is targeted by an attack action made by a fighter more than 3" away, the Adversary rolls a dice. On a 4+, the Adversary can pick 1 friendly fighter within 1" of Lord Valgar that does not have the Monster runemark (Monster) to be the target of that attack action instead. This represents the fighter stepping in the way to shield their lord from harm.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Adversary picks 1 of them to be in play. Deployment: Defiant Stand The Challenger warband uses the red deployment points. Victory: Assassinate. The Challenger warband is the attacker. In addition, the battle ends after 6 battle rounds instead of after 4. Twist: Bitter Rivals and Eager for the Fight
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Tyrant's End: Valgar took his blade from the corpse of a noble champion,forcing its warrior animus to perform terrible acts. In your hands, it seems to thirst for vengeance against the tyrannical and the cruel. Add 1 to the damage points allocated by each hit and critical hit from attack actions made by the bearer that have a Range characteristic of 3 or less and that target an enemy fighter with the Hero runemark (Hero)
@@ -1976,6 +3749,18 @@ If the Challenger wins the battle, they can choose 1 of the following spoils: Tr
 
 ## No Duardin Left Behind
 
+### Set-up
+**Type:** misc
+Prerequisite: 2 dominated territories Stake: 1 dominated territory
+---
+### The Warbands
+**Type:** misc
+The Challenger and the Adversary each muster a warband with the following amendments: The Challenger must muster an Order warband, and all fighters in the Challenger warband must be chosen from the Challenger's warband roster. The Challenger warband also includes 1 Aether-Khemist (referred to as Drong Grimbolsson during this battle). This fighter is treated as an ally but is not added to the Challenger's warband roster. The adversaries must all have the same faction runemark. The combined points value of the fighters in the Challenger warband cannot exceed 1,250. The combined points value of the adversaries in the Adversary warband cannot exceed 1,500.
+---
+### Battleplan
+**Type:** misc
+Terrain: Draw 3 terrain cards; the Adversary picks 1 of them to be in play. Deployment: Defiant Stand The Challenger warband uses the blue deployment points. Victory: If Drong Grimbolsson is taken down, the Adversary wins the battle. Otherwise, at the end of the fifth battle round, the battle ends and the Challenger wins the battle. Twist: Draw a twist card as normal.
+---
 ### The Spoils
 **Type:** misc
 If the Challenger wins the battle, they can choose 1 of the following spoils: Treasure Hoard: See page 105. Artefact of Power: The Challenger can give 1 fighter in their warband the following artefact of power: Grimbolsson's Augmented Aetherseek Acquisitor: Resolving to stick to more tried-and-tested means of accruing wealth, Grimbolsson offers you his experimental device. Though it does little to seek out aether-gold, it may help you discover other great treasures. If the bearer is included in your warband, you can make 1 additional search roll on the lesser artefacts table (Core Book, pg 68-69) during the aftermath sequence of each campaign battle.
@@ -2034,6 +3819,9 @@ The third battle of the campaign uses the ‘The Gates of Paradox' battleplan. T
 **Type:** misc
 This campaign tells but a small part of the wider war between the Ossiarch Bonereapers and the Lumineth Realm-lords in Hysh. In Broken Realms: Teclis there are 2 battleplans for Age of Sigmar that delve further. The first, ‘A Fate Postponed', recreates the events that lead up to this campaign: Arkhan the Black battles the Lumineth Realm-lords at the Blackpit Realmgate. The second, ‘A Clash of Gods', follows on from this campaign, with Nagash himself leading an invasion into Hysh.
 ---
+### Journey to the Realm's Edge
+**Type:** misc
+---
 ### The Desert Of Ending
 **Type:** misc
 After our voyage across the Luminaris Sea we landed upon the shores of Haixiah and made haste towards the Gates of Paradox. As we made our way into the Desert of Ending we discovered Arkhan had anticipated our approach and dispatched his legions to foil us. Err to the West Err to the East [Setback]: On the outskirts of the Desert of Ending we spied an Ossiarch legion moving further into civilised lands. One of our warriors was dispatched to bring word – we pray he arrives first… The Lumineth player picks 1 fighter on their warband roster. That fighter is removed from the warband roster.[Setback]: A dreaded band of Kavalos Deathriders pursued us with relentless haste. We eventually drive them off but at the cost of depleting our reserves of arrows.Roll a dice for each fighter with a weapon with the Ranged Weapon runemark (Ranged). On a 1, the fighter being rolled for cannot use that weapon for the rest of the campaign.[Reward]: To the west we found an ancient shrine and a Phoenix Stone laid hidden within.The Lumineth player picks 1 fighter in their warband that does not have the Hero runemark (Hero) to bear the following artefact of power:Phoenix Stone: This ancient crystal can heal those on the brink of death.Once per battle, the bearer can use this artefact as a bonus action. If they do so, remove up to 2 D6 damage points allocated to the bearer.[Reward]: Even the outer limits of Hysh we call our home, and we use that knowledge of the land to turn the odds in our favour.For the next campaign battle, the Lumineth player can pick the victory card from the table.
@@ -2041,6 +3829,26 @@ After our voyage across the Luminaris Sea we landed upon the shores of Haixiah a
 ### The Perimeter Inimical
 **Type:** misc
 As we neared the Perimeter Inimical, Arkhan's agents on our heels, we and the land before us both began to unravel. Eltharion's stride was unfaltering and filled the hearts of his warriors with the courage to go on. Err to the West Err to the East [Setback]: At first the shafts of light that rain myriad from above were thought to be harmless, until those who spent too long in their splendour were turned to crystal.The Lumineth player rolls a dice for each fighter on their warband roster that does not have the Hero runemark (Hero). On a 1, the fighter being rolled for is turned to crystal and removed from the warband roster.[Setback]: The symmetrical dunes of the far desert prove difficult to navigate – while at last we spy the Gates of Paradox before us, some of our warriors lag behind.In the final battle, after battle groups have been decided, the Ossiarch player can choose for either Lumineth's Shield or Lumineth's Hammer to start in reserve and arrive in battle round 2.[Reward]: Within the dazzling cosmos of the Hyshian night sky, Celennar's visage is revealed to us, galvanising our sense of purpose for the battle to come.Every fighter in the Lumineth warband gains 1 destiny renown level.[Reward]: With purpose and haste, we outmanoeuvre the Ossiarch on our tail and strike at the Gates of Paradox.In the final battle, after battle groups have been decided, the Lumineth player can choose for either the Ossiarch's Dagger or the Ossiarch's Hammer to arrive in battle round 3 instead of 2.
+---
+### Battleplan: The Gates Of Paradox
+**Type:** misc
+The journey across the Desert of Ending has been fraught with peril, and not all of the Lumineth warriors that set out with Eltharion have made it this far. And yet, their greatest challenge is now to come. The Mortarch of Death, Arkhan the Black, has seized the Gates of Paradox and works a fell ritual to taint and corrupt them forever. For the Lumineth it is a race against time, for they must defeat Nagash's servant before the potent magics of the Realm's Edge turns their flesh to crystal or evaporates them upon the sands.
+---
+### Terrain
+**Type:** misc
+The Ossiarch player sets up the terrain: we recommend a Realmgate terrain feature to represent the Gates of Paradox. The Lumineth player orientates the deployment map.
+---
+### Deployment
+**Type:** misc
+See map. The Lumineth player is blue.
+---
+### Victory
+**Type:** misc
+A player wins the battle as soon as their opponent's leader is taken down. At the end of each battle round, the players total the number of enemy fighters that were taken down in that battle round. If one player has a higher score they receive 1 wild dice.
+---
+### Twist
+**Type:** misc
+The potent magics of the Perimeter Inimical threaten to turn the Lumineth into shards of crystal or annihilate them completely. At the end of each battle round, the Lumineth player rolls a dice for each of their fighters except the Light of Eltharion. On a 1, another dice is rolled for that fighter and if that score exceeds their Toughness characteristic, that fighter is immediately turned into crystal and removed from the battlefield.
 ---
 
 ## The Purge of Anvilgard
@@ -2053,6 +3861,10 @@ This is a narrative campaign for 2 players: one takes the role of Ven Brecht and
 **Type:** misc
 Ven Brecht has been given authority to recruit any warriors he wishes to his cause. The Ven Brecht player musters a warband following these guidelines: All fighters in the warband must share 1 of the following faction runemarks: Cities of Sigmar-Anvilgard (Cities of Sigmar-Cities of Sigmar: Anvilgard) Stormcast Eternals: Warrior Chamber (Stormcast Eternals: Warrior Chamber) Stormcast Eternals: Sacrosanct Chamber (Stormcast Eternals: Sacrosanct Chamber) Stormcast Eternals: Vanguard Auxiliary Chamber (Stormcast Eternals: Vanguard Auxiliary Chamber) 1,000 points' worth of fighters can be added to the warband. If any allies are included in the warband, they must be drawn from the above factions. In addition, the wairband includes Ven Brecht as its leader. Ven Brecht does not cost any points and has his own fighter card and abilities as shown below. tip Stormcast Eternals Thunderstrike Chamber is a reasonalbe addition to this list (they were not released when this was written). The Blackscale Coil player does not muster a warband to begin with. Instead, They are free to pick a different warband for each battle fought in the campaign, as explained later. Before the campaign can begin, the Blackscale Coil player must choose how to divide the assets of the Coil. There are 4 locations in the campaign: Bleakscale Harbour, the Gullies, the Ironweld Towers and the Undertunnels. The Blackscale Coil player picks 1 of these locations to hold major assets, 2 others to hold minor assets and the last to be the decoy that holds an ambush instead! The location of the assets must be recorded and kept secret (note that a cunning player might look below to see what sort of battles are fought at each location and assign the Coil's assets accordingly).
 ---
+### Blackscale Coil Assets
+**Type:** misc
+Major Assets Minor Assets Decoy The Blackscale Coil player musters a warband of 1,200 points.After the battle, Ven Brecht uncovers 4 clues.The Blackscale Coil player musters a warband of 1,000 points.After the battle, Ven Brecht uncovers 2 clues.The Blackscale Coil player musters a warband of 1,000 points.The Isolated victory card is used for the battle in this location. The Blackscale Coil player is the attacker.
+---
 ### Fighting Campaign Battles
 **Type:** misc
 Once the above steps are completed, the campaign is ready to begin. Fight each campaign battle as follows: The Ven Brecht player chooses 1 of the 4 locations to search. Each location can only be searched once during the campaign. The Blackscale Coil player musters a warband that consists of fighters with the Cities of Sigmar - Anvilgard faction runemark (Cities of Sigmar: Anvilgard) to a size determined by the assets that the location holds (see above). The warband can also include 1 Scourgerunner Charriot (see below), 1 Hydra or Kharibdyss, any number of allies with the Daughters of Khaine faction runemark (Daughters of Khaine) and any number of allies with the Khainite Shadowstalkers faction runemark (Khainite Shadowstalkers). Battle groups are assigned as normal. A player rolls on the victory table for the location to determine which victory card is in play (unless the location is the decoy: see above). The Blackscale Coil player sets up the terrain: we recommend lots of ruins and buildings to resemble the cramped streets of Anvilgard. 3 deployment cards are drawn. Each plarer discards 1 of them, starting with the Ven Brecht player - the remaining card is the one that is used. The Ven Brecht player chooses which player uses which deployment colour and orientates the deployment card. Any instructions on the victory card and twist card are carried out. The battle begins.
@@ -2064,6 +3876,37 @@ There is no aftermath sequence for the Blackscale Coil player (any fighters take
 ### Continuing The Narrative
 **Type:** misc
 Whether or not Ven Brecht delivers justice unto the Blackscale Coil's crimelord, in the wake of this campaign he takes his findings to the high conclave of Anvilgard - just in time for Morathi's arrival in the city! After playing through this Warcry narrative campaign, ff you wish to continue Ven Brecht's story, you can find 2 battleplans for Warhammer Age of Sigmar in Broken Realms: Morathi that follow on from these events: 'The Undertunnels' and 'The Fall of Anvilgard'.
+---
+### The City of Scales
+**Type:** misc
+---
+### Bleakscale Harbour
+**Type:** misc
+Always a nefarious hive of underhand dealings and black-market trade, Bleakscale Harbour has seen an even greater number of murders than usual over the past weeks. Some are no doubt connected to the dark plot that threatens the city. Ven Brecht has learned of several warehouses by the docks whose ownership is missing from the city's record of tithes. It's time to kick down the door and learn what secrets are held within.
+---
+### Battleplan
+**Type:** misc
+Victory: Roll a D3. The Ven Brecht player is the attacker. D3 Victory condition1 The Raid2 Defend the Find3 Hold Our Gains Twist: Deluge
+---
+### The Gullies
+**Type:** misc
+The dilapidated slums of Anvilgard's tumbledown districts – known locally as the Gullies – are known to be dangerous even to hardened troopers of the city's Freeguild. Bring some of the gangs that run rackets in these parts to justice, and put the survivors to interrogation. One of these criminals must know something of importance.
+---
+### Battleplan
+**Type:** misc
+Victory: Roll a D3. D3 Victory condition1 Shock And Awe2 Dominate3 Vanquish Twist: Eerie Silence
+---
+### The Ironweld Towers
+**Type:** misc
+On the outskirts of Anvilgard rise vast watchtowers of the Ironweld that spew billowing clouds of noxious gases to keep the encroaching jungles beyond at bay. The obscuring miasma of chemical mist that hangs over the area would make a fine location to keep something hidden. Seek out any answers it holds.
+---
+### Battleplan
+**Type:** misc
+Victory: Roll a D3. D3 Victory condition1 No Mercy2 Higher Ground3 Vantage Point Twist: ‘Billowing Vapour Clouds': No ability or attack action can be used to target an enemy fighter more than 4" away this battle.
+---
+### The Undertunnels
+**Type:** misc
+The ancient sewers of Anvilgard run labyrinthine beneath its surface, a tangle of duardin-crafted stoneworks whose secrets are known only to a rare few. Bands of smugglers and other vagrant criminals are said to run their operations down here. Put an end to their schemes and unmask anything lurking below.
 ---
 ### Battleplan
 **Type:** misc
@@ -2081,6 +3924,18 @@ Before the warbands are mustered, for each clue beyond 10 that Ven Brecht has un
 **Type:** misc
 The Blackscale Coil player musters a warband of 1000 points following the same guidelines in the ‘Fighting Campaign Battles' section above. In addition, the warband includes the Crimelord of the Coil as its leader. This fighter does not cost any points and has its own fighter card and abilities as shown below. The Crimelord of the Coil must be placed into the Shield battle group.
 ---
+### Terrain
+**Type:** misc
+The Blackscale Coil player sets up the terrain to resemble the crimelord's hideout. The Ven Brecht player chooses how the deployment card orientates with the battlefield.
+---
+### Deployment
+**Type:** misc
+See the map below. The Ven Brecht player uses the blue deployment points.
+---
+### Victory
+**Type:** misc
+A player wins the battle as soon as their opponent's leader is taken down. Alternatively, if the Crimelord of the Coil starts their activation within 1" of a battlefield edge and is not within 1" of any enemy fighters, they make their escape and the Blackscale Coil player wins.
+---
 
 ## Order Quests
 
@@ -2096,6 +3951,10 @@ Treasures Stormbringer Said to be the weapon of a noble Knight-Questor whose sou
 **Type:** misc
 Stalwart against the ever-encroaching hordes of Chaos, the heroes of Order stand strong in the face of adversity and swear their lives to the protection of their domain. Pick a fighter with the Hero runemark (Hero) in your warband that can gain a heroic trait and note them in your quest log. While embarked upon this quest, in step 4 of a campaign battle's aftermath sequence, you can complete this quest if an enemy fighter with the Hero runemark (Hero) was taken down in that battle by an attack action made or ability used by the fighter noted in your quest log. When you complete this quest, you can give that fighter one of the heroic traits from the Order Heroic Traits below.
 ---
+### Order Heroic Traits
+**Type:** misc
+Order Heroic Traits Holy Might This warrior's blows are bolstered by conviction. Little can stand before their wrath. Add 1 to the damage points allocated by each hit and critical hit from melee attack actions made by this fighter.Chosen Soul Somehow, this warrior always seems to come out on top, even in the direst situations. Once per battle, at the start of the combat phase, you can declare that the gods are watching this fighter. If you do so, until the end of the battle round, count each critical hit from attack actions that target this fighter as a hit instead.Unyielding Until this warrior draws their last breath, they grant the enemy no quarter in battle. If this fighter is within 3" of an objective under your control, your opponent cannot gain control of that objective regardless of the number of fighters from their warband within 3" of it.Roaring Firebrand This warrior is a born orator, legendary for the strength and zeal of their tirades. Add 1 to the damage points allocated by each critical hit from melee attack actions made by friendly fighters while they are within 6" of this fighter.Veteran Ranger This fighter is accustomed to living out in the wilds and tracking the movements of dangerous foes. If this fighter is set up in reserve, after deployment, you can immediately set them up on the battlefield within 3" of any of your deployment points.Well of Strength In times of strife, this warrior searches within to find the purpose and grit to fight on. Once per battle, at the start of this fighter's activation, you can remove 2 D6 damage points allocated to them.
+---
 ### Establish Trade Route
 **Type:** misc
 Due to the ever-shifting canopy of the Gnarlwood, larger settlements and encampments within are always seeking safe trade routes to the outskirts of the forest. Many enterprising warbands seek to actively carve out paths to attract merchants and traders. While embarked upon this quest, you must keep track of a search score. In step 4 of each campaign battle's aftermath sequence, add D6 to your search score if you won that battle. You can also pick up to 3 fighters from your warband and send them forth to search for a safe route. To do so, roll a dice for each fighter you picked. Then, add the rolls to your search score. In addition, on a 1, the fighter being rolled for is attacked by something within the Gnarlwood. Make an injury roll for that fighter. While your search score totals 10 or more, you can fight battles using the 'Scour the Land' quest battleplan. If you do so and you win the battle, in step 4 of the aftermath sequence, you can complete this quest. If you do so, in step 5, you can relocate your warband's encampment to a 'Trade Route' (see below) and do not need to spend any glory to do so. Battleplan Quest Battleplan: Scour the Land To carve out an existence in the Gnarlwood, your warband has set about establishing a trade route to the outskirts to provide safe passage for merchants. You have identified a suitable path through the forest, but it passes through the territory of your enemies. Cut them down, claim the route for your own and bring order to this region.Attacker and Defender In this battle, the questing player is the attacker and the adversary player is the defender.Terrain Set up terrain as normal.Deployment Use the deployment map below. The defender is blue and the attacker is red.Victory The battlefield is divided into questers as shown on the deployment map.The battle ends after 4 battle rounds. When the battle ends, a player captures a quarter of the battlefield if there are any friendly fighters wholly within it and no enemy fighhters wholly within it. The player who captures the most quearters of the battlefield wins.Twist Determine a twist as normal.The Aftermath Sequence The adversary player receives the following bonus in the aftermath sequence:Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -2108,9 +3967,21 @@ To carve out an existence in the Gnarlwood, your warband has set about establish
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
 ### Victory
 **Type:** misc
 The battlefield is divided into questers as shown on the deployment map. The battle ends after 4 battle rounds. When the battle ends, a player captures a quarter of the battlefield if there are any friendly fighters wholly within it and no enemy fighhters wholly within it. The player who captures the most quearters of the battlefield wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -2123,6 +3994,21 @@ Location Location Bonus Points Limit Reputation Modifier Trade Route Your warban
 ### Order Lesser Artefacts
 **Type:** misc
 D66 Result11-16 Return Empty-Handed Your warrior returns with nothing of worth.This result has no effect.21-26 Meagre Pickings Your warrior returns with minor spoils that can be sold or bartered for materials.[Reward] You receive D6 glory.31-33 Excelsian Glimmering Mined from the Spear of Mallus off the Coast of Tusks, this mystic gemstone offers prophetic glimpses of the future in its smoky facets.[Consumable] The bearer can use this lesser artefact as a bonus action. If they do so, at the start of the next initiative phase, you gain 1 additional wild dice.34-36 Allopex Eye A gift from the otherworldly Idoneth, devouring this gelatinous orb grants some measure of the keen senses enjoyed by undersea predators.[Consumable] The bearer can use this lesser artefact as a bonus action. If they do so, until the end of the battle round, they automatically receive the benefit of cover when they are targeted by an attack action.41-43 Stranglebriar Seedling When cast upon the ground and benedictions to Alarielle spoken, grasping thorned tendrils erupt from this seed to strangle and tear at the foe.[Consumable] The bearer can use this lesser artefact as a bonus action. If they do so, pick 1 visible enemy fighter within 6" of them and roll a dice. On a 4+, that fighter cannot make move actions or disengage actions for the rest of the battle round.44-46 Sacred Starwater A Sigmarite priest offers you a vial of starwater in return for provisions. When applied to a weapon, this blessed water can prove the bane of the unholy.[Consumable] The bearer can use this lesser artefact as a bonus action. If they do so, hit rolls for the next attack action made by the bearer score a critical hit on a 5+.51-53 Bugman's XXXXXX Passing Kharadron traders gift you a sample of this legendary tipple brewed by the Bugman family. It possesses incredible fortifying properties.[Consumable] The bearer can use this lesser artefact as a bonus action. If they do so, you can remove 2 D6 damage points allocated to them. Then, add 3 to the Toughness characteristic of the bearer until the end of the battle.54-56 Claw Of Ursricht These claw-shaped shards of amberbone are carried by some Stormcasts of the Astral Templars, and are said to grant the bearer the ferocity of a territorial cave bear. This one seems to have lain here for an age, but it still seems to hold some of its power.[Perishable] Add 1 to the Attacks characteristic of melee attack actions made by the bearer.61-62 Icon Of The Ur-Phoenix This elegant charm, fashioned by the a elven artificers of the Phoenicium, holds potent restorative power.[Perishable] Each time the bearer activates, you can remove D3 damage points allocated to them.63-64 Starforged Torc Forged from priceless celestite ore, this angular tore grants the wearer the speed of a shooting comet.[Perishable] Add 1 to the Move characteristic of the bearer.65-66 Dawnbringer Pathfinders Scouts from a Dawnbringer Crusade passing close to the Gnarlwood bring you a potent gift.[Reward] Pick 1 artefact of power from the Lost Treasures of Order table.
+---
+
+## Teratic Cohort Background Tables
+
+### Teratic Cohort Names
+**Type:** misc
+D10 Ossiarch Name D10 Designation1 Platos1 Enos2 Xandas2 Duonas3 Raxortan3 Tressios4 Thadias4 Quatron5 Arios5 Quentas6 Madortan6 Ex7 Zendis7 Eptos8 Methykis8 Octan9 Voxian9 Novia10 Xordis10 Dekton
+---
+### Teratic Cohort Origins
+**Type:** misc
+D6 Origin1 Fresh Harvesters: This warband prefers to get fresh bone by ripping it from the flesh of their enemies.2 Master Tacticians: This warband is adept at using the Gnarlwood against their foes, fighting from Gnarloak canopies and clawing thickets.3 Tamers of Horror: This warband has tethered a Ravening Gnarloak and feeds live foes into its gnashing centre.4 Hallowed Guardians: These warriors once guarded the Arcway, that unholy realmgate connecting Shyish to the Eightpoints.5 Tithebreakers: This warband were drafted into their Cohort after the settlement they were tithing fled in the night.6 Abandoned: These warriors were punished after their enemy successfully retreated, leaving the Ossiarch unable to collect their bones.
+---
+### Teratic Cohort Leader Background
+**Type:** misc
+D6 Background1 Beast-touched: Now being partially fused with animal bones, this warrior is haunted by Ghur’s wild pulse.2 Prideful: This warrior clings to the memories of their time as a Liege-Kavalos and fights ruthlessly to earn back their position.3 Marked by Age: This warrior has been trapped in their new form for many years, and has absolute mastery over both their weapons and their body.4 Dark Mission: This warrior has been sent to confiscate Talaxis’ life-giving contraptions.5 Trailflayer: This warrior hangs the discarded skin of harvested enemies upon the trees in their wake.6 Beastmaster: This warrior is an expert at utilising the four-legged and the flying warriors in their warband to ambush enemies from afar.
 ---
 
 ## Death Quests
@@ -2155,6 +4041,22 @@ You have discovered an entrance to ancient catacombs, but it seems that grave ro
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+Before the battle, 1 objective is placed at the centre of the battlefield, then the defender places 1 objective, and then the attacker places 1 objective. Each objective must be placed more than 6" from all other objectives and the battlefield edge. At the end of the first battle round, the players roll off. The winner pics 1 objective and removes it from play. At the end of the second battle round, the opposing player does the same. The battle ends after 4 battle rounds. When the battle ends, the player who controls the remaining objective wins.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
+---
 ### The Aftermath Sequence
 **Type:** misc
 The adversary player receives the following bonus in the aftermath sequence: Renown to be Earned: The adversary player adds 1 to each renown roll they make in this aftermath sequence.
@@ -2170,9 +4072,28 @@ D66 Result11-16 Return Empty-Handed Your warrior returns with nothing of worth.T
 
 ## Clash of Might
 
+### Terrain
+**Type:** misc
+Set up Terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defenders are blue and the attackers are red.
+---
+### Victory
+**Type:** misc
+The battlefield is divided into quarters as shown on the deployment map. At the end of each battle round, if a team has more fighters in a quarter of the battlefield than there are enemy fighters in that quarter, that team captures that quarter. If one team captures more quarters than the other, they win that battle round. The battle ends after 4 battle rounds. When the battle ends, the team that won the most battle rounds wins the battle.
+---
+### Twist
+**Type:** misc
+Generate a twist as normal.
+---
 ### Campaign Rewards
 **Type:** misc
 If this battle is fought as part of a campaign, in the aftermath sequence of the battle, players from the winning team can re-roll any exploration rolls made for their fighters in step 5.
+---
+### Deployment Map
+**Type:** misc
 ---
 
 ## The Depths of Sylontum
@@ -2180,6 +4101,10 @@ If this battle is fought as part of a campaign, in the aftermath sequence of the
 ### Narrative Campaign
 **Type:** misc
 This is a narrative campaign for 4 or 6 players. The players are divided into 2 teams. One team is the Agents of Be'lakor, tasked with locating the Sanctum of Anguish which houses the skeletal remains of Lady Olynder. The other team is the Emerald Host – the army of Lady Olynder, set to defend her stronghold of Sylontum from any invaders. The campaign lasts for 3 battles in total, making for a perfect evening or weekend of gaming. During the campaign the players on each team will fight battles against the warbands on the other team before a final climactic Coalition of Death battle is fought between all players.
+---
+### Getting Ready
+**Type:** misc
+Each player musters a warband under the following guidelines: Each player musters a warband of 1,000 points. For each Agents of Be'lakor player, all fighters in their warband must share 1 of the following faction runemarks: Daemons of Khorne (Khorne Daemons) Daemons of Tzeentch (Tzeentch Daemons) Daemons of Nurgle (Nurgle Daemons) Daemons of Slaanesh (Slaanesh Daemons) For each Emerald Host player, all fighters in their warband must have the Nighthaunt faction runemark (Nighthaunt), or all fighters in their warband must have the Soulblight Gravelords faction runemark (Soulblight Gravelords).
 ---
 ### Fighting Campaign Battles
 **Type:** misc
@@ -2193,13 +4118,158 @@ The players use a different aftermath sequence as follows: Rather than earning g
 **Type:** misc
 The third battle of the campaign is the final battle of the campaign and its outcome will determine which side is declared the overall winner of the campaign. This final battle is a Coalition of Death battle that uses the ‘The Gates of the Sanctum' battleplan. tip Continuing the Narrative The Age of Sigmar supplement Broken Realms: Be'lakor includes the battleplan ‘In the Court of Death' which allows you to play out the climactic showdown between Be'lakor and Lady Olynder in the Sanctum of Anguish.
 ---
+### Continuing the Narrative
+**Type:** misc
+The Age of Sigmar supplement Broken Realms: Be'lakor includes the battleplan ‘In the Court of Death' which allows you to play out the climactic showdown between Be'lakor and Lady Olynder in the Sanctum of Anguish.
+---
+### Depths of Sylontum Battle Matrix
+**Type:** misc
+Emerald Host tactics are along the top, and Agents of Be'lakor tactics are on the left. Fall Back Stand Fast Counter-attack Barrel Forwards The daemonic forces surge forwards, isolating a contingent of gheists and preparing to destroy them.Advantage: Agents of Be'lakor Deployment: Defiant Stand The Agents of Be'lakor player is red.Victory: Isolated The Agents of Be'lakor player is the attacker.The Emerald Host stand fast and meet the charging daemons head on.Deployment: Show of Strength Victory: Vanquish Using hidden passages within Sylontum, the Emerald Host ambush their foe!Advantage: Emerald Host Deployment: Outflank The Agents of Be'lakor player is blue.Victory: Assassinate The Agents of Be'lakor player is the defender.Advance Cautiously With neither side daring to make the first attack, a stalemate ensues that must be broken.Deployment: Stand-off Victory: [Dominate](/docs/battles/battleplan-generator/victory-conditions#dominate Holding a valuable position within Sylontum, the Emerald Host prepare to defend it to the end.Advantage: Emerald Host Deployment: Frontal Assault Victory: Seize Territory The Agents of Be'lakor player is the attacker.Be'lakor's daemons draw the forces of death into a trap!Advantage: Agents of Be'lakor Deployment: Bait The Agents of Be'lakor player is red.Victory: Ebb and Flow The Agents of Be'lakor player is the defender.Flank The Emerald Host attempt to fall back to a stronger position, leaving the daemons with little of worth.Advantage: Emerald Host Deployment: Stranglehold The Agents of Be'lakor player is blue.Victory: Scorched Earth The Agents of Be'lakor player is the attacker.The servants of Lady Olynder find themselves cut off by a flanking force and must battle their way out.Advantage: Agents of Be'lakor Deployment: Refused Flank The Agents of Be'lakor player is blue.Victory: The Gauntlet The Agents of Be'lakor player is the attacker.As both forces seek to outmanoeuvre the other, blades are drawn and battle commences.Deployment: First Blood Victory: Shock and Awe
+---
+### The Gates of the Sanctum
+**Type:** misc
+The Agents of Be'lakor have fought their way deep into the depths of Sylontum and now stand at the gates of the Sanctum of Anguish. Here they begin to enact a fell ritual to unbind the wards that protect Lady Olynder's resting place. As the spell is being worked a tide of spectral dread sweep down upon them, desperate to stop the daemons at all costs.
+---
+### Coalition Of Death
+**Type:** misc
+This battle uses the Coalition of Death rules, with the exception of the Battleplan rules.
+---
 ### The Warbands
 **Type:** misc
 Each player uses their warband from the campaign. The battle is between the 2 teams – the Agents of Be'lakor and the Emerald Host. Each team totals the number of victories its players have earned in the campaign so far. If one team has a greater number of victories, the players on that team each receive 1 additional wild dice to use in this final battle.
 ---
+### Terrain
+**Type:** misc
+The players on 1 team set up the terrain to resemble the garden-mausoleums of Sylontum.
+---
+### Deployment
+**Type:** misc
+See map. The players on the team that did not set up the terrain orientates the deployment map. The Agents of Be'lakor are red, and the Emerald Host are blue. Each team will start with 1 battle group on the battlefield and 2 battle groups in reserve. The battle group that starts on the battlefield is determined randomly for each team. 1 player on the Agents of Be'lakor rolls a D3. On a 1, that team sets up their Daggers anywhere in their deployment zone, on a 2, their Shields and on a 3, their Hammers. Then, the Emerald Host does the same. The Agents of Be'lakor begin the battle with a ritual score of 0. This score will be used to determine the winner of the battle.
+---
+### Reserves
+**Type:** misc
+In each reserve phase, each player on the team with the initiative rolls a dice. If the score of at least 1 player's roll is equal to or less than the current number of the battle round, that team can pick 1 of their battle groups in reserve and set it up on the battlefield. Then, the team without the initiative does the same. When setting up fighters from reserve, the Agents of Be'lakor players must set them up within 3" of their battlefield edge. When setting up fighters from reserve, the Emerald Host players must set them up within 3" of any battlefield edge and more than 5" from all enemy fighters.
+---
 ### Victory
 **Type:** misc
 3 objective markers, called ritual points, are set up on the battlefield as shown on the map. At the end of each battle round, the Agents of Be'lakor add D3 to their ritual score for each ritual point they control (roll for each). They then subtract D3 from their ritual score for each ritual point controlled by the Emerald Host (roll for each). The battle ends after 4 battle rounds. If the Agents of Be'lakor have a ritual score of 10 or more, they win the battle. Otherwise the Emerald Host wins the battle. The winning team of the battle is declared the overall winner of the campaign.
+---
+### Twist
+**Type:** misc
+At the start of each battle round after the first, each team gains a number of wild dice equal to the number of ritual points controlled by the enemy team. These wild dice are distributed amongst each team's players as they see fit.
+---
+
+## Challenge Battles
+
+### List of Challenge Battles
+**Type:** misc
+---
+### Order
+**Type:** misc
+---
+### The Fall of Lord Valgar
+**Type:** misc
+Order versus Slaves to Darkness. Order takes revenge against a Chao Lord.
+---
+### No Duardin Left Behind
+**Type:** misc
+Order warband protects the Aether-Khemist Drong Grimbolsson until they can be rescued by a Kharadron Frigate.
+---
+### Vault Guardians
+**Type:** misc
+Order versus Death. The Order warband protects a Stormvault with the help of an Ancient Guardian.
+---
+### Thick as Thieves
+**Type:** misc
+Order versus the Gobbapalooza and the Gloomspite Gitz. Order try and claim a lost artefect against wave after wave of grots.
+---
+### Halting the Ritual
+**Type:** misc
+Order versus Chaos. The Order warband must stop a chaos ritual underway in the Catacombs.
+---
+### Blood and Serpents
+**Type:** misc
+Order versus a Monster. The Order warband must overcome the monster in an arena with the hope of claiming it as their own.
+---
+### Chaos
+**Type:** misc
+---
+### The Varanite Harvest
+**Type:** misc
+Two Chaos warbands battle it out in the catacombs, with one having endless reinforcements. Also includes a chance for your fighter to mutate into Chaos Spawn!
+---
+### Fury of the Wild
+**Type:** misc
+Chaos versus a Monster.
+---
+### The Everchosen's Regards
+**Type:** misc
+Chaos versus Stormcast Eternals. The Chaos warband hunts the Stormcast to a temple and try to desecrate it while receiving blessings from the dark gods.
+---
+### Blades in the Darkness
+**Type:** misc
+Chaos versus Khainite Shadowstalkers. Defend against the assassins in the dead of night.
+---
+### An Irrefutable Challenge
+**Type:** misc
+Chaos versus Soulblight Gravelords. The Chaos leader challenges a Wight King with regenerating health to single combat.
+---
+### The Grot Purge
+**Type:** misc
+---
+### Death
+**Type:** misc
+---
+### The Royal Hunt
+**Type:** misc
+Death versus a Monster. The Death warband must hunt the monster down with the hope of claiming it as their own.
+---
+### Thieves in the Night
+**Type:** misc
+Death take revenge on a thieving warband in the pitch black of night. Uses hidden fighters.
+---
+### A Grave Mistake
+**Type:** misc
+Death versus Bonesplitterz or Ironjaws. A lone necromancer summons the dead to their defense.
+---
+### Death Comes Calling
+**Type:** misc
+Death hunt down a Chaos warband with the aid of a Gothizzar Harvester.
+---
+### Caged Lightning
+**Type:** misc
+Death versus Stormcast Eternals attempting to secure a lightning heist with the aid of a Spirit Torment.
+---
+### Trial of the Five Blades
+**Type:** misc
+Death versus 5 Wight Kings.
+---
+### Destruction
+**Type:** misc
+---
+### A Right Old Mess
+**Type:** misc
+Destruction versus Fyreslayers in the catacombs - while they collapse!
+---
+### Gargantuan Carnage
+**Type:** misc
+Destruction versus an Aleguzzler Gargant.
+---
+### The Big Carngrad Bash
+**Type:** misc
+Destruction versus Chaos trying to destroy a monument, with the aid of a very stupid Dankhold Troggoth.
+---
+### Krushed
+**Type:** misc
+Destruction versus Ironjaws, rejecting an orruk boss' attempts at rekrootment.
+---
+### Picking Your Poison
+**Type:** misc
+Destruction versus a Skitterstrand Arachnarok.
+---
+### Bloodbaths and Brewgits
+**Type:** misc
+Destruction helping a Brewgit forage for ingredients and brew a potion in the middle of battle.
 ---
 
 ## Primal Strongholds
@@ -2215,6 +4285,18 @@ Each player must determine their encampment location. If a player already has an
 ### Playing Through The Campaign Arc
 **Type:** misc
 For each ofthe first 4 rounds ofbattles, consult the following table to see which player is the attacker and which player is the defender. Each player will attack twice and defend twice.
+---
+### Battle 1
+**Type:** misc
+Heartward attacks, Edgeward defends Wendward attacks, Gyreward defends
+---
+### Battle 2
+**Type:** misc
+Edgeward attacks, Gyreward defends Heartward attacks, Wendward defends
+---
+### Battle 3
+**Type:** misc
+Wendward attacks, Edgeward defends Gyreward attacks, Heartward defends
 ---
 ### Battle 4
 **Type:** misc
@@ -2239,6 +4321,35 @@ In the climax of this campaign arc, determined fighters have crafted for themsel
 ### Attacker and Defender
 **Type:** misc
 First, determine who the defenders will be. If 1—3 players have an encampment location that is secure, they are the defenders. if no players have a secure encampment location, but 1-3 players have a threatened encampment location, those players are the defenders. Otherwise, the players roll off and the winner is the defender.
+---
+### Warbands
+**Type:** misc
+If there is only one defender or only one attacker, that player picks a warband following the core rules, with the exception that the points limit for their warband is 1200 points. Each other player, or each player if there is more than one defender and more than one attacker, picks a warband with a points limit of 800 points (following the Triumph & Treachery rules). Sort the players into an order using a series of roll~offs. Then, in that order, each player picks one of the colours available to them as shown in the table below. Number of Defenders Defender Colours Attacker Colours1 Blue Red, Yellow, Green2 Blue, Red Yellow, Green3 Blue, Red, Yellow Green
+---
+### Terrain
+**Type:** misc
+Following the Fortifications rules, each defender sets up terrain in the territory that is shaded in their colour, as shown on the deployment map that corresponds to the number of defenders taking part in the battle. If there is more than one defender, those players roll off and the winner chooses the order in which they set up terrain. Then each attacker sets up the remaining terrain: if there is one attacker, they should set up around 4 pieces of terrain; otherwise, each attacker should set up around 2 pieces of terrain. In either case, they must set up this terrain more than 4" from defender territory. If there is more than one attacker, those players roll off and the winner chooses the order in which they set up terrain.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below that corresponds to the number of defenders in the battle.
+---
+### 1 Defender
+**Type:** misc
+---
+### 2 Defenders
+**Type:** misc
+---
+### 3 Defenders
+**Type:** misc
+---
+### Victory
+**Type:** misc
+Each defender scores 1 victory point each time one of their fighters takes an enemy fighter down with an attack action or an ability. At the end of each battle round, check each defender's territory. The player who has the highest number of fighters in that territory scores victory points equal to the battle round number, or equal to that number plus 1 if it is not their territory. In addition, a player scores 1 Victory point if their leader is in a defender's territory. The battle ends after 4 battle rounds. When the battle ends, the player with the most victory points wins the battle.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 
 ## The Trail of Fire
@@ -2283,9 +4394,33 @@ Trailblazers Tactics are along the top and Preservers's Tactics are on the left.
 **Type:** misc
 The trailblazers have done much harm to the Gnarlwood - at a steep price in blood and souls. Likewise, their endeavours have been badly stymied by the preservers, who have also received more than just a bloody nose for their efforts. Now the forces meet in one final confrontation to claim ultimate victory.
 ---
+### Attacker and Defender
+**Type:** misc
+In this battle, the trailblazers are the attackers and the preservers are the defenders.
+---
+### Shared Resources
+**Type:** misc
+This battle uses the Shared Resource rule.
+---
 ### The Upper Hand
 **Type:** misc
 Each team totals the number of victories they have earned during the campaign arc. At the start of the first battle round, the team with the greater number of victories gains a number of additional wild dice equal to the difference.
+---
+### Terrain
+**Type:** misc
+It is recommended that this battle is played on a battlefield 44"x30" in size. If so, use the rules for Larger Battlefields. Otherwise, set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defenders are blue and the attackers are red. Each black circle is an objective and must be placed on the battlefield floor. If a terrain feature is blocking the placement of an objective, place the objective on the battlefield floor as close as possible to the position marked.
+---
+### Victory
+**Type:** misc
+The attackers and defenders earn 1 victory point each time an enemy fighter is taken down. At the end of the battle, the attackers earn 3 victory points for each objective that has been razed, and the defenders earn 3 victory points for each objective that has not. To raze an objective, a fighter from the attackers' team must make 2 successive wait actions within 1" of an objective that has no fighters from the defenders' team within 3" of it. The battle ends after 4 battle rounds. At the end of the battle, the team with the most victory points wins. If the teams have the same number of victory points, the attacker wins.
+---
+### Twist
+**Type:** misc
+Draw a twist as normal. Then, the Grand Pyroclast decides if they will attack or wait. If they decide to attack, that twist is used for the battle. If they decide to wait, then can draw a new twist but the preservers count as having won 1 additional batle and the uppder hand must be redetermined. The Grand Pyroclast's player can repeat this step as many times as they wish until they choose to attack.
 ---
 
 ## Realmshaper Wars
@@ -2294,9 +4429,17 @@ Each team totals the number of victories they have earned during the campaign ar
 **Type:** misc
 Realmshaper Wars is a campaign arc for 4 or 6 players. In this campaign arc, the players are divided into 2 teams. One team are the Wanderers, a coalition of warbands set on using a Realmshaper Engine to create an area in the Mortal Realms they can call their own. The other team are the Insane, warbands Whose collective insanity has convinced them that the Realmshaper Engine is a gateway to a new paradise, where they shall live for eternity in permanent bliss. While it is unlikely that the Realmshaper Engine can be used to complete either task, both sides are determined to see their plans through no matter the consequences. The campaign arc lasts for 3 battles. For the first 2 battles, each player's warband will face a different player's warband from the opposing team. The final battle of the campaign arc is a Coalition of Death fought between all the players.
 ---
+### Getting Ready
+**Type:** misc
+The players divide their warbands into 2 teams: the Wanderers and the Insane. The warbands on each team do not need to be from the same Grand Alliance, but it can add to the narrative if warbands that are less likely to kill each other on sight fight alongside each other make up each team (even if their tolerance of the other is only very slight!).
+---
 ### The Insane
 **Type:** misc
 At the start of the campaign arc, each Insane player rolls between 1 and 6 dice (each player chooses how many dice they wish to roll). The player whose result has the highest average (rounding up) is that faction's Grand Psychopomp. Crazed: After an Insane player has rolled their initiative dice and allocated their wild dice for the current battle round, they must randomly generate a new value for each [double], [triple] and [quad] by rolling one dice from each and changing the value of that [double], [triple] or [quad] to the result.
+---
+### The Wanderers
+**Type:** misc
+The Wanderers are a coalition of warbands who, though (largely) sound of mind, are determined to exploit the Realmshaper Engine's power. While they may not trust one another, they will fight as one to prevent any other from claiming the device. Unexpected ‘Ally': After their battle groups are deployed, each Wanderer warband can deploy 1 fighter worth up to 100 points from the faction of another Wanderer warband, at no additional cost in points, within 1" of a friendly fighter. This fighter cannot use abilities, is not considered part of the warband for the purposes of determining victory, and is not added to the deploying player's warband roster. In addition, this fighter is ignored for the purposes of controlling objectives and cannot carry treasure.
 ---
 ### Playing Through The Campaign Arc
 **Type:** misc
@@ -2334,9 +4477,29 @@ The Wanderers and the Insane have at last discovered a Realmshaper Engine that i
 **Type:** misc
 Each team totals the number of victories they have earned during the campaign arc. The team with the greater number of victories are the defenders and the other team are the attackers.
 ---
+### Shared Resources
+**Type:** misc
+This battle uses the Shared Resources rule.
+---
 ### The Upper Hand
 **Type:** misc
 At the start of the first battle round, the defenders receive a number of additional wild dice equal to the difference between the number of campaign victories the teams have earned so far.
+---
+### Terrain
+**Type:** misc
+Use the terrain map below. It is recommended that this battle is played on a battlefield 44" x 30" in size. A simple way to do so is to place 2 Warcry battlefield mats together.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defenders are blue and the attackers are red.
+---
+### Victory
+**Type:** misc
+The attackers earn 1 victory point each time a defending fighter is taken down. At the end of the battle, the attackers earn 3 victory points for each fighter from their team within 3" of a Realmshaper Engine. They earn 10 victory points instead if the fighter is on the platform of the Realmshaper Engine. The battle ends after 4 battle rounds. If the attackers have 30 victory points at the end of the battle, they win. Otherwise the defenders win.
+---
+### Twist — Unstable Realmshaper Engine
+**Type:** misc
+The defending warbands have not been idle, and they have tried everything they can think of to manipulate the Realmshaper Engine. This has produced all manner of erratic magical eflects that may sporadically aid and hinder fighters. The Grand Psychopomp rolls a dice after each initiative phase. On an even roll, they must pick a fighter on the opposing team. On an odd roll, they must pick a fighter on their own team. Then they roll another dice on the following table and apply the result to that fighter: D6 Result1 Allocate D6 damage points to that fighter.2-5 That fighter's controlling player removes them from the battlefield and sets them up anywhere on the battlefield floor more than 1" from enemy fighters.6 Add 1 to the Attacks characteristic of melee attack actions made by that fighter.
 ---
 
 ## The Fell Alliance
@@ -2385,9 +4548,37 @@ Guardian Tactics are along the top and Despoiler's Tactics are on the left. Fall
 **Type:** misc
 Under the banner of their warleader, a coalition of warbands marches upon a settlement on the outskirts of the Gnarlwood, intent on setting it aflame and stripping it of anything of value. Its guardians, a ragtag coalition of sworn protectors and mercenaries, have fought the encroaching despoilers at every step of their advance, but now the final battle at the gates of the settlement is about to unfold...
 ---
+### Attacker and Defender
+**Type:** misc
+In this battle, the despoilers are the attackers and the guardians are the defenders.
+---
+### Shared Resources
+**Type:** misc
+This battle uses the Shared Resource rule.
+---
 ### The Upper Hand
 **Type:** misc
 Each team totals the number of victories they have earned during the campaign arc. At the start of the first battle round, the team with the greater number of victories gains a number of additional wild dice equal to the difference.
+---
+### Terrain
+**Type:** misc
+It is recommended that this battle is played on a battlefield 44"x30" in size. If so, use the rules for Larger Battlefields. Otherwise, set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defenders are blue and the attackers are red.
+---
+### Victory
+**Type:** misc
+The defenders earn 1 victory point each time an enemy fighter is taken down. The attackers earn 3 victory points for each of their fighters wholly within the defender's deployment zone at the end of the battle. The battle ends after 4 battle rounds. At the end of the battle, the team with the most victory points wins. If the teams have the same number of victory points, the attacker wins.
+---
+### Twist
+**Type:** misc
+Draw a twist as normal. Then, the warleader's player decides if they will attack or wait. If they decide to attack, that twist is used for the battle. If they decide to wait, then can draw a new twist but the guardians count as having won 1 additional batle and the uppder hand must be redetermined. The warleader's player can repeat this step as many times as they wish until they choose to attack.
+---
+### Reserves
+**Type:** misc
+There are 2 deployment lines for the attackers' Hammers. Fighters from the attackers' Hammers can be set up within 3" of either line when they arrive from reserve.
 ---
 
 ## Destruction Quests
@@ -2396,9 +4587,17 @@ Each team totals the number of victories they have earned during the campaign ar
 **Type:** misc
 Your shamans are bombarded with visions of powerful relics that lie hidden close by; one, they say, has been sent to you by Gorkamorka himself so you can clobber his foes. With each enemy warband pounded into the dirt, the visions grow stronger. It's so close now that even you can begin to feel its draw. Pick 1 artefact of power from the Treasures of Gorkamorka table (see below) and note it in your quest log. You cannot pick an artefact of power already borne by a fighter in your warband. While embarked upon this quest, you must keep track of the progress your warband makes, represented by a progress score. In step 4 of each campaign battle's aftermath sequence, add 2 to your progress score if you won the battle, and add an additional 2 if you were the attacker (whether you won or not). In addition, you can pick 1 fighter from your warband and send them forth to search for the artefact. To do so, roll a dice and add the roll to your progress score. In addition, on a 1, the fighter being rolled for is attacked by something within the Gnarlwood. Make an injury roll for that fighter. You can complete this quest once your progress score is 15 or more. When you complete this quest, you obtain the artefact of power that was noted in your quest log.
 ---
+### Treasures of Gorkamorka Table
+**Type:** misc
+Treasures The Leering Shield This battered skareshield is one of the scariest skareshields you have ever seen. Scary! Add 1 to the Toughness characteristic of the bearer. In addition, enemy fighters cannot make disengage actions while they are within 1" of the bearer.Gristle Grinder Once the prized weapon of an ogor Gutlord who met their demise within the Gnarlwood, this massive mace seems to have developed a bad temper in the absence of a decent fight. Time to show it one! Add 3 to the damage points allocated by each hit and critical hit from melee attack actions made by the bearer.Da Nasty Shiv A viscous, pungent toxin ever sweats from the blade of this weapon. A wound from its edge can leave the victim sapped of strength and momentarily paralysed. After each melee attack action made by the bearer, roll a dice. On a 5+, until the end of the battle round, the target fighter cannot activate.Bloodchompa Fashioned from a great chunk of amberbone laced with veins of bloodstone and lashed to a haft of rough iron, this weapon fills its wielder with an insatiable bloodlust. Each time an enemy fighter is taken down by a melee attack action made by the bearer, the bearer can make a bonus move action or a bonus attack action.Idol of Mork Carved from a grunta tusk, this small but exceptionally creepy statue brings luck to the bearer. If the bearer is included in your warband, you begin the battle with 1 additional wild dice.The Scuttlemask This many-eyed helm is imbued with a portion of the power of the eight-legged monstrosity from which it was fashioned. When donned, the bearer is blessed with great agility and can traverse difficult terrain at terrifying speed. Do not count the vertical distance moved while the bearer is climbing.
+---
 ### Avatar of Destruction
 **Type:** misc
 No matter how many enemies gather on all sides, carve a brutal path of destruction through their ranks and laugh as they cower before you. Soon they will come to fear your name! Pick a fighter with the Hero runemark (Hero) in your warband that can gain a heroic trait and note them in your quest log. While embarked upon this quest, in step 4 of a campaign battle's aftermath sequence, you can complete this quest if an enemy fighter with the Hero runemark (Hero) was taken down in that battle by an attack action made or ability used by the fighter noted in your quest log. When you complete this quest, you can give that fighter one of the heroic traits from the Destruction Heroic Traits below.
+---
+### Destruction Heroic Traits
+**Type:** misc
+Destruction Heroic Traits Dead Fighty Nothing can stop this warrior from committing shocking acts of violence - not even death! When this fighter is taken down, before they are removed from play, they can make a bonus attack action, interrupting the activation taking place. This fighter is then removed from play as normal.Dead Sneaky This warrior moves unseen through the shadows of the Gnarlwood. Each time this fighter activates, they can use this heroic trait to make a bonus move action if there are no visible enemy fighters within 12" of this fighter.Belligerent Brute There is but one thing this fighter relishes: hacking down foes in battle. Once per battle, this fighter can use this heroic trait to make a bonus attack action.Notorious Bully Should they meet a foe of equal worth, this warrior will strive all the harder to beat them into submission. Attack actions made by this fighter score a critical hit on a 5+ if the target is a fighter with the Hero runemark (Hero).Unstoppable Rampager Once this warrior has picked up momentum, they hurl themselves into the fray with such ferocity that few can stand in their path. Add 2 to the Attacks characteristic of melee attack actions made by this fighter if they have made a move action in the same activation.Big 'Un This warrior is a particularly brawny or corpulent specimen, barely registering the enemy's blows as they are thwarted by knots of iron-hard muscle or thick layers of flab. Add 5 to the Wounds characteristic of this fighter.
 ---
 ### Bring the Wild
 **Type:** misc
@@ -2411,6 +4610,22 @@ You find a swathe of swampland has been drained and an encampment set up on top 
 ### Attacker and Defender
 **Type:** misc
 In this battle, the questing player is the attacker and the adversary player is the defender.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+The defender places 6 objectives on the battlefield, more than 6" away from all other objectives and the battlefield edge. The attacker can choose to burn any objective they control at the end of a battle round if there are no enemy models within 3" of that objective. If they do so, remove it from play. If the attacker burns 3 objectives, they win the battle. Otherwise, after the end of the fourth battle round, the defender wins the battle.
+---
+### Twist
+**Type:** misc
+Determine a twist as normal.
 ---
 ### The Aftermath Sequence
 **Type:** misc
@@ -2463,13 +4678,73 @@ During each battle in this campaign arc, players can use their resources as foll
 **Type:** misc
 In possession of a valuable Ven Talax map, one warband has set out hoping to uncover one of the mad explorer's many treasure hoards rumoured to lie hidden in the depths of the Gnarlwood. As they set up camp for the night, little do they know that their rivals lurk in the darkness beyond and plan to sieze the map for themselves as soon as night falls.
 ---
+### Attacker and Defender
+**Type:** misc
+In this battle, the map-bearer is the defender and the rival is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+Before the battle, the defender takes 5 treasure tokens with different runemarks and secretly notes down which is the Ven Talax map. Then, the players alternate placing those treasure tokens on the battlefield one at a time, starting with the attacker. Each treasure token must be placed more then 6" from all other treasure tokens and more than 3" from the battlefield edge. During the battle, at the start of each combat phase, the defender picks 1 treasure token on the battlefield or 1 piece of treasure being carried and removes it from play. The Ven Talax map cannot be picked. The battle ends after 4 battle rounds. When the battle ends, if one of the attacker's fighters is carrying the Ven Talax map, the attacker wins the battle. Otherwise, the defender wins the battle.
+---
+### Twist
+**Type:** misc
+Dead of Night: Fighters 4" or more from each other are not visible to each other.
+---
 ### Campaign Arc Battleplan: Deadly Race
 **Type:** misc
 After the raid, a bitter race between the two warvands ensues as the one in possession of the map tried to escape. The other warband, intent on not letting their rivals elude them, have sent some of their warriors forward to block any avenues of retreat.
 ---
+### Attacker and Defender
+**Type:** misc
+In this battle, the player who won the 'Raid in the Dark' battleplan is the defender and the other is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+The northern battlefield edge is the escape route. If any of the defender's fighters finish a move action within 1" of the escape route and are more than 3" from all enemy fighters, they escape. Remove those fighters from play but do not count them as being taken down. The defender wins the battle as soon as half or more of their fighters have escaped. Otherwise, the attacker wins the battle as soon as half or more of the defender's fighters have been taken down.
+---
+### Twist
+**Type:** misc
+Generate a twist as normal.
+---
 ### Campaign Arc Battleplan: Battle at the Encampment
 **Type:** misc
 The location of the old Ven Talax encampment has at last been discovered. However, while one of the warbands arrives at the encampment first, the other is in hot persuit. Across the camp can be spied many treasures; each warband must now scramble to secure as much of the loot for themselves as possible!
+---
+### Attacker and Defender
+**Type:** misc
+In this battle, the player who won the 'Deadly Race' battleplan is the defender and the other is the attacker.
+---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+Use the deployment map below. The defender is blue and the attacker is red.
+---
+### Victory
+**Type:** misc
+Before the battle, 5 treasure tokens are placed on the battlefield floor. Players alternate placing treasure tokens one at a time, starting with the defender. Each treasure token must be placed more than 6" from all other treasure tokens and the battlefield edge. The battle ends after 4 battle rounds When the battle ends, the player who was the most fighters carrying treasure wins.
+---
+### Twist
+**Type:** misc
+Generate a twist as normal.
 ---
 
 ## The Chotec Valley
@@ -2490,9 +4765,25 @@ This campaign arc comprises 4 battles for each player. Use a series of roll-offs
 **Type:** misc
 During the campaign arc, the players records their progress made towards locating the shard of Talaxis. This is represented by a progress score, which is noted in the Campaign Arc section of their warband rosters. Each player begins the campaign arc with a progress score of 0. In the first three rounds, before each battle is fought, each player must decide whether their warban will barrel forwards or advance cautiously. This will determine how much progress their warband makes depending on whether they win or lose the battle. As shown in the table below, barrelling forwards will increase a player's progress score by the most if they win the battle but by the least if they lose the battle, whereas advancing cautiously leads to more modest progess in the case of a victory but mitigates the lack of progress in case of a loss. Each player secretly notes down their decision before the battle begins and then reveals it to their opponent at the beginning of the first battle round. At the end of the battle, the player's progress score increased by the amount shown in the table below.
 ---
+### Increase to Progress Score
+**Type:** misc
+Barrelled Forwards Advanced Cautiously Won the Battle6+D34+D3 Drew the Battle3+D33+D3 Lost the Battle1+D32+D3
+---
 ### The Final Battle
 **Type:** misc
 In the fourth round of the campaign arc, all four players fight each other using the 'Savage Showdown' Triumph & Treachery battleplan (below). This is the final battle in the campaign arc, and its outcome will determine who is declared the victor.
+---
+### Savage Seraphon
+**Type:** misc
+In the final battle, no roll is made to determine when the Savage Seraphon are alerted to the presence of the warbands. Instead, they start arriving from the second battle round onwards. In the final battle, if the activation roll of a Savage Seraphon fighter is a 1-2, the opponents of the activating player roll off and the winner can activate that Savage Seraphon fighter.
+---
+### Progress Order
+**Type:** misc
+At the start of the final battle, they players rank themselves from first to last in order of the progress each has made. This is called the progress order. If any players have made equal progress, those players roll off to determine who comes before the other in the progress order.
+---
+### Reserves
+**Type:** misc
+In each reserve phase of the final battle, players can roll a dice for each of their fighters in reserve that is not due to arrive on the battlefield in that battle round. This is called a reserve roll. On a 6+, tje foghter can be set up on the battlefield in the current reserve phase rather than later. Set up that fighter within 3" of their deployment point as normal. Each player also receives a bonus to reserve rolls based on where they come in the progress order: Progress Order Bonus to Reserve Rolls Last No bonus Third+1 Second+2 First+3
 ---
 ### Rewards
 **Type:** misc
@@ -2502,21 +4793,48 @@ After the final battle has been fought, the campaign arc ends and the players re
 **Type:** misc
 In step 5 of the aftermath sequence, the winner can relocate their encampment to a Shard of Talaxis and does not need to spend any glory to do so.
 ---
+### The Other Players
+**Type:** misc
+Each of the other players can roll once on the Gnarlwood Lesser Artifacts table. When doing so, instead of rolling a D66, they roll 1 dice and add 60 to the score (giving a result of 61-66).
+---
+### Savage Seraphon
+**Type:** misc
+Each battle found in 'The Chotec Valley' has an additional twist: Savage Seraphon fighters will arrive on the battlefield and attack the warbands indiscriminately. The rules on this page explain how the Savage Seraphon work.
+---
 ### The Hunt
 **Type:** misc
 At the start of each battle in this campaign arc, one player rolls a D3. This determines how many battle rounds are played before the Savage Seraphon are alerted to the warbands' presence. Once the Savage Seraphon ar alerted, at the start of each combat phase, the player with the initiative rolls a dice to determine the number of Savage Seraphon fighters that arrive on the battlefield in that battle round. On this page are 5 Savage Seraphon fighter profiles. These fighters do not have points values; instead, each has a threat value between 1 and 3 (marked by the numer in the top right). The player with the initiative picks a number of Savage Seraphon fighters with a combined threat value equal to or less than the roll. That player then sets them up on the battlefield. The Savage Seraphon fighters that arrive each battle round must be set up as a single group, each within 1" of at least 1 other fighter from the group and more than 5" from all fighters that are not Savage Seraphon.
+---
+### Triumph & Treachery: Savage Showdown
+**Type:** misc
+Four warbands have been ruthlessly searching a newly revealed valley in the Gnarlwood for a rumoured shard of Talaxis, confronted at every turn by groups of native Seraphon intent on driving back any intruders. Now, all four warbands converge and a final battle will be waged to determine who can lay claim to the fragment of the fabled ruin.
 ---
 ### Terrain
 **Type:** misc
 This battleplan used the Triumph & Treachery free-for-all rules, with the exception that each warband's points limit is the same is it is for a normal campaign battle. In addition, if a player has an encampment location that increased their points limit, the increased points limit applies in this battle too. Rather than rolling to determine initiative order, the initiative order is the same as the progress order, i.e. the player who made the most progress is first in the intitiative order, and so on.
 ---
+### Terrain
+**Type:** misc
+Set up terrain as normal.
+---
+### Deployment
+**Type:** misc
+The players pick their deployment colour in progress order.
+---
 ### Victory
 **Type:** misc
 Before the battle, 1 objective is placed at the centre of the battlefield. In addition, the player who is first in the progress order sets up a group of Savage Seraphon fighters with a combined threat level of 6 within 3" horizontally of the centre of the battlefield. At the end of the third or a subsequent battle round, the battle ends if a player controls the objective and there are no enemy fighters within 3" of the objective, including Savage Seraphon fighters. That player is the victor of the campaign arc.
 ---
+### Twist
+**Type:** misc
+Generate a twist as normal.
+---
 
 ## Stormcast Eternals Questor Soulsworn
 
+### Special Rules
+**Type:** misc
+---
 ### Heroes All
 **Type:** misc
 When picking a warband from the Questor Soulsworn faction, the following rule replaces the fourth bullet point under The Warbands in the core rules: There is no limit to the number of fighters with both the Questor Soulsworn (Stormcast Eternals: Questor Soulsworn) and Hero (Hero) runemarks that can be included in the warband (including the leader). In addition, add the following rule as a sixth bullet point: No more than 2 fighters with the Hero runemark (Hero) and any other faction runemark can be included in the warband. Lastly, if you are creating a warband roster and you picked the Questor Soulsworn faction, the following rule replaces the third restriction under 'Choose Your Faction and Fighters' in the Narrative Play rules: There is no limit to the number of fighters with both the Questor Soulsworn (Stormcast Eternals: Questor Soulsworn) and Hero (Hero) runemarks that can be added to your warband (including the leader). The first such fighter added to your roster must be your leader
@@ -2537,15 +4855,91 @@ Runemark Reaction Stormcast Eternals: Questor Soulsworn Swift Retribution: A fig
 A gathering of fearsome zealots follow Hag Queen Morgwaeth on her holy quest to slake the Lord of Murder's bloodthirst, exulting in every throat slit and heart impaled along the way. Bladeborn fighters The Morgwaeth's Blade-coven are from Warhammer Underworlds, so adhere to Bladeborn rules.
 ---
 
+## Khainite Shadowstalkers Background Tables
+
+### Khainite Shadowstalkers Names
+**Type:** misc
+D10 First Name D10 Last Name1 Syreth1 Dhusk2 Vorya2 Calesk3 Scythia3 Mhasik4 Druchon4 Hellekos5 Slitha5 Ortess6 Krath6 Vhanir7 Lóiru7 Eroth8 Móirath8 Palhesk9 Aneth9 Wychar10 Róth10 Siress
+---
+### Khainite Shadowstalkers Origins
+**Type:** misc
+D6 Origin1 Morathi's Ire: This warbands has, through failure and insubordination, earned the fury of Morathi, and now strive to regain her favour.2 Ilfiltrators: Your warriors can scale any fortress wall and open any lock in persuit of their prey.3 Honoured: Having risen high in the ranks of the faithful, your warriors have been granted the mircath, and power over darkness.4 Umbramancers: Few can claim so potent a mastery over the shadows as your warriors.5 Shadowpath Watchers: Your warriors' former duty was to watch over the twisting labyrith of the Ulguan shadowpaths.6 Banished: These warriors are forbidden from returning to Ulgu until they have satisfied their queen's demands.
+---
+### Khainite Shadowstalkers Leader Background
+**Type:** misc
+D6 Background1 Inner Daemon: The daemonic entity that resides in this warrior's blood sometimes exerts its own, powerful will.2 Utterly Silent: This warriors never makes a sound, no matter what surface they are walking on.3 Fading to Mist: This warrior often appears insubstantial, as if the wind might carry them away - this does not render their blades any less deadly.4 Bringer of Darkness: Where this warriors walks, pitch-black clouds gather.5 Umbral Familiar: This warrios is accompanied by a strange creature fashioned from wisps of darkness.6 Shadow Consort: Rumour has it that this warrior was once an intimate companion of Morathi.
+---
+
 ## Fyreslayers Background Tables
 
+### Fyreslayers Names
+**Type:** misc
+D10 First Name D10 Last Name1 Bael1 Flamebeard2 Daegrom2 Cinderaxe3 Rognir3 Brewmaster4 Borgrimm4the Chronicler5 Ungrund5 Goldenhoard6 Arfdar6 Drakesplitter7 Vaegor7the Furious8 Fjarl8 Ashbreath9 Ghuzgarl9 Fireheart10 Taragrim10 Orruksbane
+---
+### Fyreslayers Origins
+**Type:** misc
+D6 Origin1 Goldseekers: Your warriors believe that vast troves of ur-gold can be found in the Eightpoints.2 Axes for Hire: Your warriors exemplify the mercenary creed of the Fyreslayers and will sell their services to any who can match their price.3 Worshippers of the Ur-salamander: The warriors at your command honour Vulcatrix in their holy rituals just as much as they do Grimnir.4 Touched by Aqshy: The power of fire magic clings to your warriors, their skin and beards glowing like bright magma.5 Oathbound: You and your warriors have taken the oath to become grimnyn, seeking either death in battle or a worthy cause for which to fight.6 Exemplars of the Lodge: One of your lodge's ruling family favours you and your warriors, fighting alongside you in many a battle.
+---
 ### Fyreslayers Leader Background
 **Type:** misc
 D6 Background1 Fiery Ambition: This warrior seeks to prove their might by defeating the most terrible of enemies.2 Visions of the Burning Berserker: In the heat of battle, this warrior believes they occasionally receive visions from long-dead Grimnir.3 Grudgebound: To fulfil a long-held grudge, this warrior will go to the very edge of creation and back.4 Favoured Karl: This warrior is entrusted by their lodge's Runefather with particularly deadly quests.5 Paragon of the Runes: The ur-gold runes fused into this warrior's flesh are particularly redolent with Grimnir's spirit.6 Cursed by Glimmerlust: This warrior is afflicted with an insatiable desire for the power of ur-gold.
 ---
 
+## Seraphon Background Tables
+
+### Seraphon Names
+**Type:** misc
+D10 First Name D10 Last Name1 Bok-ax1 Iz-Piq2 Maq-tor2 Oktli3 Xoalatl3 Tiq-Toq4 Tlakamaq4 Ickitacha5 Klaq5 Napuloti6 Tolpakh6 Xihuti7 Grok-tar7 Maqcotl8 Xetoc8 Quetzuli9 Zarkotl9 Iktiq10 Koloqti10 Huanizi
+---
+### Seraphon Origins
+**Type:** misc
+D6 Origin1 Children of the Cosmos: Your warriors dwell amongst the stars and are charged with Azyrite magic.2 Agents of the Slann: Your warband has been specially chosen for this mission by the slann.3 Spawn-kin: All of your warriors emerged from the same spawning pool.4 Primaeval Nature: Your warriors have long dwelt in the realms and have grown more primal and warlike over time.5 Relic Hunters: Your warband excels at tracking down ancient examples of Old One technology.6 Abandoned: Long cut off from their kin, your warriors have regressed to a savage state.
+---
+### Seraphon Leader Background
+**Type:** misc
+D6 Background1 Attuned to the Arcane: This warrior is attuned to the arcane ley lines that span the realms.2 Touched by the Beast: Within this warrior's soul lurks a brutal, reptilian savagery.3 Patient Hunter: This warrior can wait endlessly before launching a perfect killing ambush.4 Technoarcane Savant: This warrior is skilled in harnessing the technology of the Old Ones.5 Cloaked in Starlight: An aura of shimmering starlight permanently shrouds this warrior.6 Marked by the Old Ones: This warrior is somehow marked for greatness by the lost Old Ones.
+---
+
+## Kharadron Overlords Background Tables
+
+### Kharadron Overlords Names
+**Type:** misc
+D10 First Name D10 Last Name1 Grund1 Bergrim2 Hathlof2 Gorriksson3 Krunti3 Tergrond4 Brokk4 Zadum5 Angwyr5 Olfkrunk6 Gazran6 Alebelly7 Baradum7 Goldbeard8 Skjari8 Tailwind9 Duggrun9 Aetherseek10 Thoramek10 Skyfire
+---
+### Kharadron Overlords Origins
+**Type:** misc
+D6 Origin1 Contractually Obligated: You and your warriors have been commissioned to explore the Eightpoints, no matter how dangerous it proves.2 Gold Rush: Your warriors are forever seeking lucrative seams of aether-gold.3 Shot Down: Stranded after their skyvessel was shot down, your warriors are doing all they can to make their way back home.4 Field Testers: Your warband takes to battle with the latest death-dealing contraptions created by the Endrineers Guild.5 Academy Rejects: Having failed the Musterpress, you acquired Arkanaut gear through black market connections and headed out to find your fortune.6 Traditionalists: Though uncommon for Kharadron, your warriors still honour the ancestor gods:** just in case it proves useful.
+---
+### Kharadron Overlords Leader Background
+**Type:** misc
+D6 Background1 Down on his Luck: Having been cursed with a string of unlucky ventures, this warrior has one last chance to impress his investors.2 Callous Privateer: This warrior's moral compass is notoriously flexible, especially where profit is concerned.3 Corporate Sponsorship: This warrior's expeditions are heavily funded by one of the many guilds or companies found in Kharadron society.4 Wily Opportunist: This warrior has a knack for turning even the most perilous situations to their advantage.5 Master Negotiator: This warrior's mastery of the Kharadron Code is legendary, allowing them to find loopholes in any contract or treaty.6 Daring Commodore: This warrior's feats of derring-do has made him a hero amongst the inhabitants of his sky-port.
+---
+
+## Vanguard Auxillary Chamber Background Tables
+
+### Stormcast Eternals Names
+**Type:** misc
+D10 First Name D10 Last Name1 Haldus1 Lightningfist2 Patreus2 Arventura3 Sannus3 Stormsight4 Balian4 Swiftsteel5 Zadion5 Sunhelm6 Kallean6 Honouris7 Namestes7 Thunderheart8 Lestia8 Virtus9 Pollatia9 Shadowstep10 Verness10 Brightheart
+---
+### Stormcast Eternals Origins
+**Type:** misc
+D6 Origin1 Troubled Souls: Your warriors have suffered the agony of reforging one too many times.2 Hand-picked Champions: Each member of your warband was specifically chosen for this mission.3 Last Survivors: Your warband is the sole surviving remnant of a much larger force.4 Merciless Justice-seekers: Your warband is ruthless in its pursuit of justice and order.5 Agents of Vengeance: This warband seek to avenge a great wrong committed against their Stormhost.6 Friendly Rivalry: Your warriors compete amongst themselves to slay the greatest number of foes.
+---
+### Stormcast Eternals Leader Background
+**Type:** misc
+D6 Background1 True Hero: Tales are told and songs are sung throughout Azyrheim of this warrior's exploits.2 Beloved Leader: This warrior will risk everything to safeguard those under his command.3 Sombre: This warrior is a reserved and melancholy soul, not given to zealous oratory.4 Ferocious Combatant: This warrior battles the enemies of Azyr with a savage ferocity.5 Strange Affliction: Many reforgings have left this warrior with an unsettling physical condition.6 Wise Veteran: This warrior dispenses sage advice to his warriors even in the heat of battle.
+---
+
 ## Warrior Chamber Background Tables
 
+### Warrior Chamber Names
+**Type:** misc
+D10 First Name D10 Last Name1 Titus1 Stormsword2 Severian2 Chainbreaker3 Zephyrean3 Goldenblade4 Autos4 Argentius5 Galahan5 Cometstrike6 Domarus6 Heavensson7 Coramin7 Sunhelm8 Andronius8 Brightshield9 Enya9the Lion of Azyr10 Baramas10the Redeemed
+---
+### Warrior Chamber Origins
+**Type:** misc
+D6 Origin1 Hand-picked Champions: Each member of your warband was specifically chosen for this mission.2 Last Survivors: Your warband is the sole surviving remnant of a much larger force.3 Merciless Justice-seekers: Your warband is ruthless in its pursuit of justice and order.4 Disciplined Retinue: Your warriors have fought side by side for many decades, and together they are far greater than the sum of their parts.5 Lost Home: Your warriors once lived in the Allpoints and seek to avenge their long-lost home.6 The Redeemed: In a previous life, your warriors were worshippers of the Dark Gods, and they now seek to redeem themselves through glorious battle.
+---
 ### Warrior Chamber Leader Background
 **Type:** misc
 D6 Background1 True Hero: Tales are told and songs are sung throughout Azyrheim of this warrior's exploits.2 Strange Affliction: Many reforgings have left this warrior with an unsettling physical condition.3 Ferocious Combatant: This warrior battles the enemies of Azyr with a savage ferocity.4 Armsmaster: This warrior has earned great renown battling in the Gladitorium.5 Stolen Memories: Through years of death and battle, this warrior has begun to forget their past life.6 Scores to Settle: An event in this warrior's past has left them with a deep hatred for a particular foe.
@@ -2553,13 +4947,44 @@ D6 Background1 True Hero: Tales are told and songs are sung throughout Azyrheim 
 
 ## Bonesplitterz Background Tables
 
+### Bonesplitterz Names
+**Type:** misc
+D10 First Name D10 Last Name1 Grozgak1 Rokkskull2 Korgakk2 Gutklaw3 Badbrukk3 Wildtompa4 Krakkzog4 Snagtoof5 Kragg5 Weirdskull6 Worgutz6 Snakechompa7 Orgakk7 Stonejawz8 Rogga8 Krookfang9 Murgg9 Eadkrakka10 Ugdrak10 Madskull
+---
 ### Bonesplitterz Origins
 **Type:** misc
 D6 Origin1 Howling Mad: Your warband consists of the most battle-crazed lunatics of its tribe.2 Glory Hunters: Your warriors seek to prove themselves by committing the most reckless acts of violence.3 Heralds of the Waaagh!: Your warriors believe that where they roam, the power of the Waaagh! swells.4 Painted Ones: Your warriors have been marked with sacred runes by their tribe's Wurrgog Prophet.5 Lost: You took a wrong turn somewhere, but your warriors are happy enough with where they ended up.6 Bone Hunters: Your warband relentlessly hunts the largest predators, hoping to take their bones.
 ---
+### Bonesplitterz Leader Background
+**Type:** misc
+D6 Background1 Unpredictable Maniak: Attempting to predict this warrior's actions is utterly pointless.2 Old Rival: This warrior keeps the mouldering head of a hated rival, which they often argue with.3 Relentless: This warrior never pauses for a moment, and instead simply barrels forward relentlessly.4 Head Wound: Having taken a nasty blow to the head, this warrior babbles a stream of nonsense.5 Great Hunter: This warrior has hunted and killed some of the most ferocious beasts of Ghur.6 Unaccountably Lucky: This warrior is blessed by Gorkamorka, somehow surviving every disaster.
+---
+
+## Lumineth Realm-lords Background Tables
+
+### Lumineth Realm-lords Names
+**Type:** misc
+D10 First Name D10 Last Name1 Taisha1 Zekai2 Raquielle2 Eyonwa3 Qulathe3 Taior4 Iladrein4 Sylai5 Narthei5 Eye of Avalenor6 Matah6 Metheara7 Leyanthu7 Nylthair8 Yr'lonis8 Artora9 Zenthil9 Heleth10 Mylathir10of Tor Limina
+---
+### Lumineth Realm-lords Origins
+**Type:** misc
+D6 Origin1 Children of Illumination: Your warriors all exemplify either the vital Tyrionic or the reflective Teclian side of the Lumineth mindset.2 Will of the Peaks: Your warband seeks to avert a disaster prophesied by one of the wisest Hyshian mountain spirits.3 Cultured Diplomats: Your warriors often represent Lumineth interests in the courts of the other races. They have learnt to ignore the smell.4 Lambent Guardians: Your warband was once charged with guarding a particular aelven city or site of geomantic significance.5 Shining Bright: Your warriors are relatively young by aelven standards and are determined to prove themselves.6 Doomed March: Though your warriors know they may never see their beloved Hysh again, they are willing to lay down their lives for a worthy cause.
+---
+### Lumineth Realm-lords Leader Background
+**Type:** misc
+D6 Background1 Old Habits: This warrior tries not to let their contempt for other races show. After all, it is not their fault they lack the majesty of the aelves.2 Bond with the Realm: This warrior has forged a deep connection with one of Hysh's aelementors.3 Marked by Tragedy: The dark days - and darker deeds - of the Ocari Dara have left scars on this warrior's soul.4 Clinical: The extensive use of aetherquartz has drained this warrior's emotions.5 Student of the Master: This warrior has studied beneath Tyrion or Teclis themselves.6 Radiant Champion: So noble is this warrior's soul that they seem to tangibly shine with brilliance.
+---
 
 ## The Tangled Gnarlwood
 
+### Event Essentials
+**Type:** misc
+System: Warcry - Matched Play Warband Size: 1000 points No. of Games: Four Battleplans: Selected from the six Matched Battleplans found within this event pack. Warband Selection: Each player selects a single Warband. Tools of War: Attendees are expected to bring their warband, dice, a tape measure, all relevant rules publications and a copy of their roster.
+---
+### Warband Selection
+**Type:** misc
+You will require a Warband of no more than 1,000 points to play at this event. Details for choosing your Warband can be found on page 60 of the Warcry Core Book. In addition, Warbands for this event must adhere to the rules presented in the ‘Tournament Roster' section on page 96 of the Warcry core book. Allies, Thralls and Monsters are permitted at this event. Players choosing to add them to their Warband should follow the rules presented on page 76 of the Warcry Core Book. Divine Blessings, found on page 27 of The Bunker - White Dwarf issue 490 may be used at this event. Warband rosters should be presented in an easy to read format. The roster should include your Dagger, Shield and Hammer choices, plus the points value and type of each fighter. An example of a blank tournament roster can be found on page 160 of the Warcry Core Book.
+---
 ### Scoring and Pairing
 **Type:** misc
 After each game, players need to report the result of the game, as either a win, a draw or a loss for each player. These results will determine how many Tournament points each player gains over the course of the tournament, which will determine final ranking at the end of the event. In addition, players also need to report their total victory points and kill point total after each game, which are used as tiebreakers. Win = 5 Tournament points Draw = 3 Tournament points Loss = 1 Tournament point The first tie-breaker will be victory points, which are scored during games. The second tie-breaker will be a kill point total. This is the total points value of enemy fighters that are taken down. Your opponent for your first game will be randomly determined. Subsequent rounds will be organised using a swiss system, following the above ranking. If you ever find yourself facing off against a player you have faced previously please contact a member of the events team. Please note Tournament Quests (found in the Core Book) will not be used at this event
@@ -2602,9 +5027,32 @@ Before the battle, 3 objectives are placed on a platform or the battlefield floo
 
 ## Ydrilan Riverblades Background Tables
 
+### Ydrilan Riverblades Names
+**Type:** misc
+D10 First Name D10 Second Name1 Fallaine1 Swiftcurrent2 Yiletha2 Ynnaraine3 Talythor3 Ithicai4 Helonys4 Rythor5 Elysinthe5the Calm6 Byari6 Tancoris7 Lysarelle7 Waverunner8 Vellinor8 Malynneth9 Ullatha9 Taclari10 Aclys10 Yvressa
+---
 ### Ydrilan Riverblades Origins
 **Type:** misc
 D6 Origin1 Chosen of the Whitecrest: These warriors claim to have witnessed the equine shape of the legendary spirit Daxio Whitecrest in the waters of a Hyshian river – a sign of great favour.2 Last of Their Temple: These warriors are the only survivors of a terrible massacre that turned the waters of their chosen river blood red.3 Coastal Guardians: These warriors guard those estuaries where rivers open into the sea, defending against threats from the great ocean.4 Driven Purifiers: These warriors are notable even amongst the aggressive Ydrilan for their hatred of those who would upset the spiritual balance of the realms.5 Sentinels of the Shrine: These warriors once stood silent sentinel over a Ydrilan shrine, defending it against intruders and raiders.6 River-seekers: It is the task of these warriors to travel the realms, seeking out river spirits that might be revived or restored to glory.
+---
+### Ydrilan Riverblades Leader Background
+**Type:** misc
+D6 Background1 Revived by the River: Sorely wounded, this warrior fell into the rushing current of a Hyshian river and was revived to full health.2 Grandmaster of Ydril’Qar: This warrior is acknowledged as one of the foremost masters of the Nine Currents.3 One With the Water: This warrior’s attunement with the river is such that they can survive underwater for hours without surfacing.4 Vanquisher of the Cruel: This warrior is a sworn foe of the Kruleboyz, those vile orruks that seek to poison the realms’ waterways.5 Vow of the Current: This warrior has undertaken a vow of ceaseless motion, and like the river itself they never remain still.6 Sightless Savant: This warrior has willingly sacrificed their sight so that they might better commune with their beloved aelementor.
+---
+
+## Daughters of Khaine Background Tables
+
+### Daughters of Khaine Names
+**Type:** misc
+D10 First Name D10 Last Name1 Cala1 Khial2 Vethoir2 Rathir3 Narenka3 Drukhesk4 Scathia4 Yaemath5 Yhuneska5 Khordia6 Hallenda6 Santhiask7 Scoris7 Ghanith8 Dhula8 Lhusik9 Fheltoir9 Rheska10 Porthia10 Vatraya
+---
+### Daughters of Khaine Origins
+**Type:** misc
+D6 Origin1 Gladiatrixes: Your warband fought in the bloody fighting pits of Khainite citadels.2 Blades of the High Oracle: When Morathi desired the subtle elimination of a foe, she sent for your warband.3 Relic Seekers: Your warband has travelled the realms in search of lost Khainite relics.4 Shadow Stalkers: Your warband slip through the night like shadows, ambushing their foes.5 Zealots: Your warriors are particularly zealous adherents of Khaine's murderous creed.6 Masters of Illusion: Your warband utilise deception and trickery to outwit their foes.
+---
+### Daughters of Khaine Leader Background
+**Type:** misc
+D6 Background1 Trusted Hand: This warrior claims to have the ear of Lady Morathi herself.2 Sadistic Killer: This warrior aims to slay her foes in the most agonising manner possible.3 Murderous Voices: This warrior cannot quieten the whispers in her head that urge her to kill and maim.4 Taunting Duellist: This warrior uses insults and taunts to lure her opponent into a mistake.5 Ambitious: This warrior seeks to rise ever higher in the Khainite faith.6 Bewitching: This warrior is possessed of a haunting, hypnotising grace.
 ---
 
 ## The Shattered City of Athenheim

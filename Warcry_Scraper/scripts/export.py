@@ -207,16 +207,58 @@ def write_markdown(chat_path: Path, documents: List[Dict[str, Any]]) -> None:
 def _is_campaign_content(doc: Dict[str, Any]) -> bool:
     """Check if a document is campaign-related content by keyword matching.
     
-    Returns True if section_title or content contains campaign keywords:
-    encampment, aftermath, quest, artefact, injury, glory, renown, campaign
+    Returns True if section_title, page_title, or content contains campaign keywords,
+    or if the document is from a named scenario page.
+    
+    Campaign keywords: quest, background table, aftermath, campaign, lord of the tower,
+    campaign arc, glory, renown, roster, encampment, artefact, injury
     """
     section_title = doc.get("section_title", "").lower()
+    page_title = doc.get("page_title", "").lower()
     content = doc.get("content", "").lower()
     
-    campaign_keywords = ["encampment", "aftermath", "quest", "artefact", "injury", "glory", "renown", "campaign"]
+    campaign_keywords = [
+        "quest", "background table", "aftermath", "campaign", "lord of the tower",
+        "campaign arc", "glory", "renown", "roster", "encampment", "artefact", "injury"
+    ]
     
     for keyword in campaign_keywords:
-        if keyword in section_title or keyword in content:
+        if keyword in section_title or keyword in page_title or keyword in content:
+            return True
+    
+    # Check if this is a named scenario
+    scenario_names = [
+        "Bloodbaths and Brewgits", "The Grot Purge", "The Royal Hunt", "A Grave Mistake",
+        "Thieves in the Night", "Blades in the Darkness", "Thick As Thieves",
+        "The Varanite Harvest", "Vault Guardians", "The Rat Hunters", "No Duardin Left Behind",
+        "The Forlorn Hope", "The Purge of Anvilgard", "Clash of Might", "The Depths of Sylontum",
+        "The Trail of Fire", "Realmshaper Wars", "The Fell Alliance", "The Path of Ven Talax",
+        "The Chotec Valley", "War of the Morruk Hills", "The Fall of Lord Valgar",
+        "Death Comes Calling", "Trial of the Five Blades", "The Big Carngrad Bash", "Krushed",
+        "Gargantuan Carnage", "A Right Old Mess", "Caged Lightning", "Picking Your Poison",
+        "Camp Raid", "There Can Be Only One", "A Fool's Trove In Ulfenkarn",
+        "Primal Strongholds", "Triumph & Treachery", "Coalition of Death",
+        "Warcry Rumble Pack", "Challenge Battles"
+    ]
+    
+    for scenario in scenario_names:
+        if scenario.lower() == page_title:
+            return True
+    
+    return False
+
+
+def _should_drop_document(doc: Dict[str, Any]) -> bool:
+    """Check if a document should be dropped entirely from all output files.
+    
+    Returns True if page_title matches pages that should not be included in any output.
+    Dropped pages: Community Resources, Getting Started, Warcry Releases
+    """
+    page_title = doc.get("page_title", "").lower()
+    drop_pages = ["community resources", "getting started", "warcry releases"]
+    
+    for drop_page in drop_pages:
+        if drop_page == page_title:
             return True
     
     return False
@@ -231,15 +273,19 @@ def _is_release_content(doc: Dict[str, Any]) -> bool:
     return "warcry releases" in page_title
 
 
+
 def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> List[str]:
     """Write documents split into multiple files by type and faction.
     
     Routes documents to:
     - output/warcry_rules.md for core gameplay rules, battleplans, and misc content
-    - output/warcry_campaign.md for campaign-related content
+    - output/warcry_campaign.md for campaign-related content (scenarios, quests, etc.)
     - output/warcry_releases.md for version release history
     - output/warcry_abilities.md for type "ability"
     - output/factions/<faction_slug>.md for type "fighter_profile"
+    
+    Drops entirely (does not write to any file):
+    - Documents from pages: Community Resources, Getting Started, Warcry Releases
     
     Returns a list of file paths written (relative to output_dir).
     """
@@ -256,6 +302,10 @@ def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> L
     faction_docs = defaultdict(list)  # fighter_profile grouped by faction slug
     
     for doc in documents:
+        # Skip documents from pages that should be dropped entirely
+        if _should_drop_document(doc):
+            continue
+        
         doc_type = doc.get("type", "misc")
         
         if doc_type == "skip":
