@@ -108,7 +108,7 @@ def enhance_documents(documents: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     
     enhanced = []
     for page_title, page_docs in pages.items():
-        current_trait = "fighters"  # default
+        current_trait = "Minion"  # default
         for doc in page_docs:
             doc_copy = doc.copy()
             doc_type = classify_document(doc)
@@ -120,15 +120,13 @@ def enhance_documents(documents: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
             # Update current_trait based on section headers
             section_lower = doc["section_title"].lower()
             if section_lower in ["heroes", "hero"]:
-                current_trait = "hero"
-            elif section_lower in ["fighters", "fighter"]:
-                current_trait = "fighters"
-            elif section_lower in ["monsters", "monster"]:
-                current_trait = "monsters"
+                current_trait = "Hero"
+            elif section_lower in ["fighters", "fighter", "monsters", "monster"]:
+                current_trait = "Minion"
 
             if doc_type == "fighter_profile":
                 fighter_stats = parse_fighter_stats(doc["content"], doc.get("section_title", ""), doc.get("page_title", ""))
-                fighter_stats["fighter_trait"] = current_trait  # override with current_trait
+                fighter_stats["role"] = current_trait  # override with current_trait
                 doc_copy["fighter_stats"] = fighter_stats
 
             enhanced.append(doc_copy)
@@ -157,8 +155,8 @@ def write_markdown(chat_path: Path, documents: List[Dict[str, Any]]) -> None:
                 stats = doc["fighter_stats"]
                 output_lines.append(
                     f"**Points:** {stats.get('points','N/A')} | "
+                    f"**Role:** {stats.get('role','N/A')} | "
                     f"**Faction:** {stats.get('faction','N/A')} | "
-                    f"**Trait:** {stats.get('fighter_trait','N/A')} | "
                     f"**Move:** {stats.get('move','N/A')} | "
                     f"**Toughness:** {stats.get('toughness','N/A')} | "
                     f"**Wounds:** {stats.get('wounds','N/A')}"
@@ -201,7 +199,7 @@ def write_text(chat_path: Path, documents: List[Dict[str, Any]]) -> None:
 
             if doc_type == "fighter_profile" and "fighter_stats" in doc:
                 stats = doc["fighter_stats"]
-                output_lines.append(f"Fighter Trait: {stats.get('fighter_trait', 'fighters')}")
+                output_lines.append(f"Role: {stats.get('role', 'Minion')}")
                 output_lines.append(f"Points: {stats.get('points', 'N/A')}")
                 output_lines.append(f"Faction: {stats.get('faction', 'N/A')}")
                 output_lines.append(f"Move: {stats.get('move', 'N/A')}")
