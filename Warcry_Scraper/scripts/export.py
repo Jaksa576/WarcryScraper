@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export Scrapy crawl output to a single Markdown file for ChatGPT."""
+"""Export Scrapy crawl output to multiple Markdown files organized by type and faction."""
 
 import argparse
 import json
@@ -13,13 +13,36 @@ sys.path.insert(0, str(Path(__file__).parent))
 from search import build_documents
 
 
+def slugify(text: str) -> str:
+    """Convert text to a safe filename slug.
+    
+    Converts to lowercase, replaces spaces and special characters (colons, hyphens, apostrophes)
+    with underscores, and strips any double underscores.
+    
+    Example: "Cities of Sigmar: Castelite Hosts" → "cities_of_sigmar_castelite_hosts"
+    """
+    # Convert to lowercase
+    slug = text.lower()
+    # Replace colons, hyphens, and apostrophes with underscores
+    slug = re.sub(r"[:'\-]", "_", slug)
+    # Replace spaces with underscores
+    slug = slug.replace(" ", "_")
+    # Remove any double underscores
+    slug = re.sub(r"_+", "_", slug)
+    # Strip leading/trailing underscores
+    slug = slug.strip("_")
+    return slug
+
+
 def classify_document(doc: Dict[str, Any]) -> str:
     """Classify a document by type."""
     content = doc.get("content", "")
     url = doc.get("url", "")
     section_title = doc.get("section_title", "")
 
-    # Skip generic section headers
+    # Skip generic section headers. These are structural headers (Heroes, Fighters, Monsters)
+    # used for tracking the current role in enhance_documents() as it iterates through pages
+    # in order. They are intentionally excluded from output.
     if section_title.lower() in ['heroes', 'fighters', 'monsters', 'hero', 'fighter', 'monster', 'fighter profiles', 'fighter profile']:
         return "skip"
 
@@ -181,51 +204,116 @@ def write_markdown(chat_path: Path, documents: List[Dict[str, Any]]) -> None:
     chat_path.write_text("\n".join(output_lines).rstrip() + "\n", encoding="utf-8")
 
 
-def write_text(chat_path: Path, documents: List[Dict[str, Any]]) -> None:
-    """Write documents to a plain text file."""
+def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> List[str]:
+    """Write documents split into multiple files by type and faction.
+    
+    Routes documents to:
+    - output/warcry_rules.md for type "rule", "misc", or "battleplan"
+    - output/warcry_abilities.md for type "ability"
+    - output/factions/<faction_slug>.md for type "fighter_profile"
+    
+    Returns a list of file paths written (relative to output_dir).
+    """
+    # Create output directory structure
+    output_dir.mkdir(parents=True, exist_ok=True)
+    factions_dir = output_dir / "factions"
+    factions_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Organize documents by output file
+    rules_docs = []  # misc, rule, battleplan
+    abilities_docs = []  # ability
+    faction_docs = defaultdict(list)  # fighter_profile grouped by faction slug
+    
+    for doc in documents:
+        doc_type = doc.get("type", "misc")
+        
+        if doc_type == "skip":
+            continue
+        elif doc_type in ["misc", "rule", "battleplan"]:
+            rules_docs.append(doc)
+        elif doc_type == "ability":
+            abilities_docs.append(doc)
+        elif doc_type == "fighter_profile" and "fighter_stats" in doc:
+            faction = doc["fighter_stats"].get("faction", "Unknown")
+            faction_slug = slugify(faction)
+            faction_docs[faction_slug].append(doc)
+    
+    written_files = []
+    
+    # Write rules file
+    if rules_docs:
+        rules_path = output_dir / "warcry_rules.md"
+        _write_markdown_file(rules_path, rules_docs, "Warcry Rules")
+        written_files.append(str(rules_path.relative_to(output_dir.parent)))
+    
+    # Write abilities file
+    if abilities_docs:
+        abilities_path = output_dir / "warcry_abilities.md"
+        _write_markdown_file(abilities_path, abilities_docs, "Warcry Abilities")
+        written_files.append(str(abilities_path.relative_to(output_dir.parent)))
+    
+    # Write faction files
+    for faction_slug, docs in sorted(faction_docs.items()):
+        faction_path = factions_dir / f"{faction_slug}.md"
+        # Reconstruct faction name from first document for header
+        faction_name = docs[0]["fighter_stats"].get("faction", faction_slug)
+        _write_markdown_file(faction_path, docs, f"Warcry - {faction_name}")
+        written_files.append(str(faction_path.relative_to(output_dir.parent)))
+    
+    return written_files
+
+
+def _write_markdown_file(file_path: Path, documents: List[Dict[str, Any]], title: str) -> None:
+    """Helper function to write documents to a markdown file with consistent formatting."""
     pages = defaultdict(list)
     for doc in documents:
         pages[doc["page_title"]].append(doc)
-
-    output_lines = ["Warcry Chat Ready", "", "===", ""]
+    
+    output_lines = [f"# {title}", "", "---", ""]
     for page_title, docs in pages.items():
-        output_lines.append(f"{page_title.upper()}")
+        output_lines.append(f"## {page_title}")
         output_lines.append("")
         for doc in docs:
             section_title = doc.get("section_title", "")
             doc_type = doc.get("type", "misc")
             if doc_type == "skip":
                 continue
-            output_lines.append(f"{section_title}")
-            output_lines.append(f"Type: {doc_type}")
-
+            output_lines.append(f"### {section_title}")
+            output_lines.append(f"**Type:** {doc_type}")
+            
             if doc_type == "fighter_profile" and "fighter_stats" in doc:
                 stats = doc["fighter_stats"]
-                output_lines.append(f"Role: {stats.get('role', 'Fighter')}")
-                output_lines.append(f"Points: {stats.get('points', 'N/A')}")
-                output_lines.append(f"Faction: {stats.get('faction', 'N/A')}")
-                output_lines.append(f"Move: {stats.get('move', 'N/A')}")
-                output_lines.append(f"Toughness: {stats.get('toughness', 'N/A')}")
-                output_lines.append(f"Wounds: {stats.get('wounds', 'N/A')}")
-                output_lines.append("Weapons:")
+                output_lines.append(
+                    f"**Points:** {stats.get('points','N/A')} | "
+                    f"**Role:** {stats.get('role','N/A')} | "
+                    f"**Faction:** {stats.get('faction','N/A')} | "
+                    f"**Move:** {stats.get('move','N/A')} | "
+                    f"**Toughness:** {stats.get('toughness','N/A')} | "
+                    f"**Wounds:** {stats.get('wounds','N/A')}"
+                )
+                output_lines.append("")
+                output_lines.append("| Weapon | Range | Attacks | Strength | Damage |")
+                output_lines.append("|--------|-------|---------|----------|--------|")
                 for weapon in stats.get("weapons", []):
-                    output_lines.append(f"- {weapon['name']}: Range {weapon['range']}, Attacks {weapon['attacks']}, Strength {weapon['strength']}, Damage {weapon['damage_normal']}/{weapon['damage_crit']}")
+                    output_lines.append(
+                        f"| {weapon['name']} | {weapon['range']} | {weapon['attacks']} | {weapon['strength']} | {weapon['damage_normal']}/{weapon['damage_crit']} |"
+                    )
             else:
                 content = doc.get("content", "").strip()
                 if content:
                     output_lines.append(content)
-
-            output_lines.append("===")
+            
+            output_lines.append("---")
         output_lines.append("")
+    
+    file_path.write_text("\n".join(output_lines).rstrip() + "\n", encoding="utf-8")
 
-    text_content = "\n".join(output_lines).rstrip() + "\n"
-    chat_path.write_text(text_content, encoding="utf-8")
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Export Warcry crawl to a single Markdown file for ChatGPT")
+    parser = argparse.ArgumentParser(description="Export Warcry crawl to split Markdown files organized by type and faction")
     parser.add_argument("--input", "-i", default="warcry_scrapy_full.json", help="input JSON crawl file")
-    parser.add_argument("--chat-ready", default="warcry_chat_ready.txt", help="output ChatGPT-friendly file")
+    parser.add_argument("--output-dir", "-o", default="output", help="output directory for split markdown files (default: output)")
     args = parser.parse_args()
 
     path = Path(args.input)
@@ -240,25 +328,22 @@ def main() -> None:
     print(f"Built {len(documents)} searchable documents")
 
     # Enhance documents with type and fighter_stats
+    # Note: This processes documents in their original page order before any splitting occurs,
+    # preserving role tracking for the enhance_documents() function.
     enhanced_documents = enhance_documents(documents)
     print(f"Enhanced {len(enhanced_documents)} documents with types and stats")
 
-    # Write Markdown format (both .txt and .md)
-    chat_path = Path(args.chat_ready)
-    write_markdown(chat_path, enhanced_documents)
-    print(f"Wrote Markdown format to {chat_path}")
+    # Write split markdown files
+    output_dir = Path(args.output_dir)
+    written_files = write_split_markdown(output_dir, enhanced_documents)
     
-    # Also output as .md file
-    md_path = Path(str(chat_path).replace(".txt", ".md"))
-    write_markdown(md_path, enhanced_documents)
-    print(f"Wrote Markdown format to {md_path}")
+    # Print summary
+    print(f"\nSummary: Created {len(written_files)} output file(s):")
+    for file_path in sorted(written_files):
+        print(f"  - {file_path}")
     
-    # Write text format
-    text_path = Path(str(chat_path).replace(".txt", "_text.txt"))
-    write_text(text_path, enhanced_documents)
-    print(f"Wrote text format to {text_path}")
-
     print("Done!")
+
 
 
 if __name__ == "__main__":
