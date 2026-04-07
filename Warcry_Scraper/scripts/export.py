@@ -274,7 +274,14 @@ def _is_release_content(doc: Dict[str, Any]) -> bool:
 
 
 
-def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> List[str]:
+def write_combined_fighters_markdown(output_dir: Path, fighter_docs: List[Dict[str, Any]]) -> str:
+    """Write all fighter_profile documents into a single output/warcry_fighters.md file."""
+    fighters_path = output_dir / "warcry_fighters.md"
+    _write_markdown_file(fighters_path, fighter_docs, "Warcry Fighters")
+    return str(fighters_path.relative_to(output_dir.parent))
+
+
+def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]], combined_fighters: bool = False) -> List[str]:
     """Write documents split into multiple files by type and faction.
     
     Routes documents to:
@@ -282,7 +289,8 @@ def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> L
     - output/warcry_campaign.md for campaign-related content (scenarios, quests, etc.)
     - output/warcry_releases.md for version release history
     - output/warcry_abilities.md for type "ability"
-    - output/factions/<faction_slug>.md for type "fighter_profile"
+    - output/factions/<faction_slug>.md for type "fighter_profile" (if not combined_fighters)
+    - output/warcry_fighters.md for all fighter_profile (if combined_fighters)
     
     Drops entirely (does not write to any file):
     - Documents from pages: Community Resources, Getting Started, Warcry Releases
@@ -291,8 +299,9 @@ def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> L
     """
     # Create output directory structure
     output_dir.mkdir(parents=True, exist_ok=True)
-    factions_dir = output_dir / "factions"
-    factions_dir.mkdir(parents=True, exist_ok=True)
+    if not combined_fighters:
+        factions_dir = output_dir / "factions"
+        factions_dir.mkdir(parents=True, exist_ok=True)
     
     # Organize documents by output file
     core_rules_docs = []  # core gameplay rules
@@ -351,13 +360,21 @@ def write_split_markdown(output_dir: Path, documents: List[Dict[str, Any]]) -> L
         _write_markdown_file(abilities_path, abilities_docs, "Warcry Abilities")
         written_files.append(str(abilities_path.relative_to(output_dir.parent)))
     
-    # Write faction files
-    for faction_slug, docs in sorted(faction_docs.items()):
-        faction_path = factions_dir / f"{faction_slug}.md"
-        # Reconstruct faction name from first document for header
-        faction_name = docs[0]["fighter_stats"].get("faction", faction_slug)
-        _write_markdown_file(faction_path, docs, f"Warcry - {faction_name}")
-        written_files.append(str(faction_path.relative_to(output_dir.parent)))
+    # Write fighter files
+    if combined_fighters:
+        all_fighter_docs = []
+        for docs in faction_docs.values():
+            all_fighter_docs.extend(docs)
+        if all_fighter_docs:
+            written_files.append(write_combined_fighters_markdown(output_dir, all_fighter_docs))
+    else:
+        # Write faction files
+        for faction_slug, docs in sorted(faction_docs.items()):
+            faction_path = factions_dir / f"{faction_slug}.md"
+            # Reconstruct faction name from first document for header
+            faction_name = docs[0]["fighter_stats"].get("faction", faction_slug)
+            _write_markdown_file(faction_path, docs, f"Warcry - {faction_name}")
+            written_files.append(str(faction_path.relative_to(output_dir.parent)))
     
     return written_files
 
@@ -413,6 +430,8 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Export Warcry crawl to split Markdown files organized by type and faction")
     parser.add_argument("--input", "-i", default="warcry_scrapy_full.json", help="input JSON crawl file")
     parser.add_argument("--output-dir", "-o", default="output", help="output directory for split markdown files (default: output)")
+    parser.add_argument("--combined-fighters", action="store_true", default=True, help="combine all fighter profiles into a single file instead of per-faction files")
+    parser.add_argument("--no-combined-fighters", action="store_false", dest="combined_fighters", help="split fighter profiles into per-faction files")
     args = parser.parse_args()
 
     path = Path(args.input)
@@ -434,7 +453,7 @@ def main() -> None:
 
     # Write split markdown files
     output_dir = Path(args.output_dir)
-    written_files = write_split_markdown(output_dir, enhanced_documents)
+    written_files = write_split_markdown(output_dir, enhanced_documents, args.combined_fighters)
     
     # Print summary
     print(f"\nSummary: Created {len(written_files)} output file(s):")
